@@ -1,0 +1,55 @@
+  {"AI Services": {
+    "AI Art Generation": [
+      "AI Art Generation",
+      "AI Art Customization",
+      "AI Art Style Transfer"
+    ],
+    "AI Content Generation": [
+      "AI Text Generation",
+      "AI Image Generation",
+      "AI Video Generation"
+    ],
+    "AI Chatbots": [
+      "Custom Chatbot Development",
+      "Chatbot Integration",
+      "Chatbot Training"
+    ],
+    "AI Data Analysis": [
+      "Predictive Analytics",
+      "Data Visualization",
+      "Natural Language Processing"
+    ],
+    "AI Automation": [
+      "Workflow Automation",
+      "Task Automation",
+      "Process Automation"
+    ],
+    "Other AI Services": []
+  },
+  "Consulting": {
+    "Business Consulting": [
+      "Business Strategy",
+      "Marketing Strategy",
+      "Financial Consulting",
+      "Operations Consulting"
+    ],
+    "IT Consulting": [
+      "IT Strategy",
+      "Cybersecurity Consulting",
+      "Cloud Computing Consulting",
+      "Software Development Consulting"
+    ],
+    "HR Consulting": [
+      "HR Strategy",
+      "Talent Acquisition",
+      "Employee Engagement",
+      "Performance Management"
+    ],
+    "Legal Consulting": [
+      "Contract Review",
+      "Compliance Consulting",
+      "Intellectual Property Consulting"
+    ],
+    "Other": []
+  }
+}
