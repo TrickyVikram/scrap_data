@@ -1,1666 +1,1662 @@
 {
   "Graphics & Design": {
-    "Logo Design": []
-      "Minimalist Logo Design",
-      "Vintage Logo Design",
-      "3D Logo Design",
-      "Mascot Logo Design",
-      "Signature Logo Design",
-      "Modern Logo Design",
-      "Retro Logo Design",
-      "Text Logo Design",
-      "Feminine Logo Design"
-    ],
-    "Brand Style Guides": [
-      "Brand Guidelines",
-      "Brand Identity Design",
-      "Brand Strategy & Positioning",
-      "Brand Naming"
-    ],
-    "Game Art": [
-      "Character Design",
-      "Props & Objects",
-      "Backgrounds & Environments",
-      "UI & UX"
-    ],
-    "Graphics for Streamers": [
-      "Overlays & Alerts",
-      "Panels & Banners",
-      "Emotes & Badges",
-      "Stream Packages"
-    ],
-    "Business Cards & Stationery": [
-      "Business Card Design",
-      "Stationery Design",
-      "Letterhead Design",
-      "Envelope Design"
-    ],
-    "Website Design": [
-      "Website UI/UX Design",
-      "Website Builders Design"
-    ],
-    "App Design": [
-      "Mobile App UI/UX Design",
-      "Web App UI/UX Design",
-      "App Store Screenshots"
-    ],
-    "UX Design": [
-      "User Experience Design",
-      "User Interface Design",
-      "Wireframes & Prototypes",
-      "Usability Testing"
-    ],
-    "Landing Page Design": [
-      "Landing Page UI/UX Design",
-      "Landing Page Builders Design"
-
-    ],
-    "Resume Design": [
-      "Resume Design",
-      "Cover Letter Design",
-      "LinkedIn Profile Design"
-    ],
-    "Illustration": [
-      "Vector Illustration",
-      "Digital Illustration",
-      "Children’s Book Illustration",
-      "Line Art & Ink Drawing",
-      "Cartoon & Comic Style",
-      "Realistic Illustration",
-      "Character Design & Concept Art",
-      "Portrait Illustration"
-    ],
-    "Children’s Book Illustration": [
-      "Children’s Book Cover Design",
-      "Children’s Book Layout Design",
-      "Children’s Book Character Design"
-    ],
-    "AI Artists": [
-      "Image Generation",
-      "Custom Image Prompts",
-      "ComfyUI Workflow Creation"
-    ],
-    "AI Avatar Design": [
-      "AI Avatar Generation",
-      "AI Avatar Customization",
-      "AI Avatar Style Transfer"
-    ],
-    "NFT Art": [
-      "NFT Collection Design",
-      "NFT Character Design",
-      "NFT Animation & Motion Graphics",
-      "NFT Game Assets"
-    ],
-    "Pattern Design": [
-      "Surface Pattern Design",
-      "Textile Pattern Design",
-      "Seamless Pattern Design",
-      "Pattern Illustration"
-    ],
-    "Fonts & Typography": [
-      "Font Design",
-      "Typography",
-      "Hand Lettering",
-      "Calligraphy"
-    ],
-    "Poster Design": [
-      "Movie Poster Design",
-      "Event Poster Design",
-      "Promotional Poster Design",
-      "Art Prints & Wall Art"
-    ],
-    "Brochure Design": [
-      "Tri-Fold Brochure Design",
-      "Bi-Fold Brochure Design",
-      "Booklet Design",
-      "Flyer & Leaflet Design"
-    ],
-    "Flyer Design": [
-      "Event Flyer Design",
-      "Promotional Flyer Design",
-      "Digital Flyer Design",
-      "Social Media Flyer Design"
-    ],
-    "Book Design": [
-      "Book Layout Design & Typesetting",
-      "Book Cover Design"
-    ],
-    "Album Cover Design": [
-      "Music Album Cover Design",
-      "Podcast Cover Design",
-      "Vinyl & CD Cover Design",
-      "Digital Album Art"
-    ],
-    "Podcast Cover Art": [
-      "Podcast Cover Design",
-      "Podcast Episode Artwork",
-      "Podcast Branding"
-    ],
-    "Packaging & Label Design": [
-      "Packaging Design",
-      "Label Design",
-      "Dieline Design"
-    ],
-    "Storyboards": [
-      "Storyboard Art",
-      "Animatics",
-      "Comic Book Storyboarding"
-    ],
-    "Social Media Design": [
-      "Headers & Covers",
-      "Social Posts & Banners",
-      "Thumbnails Design",
-      "AR Filters & Lenses"
-    ],
-    "Catalog Design": [
-      "Product Catalog Design",
-      "Digital Catalog Design",
-      "Print Catalog Design"
-    ],
-    "Menu Design": [
-      "Restaurant Menu Design",
-      "Digital Menu Design",
-      "Takeout & Delivery Menu Design"
-    ],
-    "Invitation Design": [
-      "Wedding Invitations",
-      "Event Invitations",
-      "Digital Invitations",
-      "Save the Date Cards"
-    ],
-    "Portraits & Caricatures": [
-      "Digital Portraits",
-      "Caricature Art",
-      "Custom Portraits",
-      "Family Portraits"
-    ],
-    "Cartoons & Comics": [
-      "Comic Book Art",
-      "Cartoon Illustrations",
-      "Webcomics",
-      "Character Design"
-    ],
-    "Tattoo Design": [
-      "Tattoo Illustrations",
-      "Tattoo Flash Sheets",
-      "Custom Tattoo Designs",
-      "Tattoo Cover-Ups"
-    ],
-    "Signage Design": [
-      "Outdoor Signage Design",
-      "Indoor Signage Design",
-      "Wayfinding Signage Design",
-      "Event Signage Design"
-    ],
-    "Web Banners": [
-      "Static Web Banners",
-      "Animated Web Banners",
-      "Retargeting Banners",
-      "Social Media Banners"
-    ],
-    "Image Editing": [
-      "Product Image Editing",
-      "Photo Manipulation",
-      "Portraits Retouching",
-      "Photo Restoration",
-      "Mockups"
-    ],
-    "AI Image Editing": [
-      "AI Image Enhancement",
-      "AI Image Restoration",
-      "AI Image Retouching",
-      "AI Image Colorization",
-      "AI Image Background Removal",
-      "AI Image Upscaling",
-      "AI Image Style Transfer",
-      "AI Image Inpainting"
-    ],
-    "Architecture & Interior Design": [
-      "Mood Boards",
-      "Architectural Graphics",
-      "Virtual Staging",
-      "Architectural Planning",
-      "Interior Design",
-      "3D Modeling & Rendering",
-      "2D Drawings & Floor Plans"
-    ],
-    "Landscape Design": [
-      "Planning & Design",
-      "3D Modeling & Rendering",
-      "2D Drawings & Site Plans"
-    ],
-    "Building Engineering": [
-      "HVAC",
-      "Electrical Engineering",
-      "Plumbing & Drainage",
-      "Civil & Structural",
-      "Material Takeoff & Cost Estimation",
-      "Solar PV System Design"
-    ],
-    "Building Information Modeling": [
-      "BIM 4D Construction Simulation",
-      "BIM Online Training & Implementation",
-      "BIM Family Creation",
-      "BIM Coordination & Clash Detection",
-      "BIM 3D Modeling"
-    ],
-    "Lighting Design": [
-      "Lighting Design & Analysis",
-      "Lighting Calculations",
-      "Lighting Control Systems",
-      "Lighting Design for Events"
-    ],
-    "Character Modeling": [
-      "3D Character Modeling",
-      "2D Character Design",
-      "Character Rigging & Animation",
-      "Character Texturing & Shading"
-    ],
-    "Industrial & Product Design": [
-      "Concept Development",
-      "3D Modeling & Rendering",
-      "Rapid Prototyping",
-      "Design for Manufacturing",
-      "Technical Drawing",
-      "Full Design Process"
-    ],
-    "Trade Booth Design": [
-      "Trade Show Booth Design",
-      "Exhibition Stand Design",
-      "Pop-Up Shop Design",
-      "Event Space Design"
-    ],
-    "T-Shirts & Merchandise": [
-      "T-Shirt Design",
-      "Merchandise Design",
-      "Apparel Graphics",
-      "Print on Demand Designs"
-    ],
-    "Fashion Design": [
-      "Technical Drawing & Tech Pack",
-      "Pattern Making",
-      "Fashion Illustration",
-      "3D Garment Design",
-      "Full Design Process"
-    ],
-    "Jewelry Design": [
-      "3D Modeling & Rendering",
-      "Concept Design & Sketching"
-    ],
-    "Presentation Design": [
-      "Pitch Deck Design",
-      "Business Presentation Design",
-      "Infographic Presentations",
-      "Interactive Presentations"
-    ],
-    "Email Design": [
-      "Email Templates",
-      "Email Campaign Design",
-      "Newsletter Design",
-      "Email Signature Design"
-    ],
-    "Icon Design": [
-      "Flat Icons",
-      "3D Icons",
-      "Line Icons",
-      "Custom Icons"
-    ],
-    "Infographic Design": [
-      "Data Visualization",
-      "Process Infographics",
-      "Timeline Infographics",
-      "Comparison Infographics"
-    ],
-    "Car Wraps": [
-      "Car Wrap Design",
-      "Vehicle Graphics",
-      "Fleet Graphics",
-      "Custom Car Decals"
-    ],
-    "Vector Tracing": [
-      "Vector Tracing & Conversion",
-      "Vectorization of Images",
-      "Vector Logo Design",
-      "Vector Illustration"
-    ],
-    "NSFW Art": [
-      "Adult Illustrations",
-      "Adult Comics",
-      "Adult Character Design",
-      "Adult Portraits"
-    ],
-    "Design Advice": [
-      "Design Review & Consultation",
-      "Design Mentorship",
-      "Design Lessons"
-    ],
-    "Other": [
-      "Custom Design Projects",
-      "Design Research & Analysis",
-      "Design Workshops & Training"
-    ]
-  }
-  ,
-  "Writing & Translation": {
-    "Articles & Blog Posts": [
-      "SEO Writing",
-      "Promotional Articles",
-      "Lifestyle Blogs",
-      "Professional Industry Articles",
-      "Informative & Educational Articles",
-      "Bulk Articles"
-    ],
-    "Proofreading & Editing": [
-      "AI Content Editing",
-      "Proofreading",
-      "Copy Editing",
-      "Review & Rewrite",
-      "Citation & Formatting"
-    ],
-    "Translation": [
-      "English to Other Languages",
-      "Other Languages to English",
-      "Other Languages to Other Languages",
-      "Subtitles Translation",
-      "Website Translation"
-    ],
-    "Website Content": [
-      "Website Copywriting",
-      "Landing Page Content",
-      "Product Descriptions",
-      "Service Descriptions",
-      "About Us Pages"
-    ],
-    "Product Descriptions": [
-      "SEO Product Descriptions",
-      "Creative Product Descriptions",
-      "Technical Product Descriptions",
-      "E-Commerce Product Descriptions"
-    ],
-    "Book & eBook Writing": [
-      "Kindle Niche Research",
-      "Short Stories",
-      "Book Proposals",
-      "Book Blurbs",
-      "Ghostwriting"
-    ],
-    "Book Editing": [
-      "Book Proofreading",
-      "Book Formatting",
-      "Book Cover Design",
-      "Book Marketing"
-    ],
-    "Resume Writing": [
-      "Resume Writing",
-      "CV Writing",
-      "LinkedIn Profile Writing",
-      "Cover Letter Writing"
-    ],
-    "Brand Voice & Tone": [
-      "Brand Voice Development",
-      "Brand Tone Guidelines",
-      "Brand Messaging Framework"
-    ],
-    "UX Writing": [
-      "Microcopy",
-      "User Interface Text",
-      "Onboarding Copy",
-      "Error Messages"
-    ],
-    "Email Copy": [
-      "Email Newsletters",
-      "Email Campaigns",
-      "Email Automation Sequences",
-      "Cold Emails"
-    ],
-    "Technical Writing": [
-      "Technical Documentation",
-      "User Manuals",
-      "API Documentation",
-      "Software Documentation"
-    ],
-    "Custom Writing Prompts": [
-      "Technical Writing Prompts",
-      "Copywriting Prompts",
-      "Creative Writing Prompts",
-      "Blogging & Content Prompts"
-    ],
-    "Content Strategy": [
-      "Content Planning",
-      "Content Calendar Creation",
-      "Content Audit & Analysis",
-      "Content Distribution Strategy"
-    ],
-    "Localization": [ 
-      "Website Localization",
-      "App Localization",
-      "Software Localization",
-      "Game Localization"
-    ],
-    "White Papers": [
-      "Technical White Papers",
-      "Business White Papers",
-      "Research White Papers",
-      "Marketing White Papers"
-    ],
-    "Sales Copy": [
-      "Sales Pages",
-      "Sales Funnels",
-      "Email Sales Copy",
-      "Landing Page Sales Copy"
-    ],
-    "Social Media Copywriting": [
-      "Social Media Posts & Captions",
-      "Social Media Video Scripts",
-      "Social Media Long Posts & Articles",
-      "Social Media Bios"
-    ],
-    "Podcast Writing": [
-      "Podcast Content",
-      "Podcast Show Notes"
-    ],
-    "Ad Copy": [
-      "Google Ads Copy",
-      "Facebook Ads Copy",
-      "Instagram Ads Copy",
-      "LinkedIn Ads Copy"
-    ],
-    "Cover Letters": [
-      "Job Application Cover Letters",
-      "Business Cover Letters",
-      "Personal Cover Letters"
-    ],
-    "Press Releases": [
-      "Press Release Writing",
-      "Press Release Distribution",
-      "Press Release Translation"
-    ],
-    "Case Studies": [
-      "Case Study Writing",
-      "Case Study Design",
-      "Case Study Research"
-    ],
-    "LinkedIn Profiles": [
-      "LinkedIn Profile Optimization",
-      "LinkedIn Profile Writing",
-      "LinkedIn Profile Design"
-    ],
-    "Job Descriptions": [
-      "Job Description Writing",
-      "Job Description Templates",
-      "Job Description Optimization"
-    ],
-    "Creative Writing": [
-      "Game Writing",
-      "Poetry",
-      "Song Lyrics",
-      "Letters"
-    ],
-    "Beta Reading": [],
-    "Scriptwriting": [
-      "Other Scriptwriting",
-      "Consultation",
-      "Webinars",
-      "Cold Calls",
-      "Audio Ads",
-      "Script Coverage",
-      "Film & TV Screenplays",
-      "Chatbot Conversation Scripts",
-      "Video Scripts"
-    ],
-    "Business Names & Slogans": [],
-    "eLearning Content Development": [],
-    "Speechwriting": [
-      "Motivational Speeches",
-      "Academic Speeches",
-      "Political Speeches",
-      "Business Speeches",
-      "Event Speeches"
-    ],
-    "Grant Writing": [
-      "Grant Research",
-      "Grant Proposals"
-    ],
-    "Transcription": [],
-    "Research & Summaries": [],
-    "Other": [],
-    "Writing Advice": [
-      "Writing Mentorship",
-      "Writing Lessons"
-    ],
-    "Interpretation": [],
-    "Handwriting": [
-      "Letters & Notes",
-      "Invitations & Cards",
-      "Personalized Handwriting",
-      "Academic Handwriting"
-    ]
-  },
-  "Video & Animation": {
-    "Animated Explainers": [
-      "2D Animated Explainers",
-      "3D Animated Explainers",
-      "Isometric Explainers",
-      "Whiteboard Animation"
-    ],
-    "Video Editing": [],
-    "Video Ads & Commercials": [],
-    "Animated GIFs": [],
-    "Logo Animation": [],
-    "UGC Videos": [
-      "UGC Ads",
-      "Organic UGC",
-      "UGC Bundles"
-    ],
-    "Intro & Outro Videos": [],
-    "Character Animation": [],
-    "3D Product Animation": [],
-    "Social Media Videos": [],
-    "Music Videos": [
-      "Lyric Videos",
-      "Music Visualization",
-      "Dance Videos",
-      "Narrative-Based Videos",
-      "Performance Videos",
-      "Conceptual Videos",
-      "Anime Music Videos",
-      "Spotify Canvas"
-    ],
-    "Animation for Kids": [],
-    "Video Art": [
-      "Experimental Video Art",
-      "AI Video Art",
-      "Image Animation",
-      "Video Installations"
-    ],
-    "Text Animation": [],
-    "Animation for Streamers": [],
-    "Live Action Explainers": [],
-    "Filmed Video Production": [],
-    "Videographers": [],
-    "E-Commerce Product Videos": [],
-    "Spokespersons Videos": [],
-    "Subtitles & Captions": [
-      "Subtitles",
-      "Social Media Captions"
-    ],
-    "NFT Animation": [
-      "NFT Animated Art",
-      "NFT Animated GIFs",
-      "NFT Animated Logos",
-      "NFT Animated Characters"
-    ],
-    "Visual Effects": [
-      "Rotoscoping & Chroma Keying",
-      "Color Grading",
-      "Match Moving",
-      "Compositing",
-      "Cleanups",
-      "Beauty Retouching"
-    ],
-    "Lottie & Web Animation": [
-      "Lottie Animations",
-      "Web Animations",
-      "SVG Animations",
-      "CSS Animations"
-    ],
-    "eLearning Video Production": [
-      "E-Learning Course Videos",
-      "Training Videos",
-      "Tutorial Videos",
-      "Educational Videos"
-    ],
-    "Article to Video": [],
-    "Screencasting Videos": [],
-    "Rigging": [
-      "3D Rigging",
-      "2D Rigging"
-    ],
-    "Corporate Videos": [
-      "Corporate Training Videos",
-      "Corporate Promotional Videos",
-      "Corporate Event Videos",
-      "Corporate Culture Videos"
-    ],
-    "Crowdfunding Videos": [
-      "Kickstarter Videos",
-      "Indiegogo Videos",
-      "Patreon Videos",
-      "GoFundMe Videos"
-    ],
-    "Video Repurposing": [
-      "Social Media Repurposing",
-      "Blog to Video",
-      "Podcast to Video",
-      "Webinar to Video"
-    ],
-    "Slideshow Videos": [
-      "Photo Slideshows",
-      "Video Slideshows",
-      "Animated Slideshows",
-      "Event Highlights"
-    ],
-    "Video Templates Editing": [
-      "After Effects Templates",
-      "Premiere Pro Templates",
-      "Final Cut Pro Templates",
-      "DaVinci Resolve Templates"
-    ],
-    "App & Website Previews": [
-      "App Previews",
-      "Website Previews",
-      "Software Previews",
-      "Game Previews"
-    ],
-    "Book Trailers": [
-      "Book Teasers",
-      "Book Promotional Videos",
-      "Author Interviews"
-    ],
-    "Meditation Videos": [],
-    "Real Estate Promos": [],
-    "Virtual & Streaming Avatars": [
-      "Vtuber Avatars",
-      "AI Avatars",
-      "VR & Metaverse Avatars"
-    ],
-    "Game Trailers": [
-      "Game Cinematics",
-      "Game Teasers",
-      "Game Promotional Videos"
-    ],
-    "Video Advice": [
-      "Video Review & Consultation",
-      "Video Mentorship",
-      "Video Lessons"
-    ],
-    "Other": []
-  },
-  "Music & Audio": {
-    "Voice Over": [
-      "Commercial Voice Over",
-      "Narration",
-      "Audiobook Voice Over",
-      "Character Voices",
-      "IVR & Phone Systems",
-      "Podcast Voice Over",
-      "Explainer Video Voice Over",
-      "Animation Voice Over",
-      "E-Learning Voice Over",
-      "Video Game Voice Over",
-      "Dubbing & Localization",
-      "Children's Content Voice Over",
-      "Corporate Voice Over",
-      "YouTube Voice Over"
-    ],
-    "Mixing & Mastering": [
-      "Mixing",
-      "Mastering",
-      "Dolby Atmos & Immersive Audio"
-    ],
-    "Music Producers": [
-      "Ghost Production",
-      "Beat Making",
-      "Backing Tracks",
-      "Remixing"
-    ],
-    "Composers": [
-      "Film & Soundtrack Composers",
-      "Game Composers",
-      "Musical Theater Composers",
-      "Music Arrangement"
-    ],
-    "Singers & Vocalists": [
-      "Male Singers",
-      "Female Singers",
-      "Gender Neutral Singers",
-      "Choir & Gospel Singers"
-    ],
-    "Session Musicians": [
-      "Guitar",
-      "Drums & Percussion",
-      "Bass",
-      "Piano & Keys",
-      "Strings",
-      "Brass & Woodwind"
-    ],
-    "Songwriters": [
-      "Lyricists",
-      "Topliners",
-      "Song Structure & Arrangement",
-      "Melody Writing"
-    ],
-    "Podcast Production": [
-      "Podcast Editing",
-      "Podcast Mixing",
-      "Podcast Mastering",
-      "Podcast Show Notes"
-    ],
-    "Sound Design": [
-      "Sound Effects",
-      "Foley"
-    ],
-    "Audiobook Production": [
-      "Audiobook Narration",
-      "Audiobook Editing",
-      "Audiobook Mastering",
-      "Audiobook Cover Design"
-    ],
-    "Online Music Lessons": [
-      "Instruments",
-      "Production",
-      "Vocals",
-      "Theory"
-    ],
-    "Audio Editing": [
-      "Audio Restoration",
-      "Audio Cleanup",
-      "Audio Enhancement",
-      "Audio Mixing"
-    ],
-    "Audio Ads Production": [
-      "Radio Ads",
-      "Podcast Ads",
-      "Audio Commercials",
-      "Audio Branding"
-    ],
-    "Music Transcription": [
-      "Sheet Music Transcription",
-      "Chord Charts",
-      "Lead Sheets",
-      "Tablature"
-    ],
-    "Vocal Tuning": [
-      "Pitch Correction",
-      "Vocal Harmonies",
-      "Vocal Layering",
-      "Vocal Effects"
-    ],
-    "Custom Songs": [
-      "Custom Jingles",
-      "Custom Songs for Events",
-      "Custom Songs for Gifts",
-      "Custom Songs for Brands"
-    ],
-    "DJ Drops & Tags": [
-      "DJ Drops",
-      "Producer Tags"
-    ],
-    "DJ Mixing": [
-      "DJ Sets",
-      "Mashups",
-      "Scratching"
-    ],
-    "Custom Patches & Samples": [
-      "Synth & Instrument Presets",
-      "DAW & Software Presets",
-      "Loops & Samples"
-    ],
-    "Meditation Music": [
-      "Guided Meditation Music",
-      "Ambient Meditation Music",
-      "Binaural Beats",
-      "Nature Sounds"
-    ],
-    "Jingles & Intros": [
-      "Jingles",
-      "Intros & Outros"
-    ],
-    "Audio Logo & Sonic Branding": [
-      "Audio Logo Design",
-      "Sonic Branding Strategy",
-      "Sound Identity Development"
-    ],
-    "Music & Audio Advice": [
-      "Music & Audio Mentorship",
-      "Music Review & Feedback"
-    ],
-    "Voice Synthesis & AI": [
-      "Text-to-speech",
-      "Custom AI Voices",
-      "Speech Recognition"
-    ],
-    "Audio Plugin Development": [
-      "VST Plugins",
-      "Audio Effects Plugins",
-      "Synthesizer Plugins",
-      "Audio Analysis Tools"
-    ],
-    "Other": []
-  },
-  "Business": {
-    "Legal Consulting": [
-      "Business & Commercial Contracts",
-      "Legal Research",
-      "Legal Documents & Review",
-      "General Legal Advice",
-      "Dispute Resolution Services"
-    ],
-    "E-Commerce Management": [
-      "Consultation",
-      "E-Commerce Store Setup",
-      "Product Upload",
-      "E-Commerce Store Management",
-      "Product Research"
-    ],
-    "Sales": [
-      "Strategy & Planning",
-      "Lead Generation",
-      "Lead Qualification",
-      "Deal Development"
-    ],
-    "Business Formation & Registration": [
-      "Business Structure Consultation",
-      "Document Preparation",
-      "Tax Setup & EIN Application",
-      "Business Registration",
-      "Compliance & Ongoing Requirements"
-    ],
-    "Intellectual Property Management": [
-      "Patent & Trademark Search",
-      "Filing & Registration",
-      "Patent Licensing & Monetization",
-      "Trademark Monitoring & Enforcement",
-      "Infringement Protection & DMCA Takedown",
-      "Intellectual Property Consulting"
-    ],
-    "Virtual Assistant": [
-      "Call Center & Calling",
-      "Messaging & Emailing",
-      "Research Assistant",
-      "File Conversion",
-      "Template Docs & Formatting",
-      "General Assistance",
-      "Fact Checking"
-    ],
-    "Business Plans": [
-      "Business Plans for Startups",
-      "Business Plans for Loan Approval",
-      "Business Plans for Non-Profits",
-      "Business Plans for Immigration",
-      "Business Plans for Partnerships"
-    ],
-    "Market Research": [
-      "Full Package Qual & Quant",
-      "Interviews & Focus Groups",
-      "Domain Name Research",
-      "General Online Research",
-      "Consultation",
-      "Surveys"
-    ],
-    "Business Consulting": [
-      "Business Strategy & Innovation",
-      "Business Efficiency & Automation",
-      "Risk Management",
-      "Digital Transformation Consulting"
-    ],
-    "Presentations": [
-      "Pitch Decks",
-      "Course Presentations",
-      "Business Presentations"
-    ],
-    "Project Management": [
-      "Project Planning & Scheduling",
-      "Risk Management",
-      "Resource Allocation",
-      "Project Monitoring & Reporting",
-      "Agile Project Management",
-      "Waterfall Project Management"
-    ],
-    "Software Management": [
-      "CRM Management",
-      "Project Management Software",
-      "ERP Management"
-    ],
-    "HR Consulting": [
-      "Organizational Development",
-      "Talent Acquisition & Recruitment",
-      "Performance Management",
-      "Employee Learning & Development",
-      "Compensation & Benefits",
-      "HR Information Systems"
-    ],
-    "Customer Care": [
-      "Customer Support",
-      "Planning & Setup",
-      "Consulting",
-      "Customer Success"
-    ],
-    "Online Investigations": [
-      "Corporate Investigations",
-      "CCTV Monitoring",
-      "Background Checks",
-      "Skip Tracing"
-    ],
-    "Sustainability Consulting": [
-      "Sustainability Strategy",
-      "Sustainability Reporting",
-      "Sustainability Training & Workshops",
-      "Sustainability Audits & Assessments"
-    ],
-    "Supply Chain Management": [
-      "Customs & Tariff Advisory",
-      "Logistics",
-      "Procurement & Vendor Management"
-    ],
-    "Product Management": [
-      "User Research & Insights",
-      "Product Strategy & Roadmapping",
-      "Product Prioritization & Execution",
-      "Product Consultation"
-    ],
-    "Event Management": [
-      "Event Planning & Coordination",
-      "Event Marketing & Promotion",
-      "Event Logistics & Operations",
-      "Event Budgeting & Financial Management"
-    ],
-    "AI Consulting": [
-      "AI Strategy",
-      "AI Lessons"
-    ],
-    "Game Concept Design": [
-      "Game Design Documents",
-      "Game Mechanics Design",
-      "Game Story & Narrative Design",
-      "Game Monetization Strategy"
-    ],
-    "Customer Experience Management (CXM)": [
-      "Customer Journey Mapping",
-      "Customer Personalization Strategy",
-      "Loyalty & Retention Programs",
-      "Customer Engagement Strategy",
-      "Voice of Customer (VoC)"
-    ]
-  },
-  "Personal Growth & Hobbies": {
-    "Online Tutoring": [
-      "Math Tutoring",
-      "Science Tutoring",
-      "Social Sciences Tutoring",
-      "Business Tutoring",
-      "Other Subjects",
-      "Engineering Tutoring"
-    ],
-    "Language Lessons": [
-      "Hindi Lessons",
-      "English Lessons",
-      "Spanish Lessons",
-      "French Lessons",
-      "German Lessons",
-      "Chinese Lessons",
-      "Japanese Lessons",
-      "Italian Lessons",
-      "Russian Lessons",
-      "Korean Lessons",
-      "Other Languages"
-    ],
-    "Life Coaching": [
-      "Personal Growth",
-      "Accountability & Time Management",
-      "Relationship Advice"
-    ],
-    "Competitive Gaming": [
-      "Game Coaching",
-      "eSports Management & Strategy"
-    ],
-    "Game Recordings & Guides": [
-      "Game Walkthroughs",
-      "Game Guides & Tutorials",
-      "Game Strategy Guides",
-      "Game Reviews & Analysis"
-    ],
-    "Gameplay Experience & Feedback": [
-      "Gameplay Recording & Analysis",
-      "Gameplay Feedback & Improvement",
-      "Gameplay Strategy Consultation"
-    ],
-    "Recreational Gaming": [
-      "Game Matchmaking",
-      "Other Gaming Services"
-    ],
-    "Ingame Creation": [
-      "Ingame Architecture",
-      "World Building"
-    ],
-    "Career Counseling": [
-      "Interview Prep",
-      "Search & Apply",
-      "Career Consulting",
-      "Leadership Development",
-      "Retirement Planning & Coaching",
-      "College Admission Consulting"
-    ],
-    "Arts & Crafts": [
-      "Painting & Drawing",
-      "Sculpting & Pottery",
-      "Crafting & DIY Projects",
-      "Photography & Videography",
-      "Calligraphy & Hand Lettering",
-      "Quilting & Sewing",
-      "Knitting & Crocheting",
-      "Woodworking & Carpentry"
-    ],
-    "Embroidery Digitizing": [
-      "Embroidery Design",
-      "Embroidery File Conversion",
-      "Custom Embroidery Patterns",
-      "Embroidery Consultation"
-    ],
-    "Astrology & Psychics": [
-      "Readings & Channeling",
-      "Astrology & Horoscope",
-      "Numerology",
-      "Spell Casting",
-      "Feng Shui & Space Cleansing",
-      "Reiki & Energy Balance"
-    ],
-    "Modeling & Acting": [
-      "Modeling",
-      "Acting",
-      "Voice Acting",
-      "Dancing"
-    ],
-    "Fitness": [
-      "Fitness Lessons",
-      "Workout Plans",
-      "Dance Lessons",
-      "Sports Review & Consultation"
-    ],
-    "Nutrition": [
-      "Recipe Creation",
-      "Meal Plans",
-      "Nutrition Coaching"
-    ],
-    "Wellness": [
-      "Guided Meditation",
-      "Mindfulness Coaching"
-    ],
-    "Traveling": [
-      "Local Advisors",
-      "Shipping Services",
-      "Trip Plans",
-      "Visa Application & Submission"
-    ],
-    "Puzzle & Game Creation": [
-      "Puzzle Design",
-      "Game Design",
-      "Board Game Design",
-      "Card Game Design"
-    ],
-    "Styling & Beauty": [
-      "Fashion Stylists",
-      "Hair & Makeup",
-      "Skincare Advice"
-    ],
-    "Trend Forecasting": [
-      "Fashion Trend Forecasting",
-      "Beauty Trend Forecasting",
-      "Lifestyle Trend Forecasting",
-      "Technology Trend Forecasting"
-    ],
-    "Cosmetics Formulation": [
-      "Skincare Formulation",
-      "Makeup Formulation",
-      "Haircare Formulation",
-      "Fragrance Formulation"
-    ],
-    "Family & Genealogy": [
-      "Family Tree Research",
-      "Genealogy Research",
-      "DNA Analysis & Interpretation",
-      "Family History Writing"
-    ],
-    "Greeting Cards & Videos": [
-      "Greeting Card Design",
-      "Personalized Greeting Videos",
-      "Custom Messages & Wishes",
-      "Animated Greeting Cards"
-    ],
-    "Collectibles": [
-      "Trading Cards",
-      "Stamps & Coins",
-      "Vintage Items",
-      "Action Figures & Toys",
-      "Art & Antiques"
-    ],
-    "Tabletop Games": [
-      "Card Games & Deck Building",
-      "Campaigns & Game Masters"
-    ],
-    "Cosplay Creation": [
-      "Cosplay Design",
-      "Cosplay Sewing & Crafting",
-      "Cosplay Makeup & Styling",
-      "Cosplay Photography"
-    ],
-    "Other": []
-  },
-  "Programming & Tech": {
-    "Website Development": [
-      "WordPress",
-      "Shopify",
-      "Wix",
-      "Squarespace",
-      "Webflow",
-      "Bubble",
-      "WooCommerce",
-      "ClickFunnels",
-      "Custom Websites",
-      "Magento",
-      "SiteBuilder",
-      "Thinkific",
-      "Drupal",
-      "GoDaddy",
-      "Joomla",
-      "Blogger",
-      "Opencart",
-      "Other Builders",
-      "BigCommerce",
-      "Prestashop",
-      "Shopware",
-      "Big Cartel",
-      "OsCommerce",
-      "Weebly",
-      "Simvoly",
-      "Ionos",
-      "Tilda",
-      "Jimdo",
-      "Strikingly"
-    ],
-    "Website Maintenance": [
-      "Customization",
-      "Bug Fixes",
-      "Backup & Migration",
-      "Hosting & Domain",
-      "Themes/Plugins Installation",
-      "Help/Consultation",
-      "Installation",
-      "Speed Optimization",
-      "Security",
-      "Analytics"
-    ],
-    "Software Development": [
-      "CRM & ERP Development",
-      "Web Application",
-      "Desktop Applications",
-      "API & Integrations",
-      "Bug Fixes",
-      "Automations & Workflows",
-      "Browser Extensions",
-      "Email Template",
-      "Figma to Web & App",
-      "Scripting",
-      "Help/Consultation",
-      "Plugins Development"
-    ],
-    "Mobile App Development": [
-      "Cross-Platform Development",
-      "Website to App",
-      "Android App Development",
-      "iOS App Development",
-      "TV App Development"
-    ],
-    "Game Development": [
-      "Consultation",
-      "Backup & Migration",
-      "Customization",
-      "Prototyping",
-      "Full Game Creation",
-      "Game Mods",
-      "Bug Fixes"
-    ],
-    "AI Development": [
-      "AI Mobile Apps",
-      "AI Websites & Software",
-      "AI Agents",
-      "Custom GPT Apps",
-      "AI Technology Consulting",
-      "AI Integrations"
-    ],
-    "Chatbot Development": [
-      "Rule Based Chatbots",
-      "AI Chatbot Development"
-    ],
-    "Cloud Computing": [
-      "Cloud Consultation",
-      "Cloud Network & Security",
-      "Cloud Management",
-      "Serverless Computing"
-    ],
-    "DevOps Engineering": [
-      "DevOps Consultation.",
-      "Infra as Code.",
-      "CI/CD Pipelines",
-      "DevOps Containerization.",
-      "DevOps Consulting."
-    ],
-    "Support & IT": [
-      "Technical Support",
-      "Server Administration",
-      "Email Management",
-      "VoIP and Telephony",
-      "Software Installation",
-      "CCTV Setup",
-      "Platform Migrations"
-    ],
-    "Cryptocurrencies & Tokens": [
-      "E-Wallet Development",
-      "Coin Design & Tokenization",
-      "Exchange Platforms",
-      "Smart Contracts"
-    ],
-    "Blockchain Development & Solutions": [
-      "Chain Analysis",
-      "Blockchain Protocol Development",
-      "Technical Support",
-      "Blockchain Security & Audits",
-      "Decentralized Applications (dApps)"
-    ],
-    "NFT Development": [
-      "NFT Generators",
-      "NFT Marketplace",
-      "NFT Websites"
-    ],
-    "Mobile App Maintenance": [
-      "Mobile App Customization",
-      "Mobile App Bug Fixes",
-      "Mobile App Consultation",
-      "Mobile Store Management"
-    ],
-    "Electronics Engineering": [
-      "Industrial Automation",
-      "Embedded Systems & IoT",
-      "Printed Circuit Boards (PCB)"
-    ],
-    "Cybersecurity": [
-      "Consultation",
-      "Compliance Services",
-      "Assessment & Penetration Test",
-      "Cybersecurity Management"
-    ],
-    "Development for Streamers": [
-      "Addons & Customization",
-      "Setup & Installation"
-    ],
-    "Online Coding Lessons": [
-      "Programming Languages",
-      "Web Development",
-      "Mobile App Development",
-      "Game Development",
-      "AI & Machine Learning",
-      "Data Science & Analytics",
-      "DevOps & Cloud Computing"
-    ],
-    "Wearable App Development": [
-      "Smartwatch Development",
-      "VR & AR Development"
-    ],
-    "Convert Files": [
-      "Convert to a Fillable Form",
-      "Convert to an eBook",
-      "Convert to an Editable File",
-      "Convert to Another File"
-    ],
-    "User Testing": [
-      "Usability Testing",
-      "A/B Testing",
-      "User Experience Testing",
-      "Accessibility Testing"
-    ],
-    "QA & Review": [
-      "Design Review",
-      "Code Review",
-      "Software Testing"
-    ],
-    "Trading Bots Development": [
-      "Crypto Trading Bots",
-      "Stock Trading Bots",
-      "Forex Trading Bots",
-      "Options Trading Bots"
-    ],
-    "Other": []
-  },
-  "Data": {
-    "Data Governance & Protection": [
-      "Data Governance Frameworks",
-      "Data Protection & Privacy",
-      "Data Compliance & Regulations",
-      "Data Security & Encryption",
-      "Data Quality Management"
-    ],
-    "Data Scraping": [
-      "Web Scraping",
-      "Data Extraction",
-      "Data Mining",
-      "Data Harvesting"
-    ],
-    "Data Labeling & Annotation": [
-      "Image Annotation",
-      "Text Annotation",
-      "Audio Annotation",
-      "Video Annotation",
-      "3D Point Cloud Annotation"
-    ],
-    "Data Formatting": [
-      "Data Formatting Consultation",
-      "Data Formatting Automation",
-      "Data Formatting Formulas & Macros"
-    ],
-    "Databases": [
-      "Consultation",
-      "Database Administration (DBA)",
-      "SQL & NoSQL Queries",
-      "Design & Optimization",
-      "Database Development",
-      "Database Migration & Performance"
-    ],
-    "Data Cleaning": [
-      "Data Deduplication",
-      "Data Validation",
-      "Data Standardization",
-      "Data Normalization"
-    ],
-    "Data Enrichment": [
-      "Data Enrichment Consultation",
-      "Data Enrichment Automation",
-      "Data Enrichment Formulas & Macros"
-    ],
-    "Data Processing": [
-      "Consultation",
-      "Automations",
-      "Formulas & Macros"
-    ],
-    "Data Engineering": [
-      "Data Pipeline Development",
-      "ETL Processes",
-      "Data Warehousing",
-      "Big Data Solutions",
-      "Data Integration",
-      "Data Migration"
-    ],
-    "Data Analytics": [
-      "BI Analytics",
-      "Data Analytics Consultation",
-      "Supply Chain Analytics",
-      "Financial Analytics",
-      "Statistical Modeling & Analytics",
-      "Product Analytics",
-      "Marketing Analytics"
-    ],
-    "Data Visualization": [
-      "Consultation",
-      "Reports",
-      "Geographic Information Systems (GIS)",
-      "Data Dashboards",
-      "Graphs & Charts"
-    ],
-    "Data Science & ML": [
-      "Machine Learning",
-      "Deep Learning",
-      "Computer Vision",
-      "AI Model Fine-Tuning",
-      "Natural Language Processing",
-      "Generative Models",
-      "Time Series Analysis",
-      "Data Science Consultation"
-    ],
-    "Data Entry": [
-      "Web Research",
-      "Copy Paste",
-      "Data Typing"
-    ],
-    "Other": []
-  },
-  "Digital Marketing": {
-    "Social Media Marketing": [
-      "Profile Setup & Integration",
-      "Social Content",
-      "Social Media Management",
-      "Analytics & Tracking",
-      "Paid Social Media",
-      "Social Media Strategy",
-      "Organic Social Promotions"
-    ],
-    "Guest Posting": [
-      "Guest Post Writing",
-      "Guest Post Publishing",
-      "Guest Post Outreach",
-      "Guest Post Strategy"
-    ],
-    "Search Engine Optimization (SEO)": [
-      "Keyword Research",
-      "On-Page SEO",
-      "Voice Search SEO",
-      "SEO Strategy",
-      "Technical SEO",
-      "Off-Page SEO",
-      "Competitor Analysis",
-      "Full SEO Package"
-    ],
-    "Generative Engine Optimization": [
-      "Generative Engine Optimization",
-      "Generative Engine Strategy",
-      "Generative Engine Content Creation"
-    ],
-    "Public Relations": [
-      "Consultation",
-      "Events, Conferences & Awards",
-      "Press Release Pitching",
-      "Strategy & Planning"
-    ],
-    "Book & eBook Marketing": [
-      "Book Launch Strategy",
-      "Book Promotion",
-      "Book Reviews & Testimonials",
-      "Author Branding"
-    ],
-    "Podcast Marketing": [
-      "Podcast Promotion",
-      "Advertising within Podcasts"
-    ],
-    "Video Marketing": [
-      "YouTube Channel Management",
-      "Consultation & Audience Research",
-      "Video SEO",
-      "Online Video Advertising",
-      "Organic Video Promotion & Distribution",
-      "YouTube Monetization",
-      "Live Video Streaming"
-    ],
-    "Email Marketing": [
-      "Campaign Management",
-      "Email Automations",
-      "Email Platform Support",
-      "Audience Development",
-      "Cold Emails"
-    ],
-    "Text Message Marketing": [
-      "SMS Campaigns",
-      "MMS Campaigns",
-      "Text Message Automation",
-      "Text Message List Building"
-    ],
-    "Crowdfunding": [
-      "Campaign Marketing",
-      "Campaign Creation"
-    ],
-    "Search Engine Marketing (SEM)": [
-      "Setup & Strategy Consultation",
-      "Search Engine Marketing Management",
-      "Shopping Ads",
-      "Ad Review & Optimization"
-    ],
-    "Display Advertising": [
-      "Campaign Setup & Management",
-      "Ad Review & Optimization",
-      "Retargeting",
-      "Native Advertising",
-      "Audio Advertising"
-    ],
-    "Web Traffic": [
-      "Traffic Generation",
-      "Traffic Analysis",
-      "Traffic Optimization"
-    ],
-    "Marketing Concepts & Ideation": [
-      "Marketing Concepts",
-      "Marketing Ideation",
-      "Marketing Campaigns"
-    ],
-    "Web Analytics": [
-      "Setup",
-      "Tracking & Reporting",
-      "Optimization",
-      "Bug Fixes"
-    ],
-    "Marketing Advice": [
-      "Marketing Mentorship",
-      "Marketing Lessons"
-    ],
-    "Marketing Strategy": [
-      "Marketing Consulting",
-      "Digital Marketing Strategy",
-      "Brand  Strategy",
-      "ABM Strategy",
-      "Omnichannel Strategy",
-      "CRM & Retention Strategy",
-      "UGC Strategy"
-    ],
-    "Influencer Marketing": [
-      "Strategy & Research",
-      "Shoutouts & Promotion",
-      "Influencer Management",
-      "Long-Term Collaborations"
-    ],
-    "Community Management": [
-      "Planning, Strategy & Setup",
-      "Sourcing & Recruitment",
-      "Growth, Partnerships & Monetization",
-      "Management & Engagement",
-      "Social Listening",
-      "Event Marketing"
-    ],
-    "Local SEO": [
-      "Google My Business (Google Business Profile)",
-      "Local Citations and Directories"
-    ],
-    "E-Commerce Marketing": [
-      "Promoted Listings",
-      "E-Commerce marketing strategy",
-      "E-Commerce SEO",
-      "Website Promotion"
-    ],
-    "Affiliate Marketing": [
-      "Affiliates Recruitment",
-      "Affiliate Marketing Monetization & Funnels",
-      "Affiliate Link Promotion",
-      "Affiliate Program Management",
-      "Affiliate Program Strategy & Setup",
-      "Affiliate Marketing Consultation"
-    ],
-    "Mobile App Marketing": [
-      "App Store Optimization",
-      "App Promotion"
-    ],
-    "Music Promotion": [
-      "Organic Promotion",
-      "Paid Advertising",
-      "Music Streaming Services",
-      "Playlists and Placements"
-    ],
-    "Conversion Rate Optimization (CRO)": [
-      "A/B Testing",
-      "User Experience (UX) Optimization",
-      "Landing Page Optimization",
-      "Funnel Optimization",
-      "Heatmaps & User Behavior Analysis"
-    ],
-    "Social Commerce": [
-      "Social Commerce Setup & Integration",
-      "Social Commerce Maintenance",
-      "Social Commerce Analytics & Reporting"
-    ],
-    "Marketing Automation": [
-      "PPC Automation",
-      "Social Media Automation",
-      "Marketing Analytics and Reporting Automation"
-    ],
-    "Conscious Branding & Marketing": [
-      "Sustainability & Social Responsibility Marketing",
-      "Diversity & Inclusion (D&I) Marketing",
-      "Employer Branding strategy",
-      "Occasion-Based Marketing"
-    ]
-  },
-  "Photography": {
-    "Product Photographers": [],
-    "Portrait Photographers": [],
-    "Lifestyle & Fashion Photographers": [],
-    "Real Estate Photographers": [],
-    "Event Photographers": [],
-    "Food Photographers": [],
-    "Scenic Photographers": [],
-    "Photo Preset Creation": [],
-    "Photography Advice": [
-      "Photography Lessons",
-      "Photography Mentorship"
-    ],
-    "Other": []
-  },
-  "AI Services": {
-    "AI Art Generation": [
-      "AI Art Generation",
-      "AI Art Customization",
-      "AI Art Style Transfer"
-    ],
-    "AI Content Generation": [
-      "AI Text Generation",
-      "AI Image Generation",
-      "AI Video Generation"
-    ],
-    "AI Chatbots": [
-      "Custom Chatbot Development",
-      "Chatbot Integration",
-      "Chatbot Training"
-    ],
-    "AI Data Analysis": [
-      "Predictive Analytics",
-      "Data Visualization",
-      "Natural Language Processing"
-    ],
-    "AI Automation": [
-      "Workflow Automation",
-      "Task Automation",
-      "Process Automation"
-    ],
-    "Other": []
-  },
-  "Consulting": {
-    "Business Consulting": [
-      "Business Strategy",
-      "Marketing Strategy",
-      "Financial Consulting",
-      "Operations Consulting"
-    ],
-    "IT Consulting": [
-      "IT Strategy",
-      "Cybersecurity Consulting",
-      "Cloud Computing Consulting",
-      "Software Development Consulting"
-    ],
-    "HR Consulting": [
-      "HR Strategy",
-      "Talent Acquisition",
-      "Employee Engagement",
-      "Performance Management"
-    ],
-    "Legal Consulting": [
-      "Contract Review",
-      "Compliance Consulting",
-      "Intellectual Property Consulting"
-    ],
-    "Other": []
-  }
- 
+    "Logo Design": [
+    "Vintage Logo Design",
+    "3D Logo Design",
+    "Mascot Logo Design",
+    "Signature Logo Design",
+    "Modern Logo Design",
+    "Retro Logo Design",
+    "Text Logo Design",
+    "Feminine Logo Design"
+  ],
+  "Brand Style Guides": [
+    "Brand Guidelines",
+    "Brand Identity Design",
+    "Brand Strategy & Positioning",
+    "Brand Naming"
+  ],
+  "Game Art": [
+    "Character Design",
+    "Props & Objects",
+    "Backgrounds & Environments",
+    "UI & UX"
+  ],
+  "Graphics for Streamers": [
+    "Overlays & Alerts",
+    "Panels & Banners",
+    "Emotes & Badges",
+    "Stream Packages"
+  ],
+  "Business Cards & Stationery": [
+    "Business Card Design",
+    "Stationery Design",
+    "Letterhead Design",
+    "Envelope Design"
+  ],
+  "Website Design": [
+    "Website UI/UX Design",
+    "Website Builders Design"
+  ],
+  "App Design": [
+    "Mobile App UI/UX Design",
+    "Web App UI/UX Design",
+    "App Store Screenshots"
+  ],
+  "UX Design": [
+    "User Experience Design",
+    "User Interface Design",
+    "Wireframes & Prototypes",
+    "Usability Testing"
+  ],
+  "Landing Page Design": [
+    "Landing Page UI/UX Design",
+    "Landing Page Builders Design"
+  ],
+  "Resume Design": [
+    "Resume Design",
+    "Cover Letter Design",
+    "LinkedIn Profile Design"
+  ],
+  "Illustration": [
+    "Vector Illustration",
+    "Digital Illustration",
+    "Children’s Book Illustration",
+    "Line Art & Ink Drawing",
+    "Cartoon & Comic Style",
+    "Realistic Illustration",
+    "Character Design & Concept Art",
+    "Portrait Illustration"
+  ],
+  "Children’s Book Illustration": [
+    "Children’s Book Cover Design",
+    "Children’s Book Layout Design",
+    "Children’s Book Character Design"
+  ],
+  "AI Artists": [
+    "Image Generation",
+    "Custom Image Prompts",
+    "ComfyUI Workflow Creation"
+  ],
+  "AI Avatar Design": [
+    "AI Avatar Generation",
+    "AI Avatar Customization",
+    "AI Avatar Style Transfer"
+  ],
+  "NFT Art": [
+    "NFT Collection Design",
+    "NFT Character Design",
+    "NFT Animation & Motion Graphics",
+    "NFT Game Assets"
+  ],
+  "Pattern Design": [
+    "Surface Pattern Design",
+    "Textile Pattern Design",
+    "Seamless Pattern Design",
+    "Pattern Illustration"
+  ],
+  "Fonts & Typography": [
+    "Font Design",
+    "Typography",
+    "Hand Lettering",
+    "Calligraphy"
+  ],
+  "Poster Design": [
+    "Movie Poster Design",
+    "Event Poster Design",
+    "Promotional Poster Design",
+    "Art Prints & Wall Art"
+  ],
+  "Brochure Design": [
+    "Tri-Fold Brochure Design",
+    "Bi-Fold Brochure Design",
+    "Booklet Design",
+    "Flyer & Leaflet Design"
+  ],
+  "Flyer Design": [
+    "Event Flyer Design",
+    "Promotional Flyer Design",
+    "Digital Flyer Design",
+    "Social Media Flyer Design"
+  ],
+  "Book Design": [
+    "Book Layout Design & Typesetting",
+    "Book Cover Design"
+  ],
+  "Album Cover Design": [
+    "Music Album Cover Design",
+    "Podcast Cover Design",
+    "Vinyl & CD Cover Design",
+    "Digital Album Art"
+  ],
+  "Podcast Cover Art": [
+    "Podcast Cover Design",
+    "Podcast Episode Artwork",
+    "Podcast Branding"
+  ],
+  "Packaging & Label Design": [
+    "Packaging Design",
+    "Label Design",
+    "Dieline Design"
+  ],
+  "Storyboards": [
+    "Storyboard Art",
+    "Animatics",
+    "Comic Book Storyboarding"
+  ],
+  "Social Media Design": [
+    "Headers & Covers",
+    "Social Posts & Banners",
+    "Thumbnails Design",
+    "AR Filters & Lenses"
+  ],
+  "Catalog Design": [
+    "Product Catalog Design",
+    "Digital Catalog Design",
+    "Print Catalog Design"
+  ],
+  "Menu Design": [
+    "Restaurant Menu Design",
+    "Digital Menu Design",
+    "Takeout & Delivery Menu Design"
+  ],
+  "Invitation Design": [
+    "Wedding Invitations",
+    "Event Invitations",
+    "Digital Invitations",
+    "Save the Date Cards"
+  ],
+  "Portraits & Caricatures": [
+    "Digital Portraits",
+    "Caricature Art",
+    "Custom Portraits",
+    "Family Portraits"
+  ],
+  "Cartoons & Comics": [
+    "Comic Book Art",
+    "Cartoon Illustrations",
+    "Webcomics",
+    "Character Design"
+  ],
+  "Tattoo Design": [
+    "Tattoo Illustrations",
+    "Tattoo Flash Sheets",
+    "Custom Tattoo Designs",
+    "Tattoo Cover-Ups"
+  ],
+  "Signage Design": [
+    "Outdoor Signage Design",
+    "Indoor Signage Design",
+    "Wayfinding Signage Design",
+    "Event Signage Design"
+  ],
+  "Web Banners": [
+    "Static Web Banners",
+    "Animated Web Banners",
+    "Retargeting Banners",
+    "Social Media Banners"
+  ],
+  "Image Editing": [
+    "Product Image Editing",
+    "Photo Manipulation",
+    "Portraits Retouching",
+    "Photo Restoration",
+    "Mockups"
+  ],
+  "AI Image Editing": [
+    "AI Image Enhancement",
+    "AI Image Restoration",
+    "AI Image Retouching",
+    "AI Image Colorization",
+    "AI Image Background Removal",
+    "AI Image Upscaling",
+    "AI Image Style Transfer",
+    "AI Image Inpainting"
+  ],
+  "Architecture & Interior Design": [
+    "Mood Boards",
+    "Architectural Graphics",
+    "Virtual Staging",
+    "Architectural Planning",
+    "Interior Design",
+    "3D Modeling & Rendering",
+    "2D Drawings & Floor Plans"
+  ],
+  "Landscape Design": [
+    "Planning & Design",
+    "3D Modeling & Rendering",
+    "2D Drawings & Site Plans"
+  ],
+  "Building Engineering": [
+    "HVAC",
+    "Electrical Engineering",
+    "Plumbing & Drainage",
+    "Civil & Structural",
+    "Material Takeoff & Cost Estimation",
+    "Solar PV System Design"
+  ],
+  "Building Information Modeling": [
+    "BIM 4D Construction Simulation",
+    "BIM Online Training & Implementation",
+    "BIM Family Creation",
+    "BIM Coordination & Clash Detection",
+    "BIM 3D Modeling"
+  ],
+  "Lighting Design": [
+    "Lighting Design & Analysis",
+    "Lighting Calculations",
+    "Lighting Control Systems",
+    "Lighting Design for Events"
+  ],
+  "Character Modeling": [
+    "3D Character Modeling",
+    "2D Character Design",
+    "Character Rigging & Animation",
+    "Character Texturing & Shading"
+  ],
+  "Industrial & Product Design": [
+    "Concept Development",
+    "3D Modeling & Rendering",
+    "Rapid Prototyping",
+    "Design for Manufacturing",
+    "Technical Drawing",
+    "Full Design Process"
+  ],
+  "Trade Booth Design": [
+    "Trade Show Booth Design",
+    "Exhibition Stand Design",
+    "Pop-Up Shop Design",
+    "Event Space Design"
+  ],
+  "T-Shirts & Merchandise": [
+    "T-Shirt Design",
+    "Merchandise Design",
+    "Apparel Graphics",
+    "Print on Demand Designs"
+  ],
+  "Fashion Design": [
+    "Technical Drawing & Tech Pack",
+    "Pattern Making",
+    "Fashion Illustration",
+    "3D Garment Design",
+    "Full Design Process"
+  ],
+  "Jewelry Design": [
+    "3D Modeling & Rendering",
+    "Concept Design & Sketching"
+  ],
+  "Presentation Design": [
+    "Pitch Deck Design",
+    "Business Presentation Design",
+    "Infographic Presentations",
+    "Interactive Presentations"
+  ],
+  "Email Design": [
+    "Email Templates",
+    "Email Campaign Design",
+    "Newsletter Design",
+    "Email Signature Design"
+  ],
+  "Icon Design": [
+    "Flat Icons",
+    "3D Icons",
+    "Line Icons",
+    "Custom Icons"
+  ],
+  "Infographic Design": [
+    "Data Visualization",
+    "Process Infographics",
+    "Timeline Infographics",
+    "Comparison Infographics"
+  ],
+  "Car Wraps": [
+    "Car Wrap Design",
+    "Vehicle Graphics",
+    "Fleet Graphics",
+    "Custom Car Decals"
+  ],
+  "Vector Tracing": [
+    "Vector Tracing & Conversion",
+    "Vectorization of Images",
+    "Vector Logo Design",
+    "Vector Illustration"
+  ],
+  "NSFW Art": [
+    "Adult Illustrations",
+    "Adult Comics",
+    "Adult Character Design",
+    "Adult Portraits"
+  ],
+  "Design Advice": [
+    "Design Review & Consultation",
+    "Design Mentorship",
+    "Design Lessons"
+  ],
+  "Other": [
+    "Custom Design Projects",
+    "Design Research & Analysis",
+    "Design Workshops & Training"
+  ]
+},
+"Writing & Translation": {
+  "Articles & Blog Posts": [
+    "SEO Writing",
+    "Promotional Articles",
+    "Lifestyle Blogs",
+    "Professional Industry Articles",
+    "Informative & Educational Articles",
+    "Bulk Articles"
+  ],
+  "Proofreading & Editing": [
+    "AI Content Editing",
+    "Proofreading",
+    "Copy Editing",
+    "Review & Rewrite",
+    "Citation & Formatting"
+  ],
+  "Translation": [
+    "English to Other Languages",
+    "Other Languages to English",
+    "Other Languages to Other Languages",
+    "Subtitles Translation",
+    "Website Translation"
+  ],
+  "Website Content": [
+    "Website Copywriting",
+    "Landing Page Content",
+    "Product Descriptions",
+    "Service Descriptions",
+    "About Us Pages"
+  ],
+  "Product Descriptions": [
+    "SEO Product Descriptions",
+    "Creative Product Descriptions",
+    "Technical Product Descriptions",
+    "E-Commerce Product Descriptions"
+  ],
+  "Book & eBook Writing": [
+    "Kindle Niche Research",
+    "Short Stories",
+    "Book Proposals",
+    "Book Blurbs",
+    "Ghostwriting"
+  ],
+  "Book Editing": [
+    "Book Proofreading",
+    "Book Formatting",
+    "Book Cover Design",
+    "Book Marketing"
+  ],
+  "Resume Writing": [
+    "Resume Writing",
+    "CV Writing",
+    "LinkedIn Profile Writing",
+    "Cover Letter Writing"
+  ],
+  "Brand Voice & Tone": [
+    "Brand Voice Development",
+    "Brand Tone Guidelines",
+    "Brand Messaging Framework"
+  ],
+  "UX Writing": [
+    "Microcopy",
+    "User Interface Text",
+    "Onboarding Copy",
+    "Error Messages"
+  ],
+  "Email Copy": [
+    "Email Newsletters",
+    "Email Campaigns",
+    "Email Automation Sequences",
+    "Cold Emails"
+  ],
+  "Technical Writing": [
+    "Technical Documentation",
+    "User Manuals",
+    "API Documentation",
+    "Software Documentation"
+  ],
+  "Custom Writing Prompts": [
+    "Technical Writing Prompts",
+    "Copywriting Prompts",
+    "Creative Writing Prompts",
+    "Blogging & Content Prompts"
+  ],
+  "Content Strategy": [
+    "Content Planning",
+    "Content Calendar Creation",
+    "Content Audit & Analysis",
+    "Content Distribution Strategy"
+  ],
+  "Localization": [
+    "Website Localization",
+    "App Localization",
+    "Software Localization",
+    "Game Localization"
+  ],
+  "White Papers": [
+    "Technical White Papers",
+    "Business White Papers",
+    "Research White Papers",
+    "Marketing White Papers"
+  ],
+  "Sales Copy": [
+    "Sales Pages",
+    "Sales Funnels",
+    "Email Sales Copy",
+    "Landing Page Sales Copy"
+  ],
+  "Social Media Copywriting": [
+    "Social Media Posts & Captions",
+    "Social Media Video Scripts",
+    "Social Media Long Posts & Articles",
+    "Social Media Bios"
+  ],
+  "Podcast Writing": [
+    "Podcast Content",
+    "Podcast Show Notes"
+  ],
+  "Ad Copy": [
+    "Google Ads Copy",
+    "Facebook Ads Copy",
+    "Instagram Ads Copy",
+    "LinkedIn Ads Copy"
+  ],
+  "Cover Letters": [
+    "Job Application Cover Letters",
+    "Business Cover Letters",
+    "Personal Cover Letters"
+  ],
+  "Press Releases": [
+    "Press Release Writing",
+    "Press Release Distribution",
+    "Press Release Translation"
+  ],
+  "Case Studies": [
+    "Case Study Writing",
+    "Case Study Design",
+    "Case Study Research"
+  ],
+  "LinkedIn Profiles": [
+    "LinkedIn Profile Optimization",
+    "LinkedIn Profile Writing",
+    "LinkedIn Profile Design"
+  ],
+  "Job Descriptions": [
+    "Job Description Writing",
+    "Job Description Templates",
+    "Job Description Optimization"
+  ],
+  "Creative Writing": [
+    "Game Writing",
+    "Poetry",
+    "Song Lyrics",
+    "Letters"
+  ],
+  "Beta Reading": [],
+  "Scriptwriting": [
+    "Other Scriptwriting",
+    "Consultation",
+    "Webinars",
+    "Cold Calls",
+    "Audio Ads",
+    "Script Coverage",
+    "Film & TV Screenplays",
+    "Chatbot Conversation Scripts",
+    "Video Scripts"
+  ],
+  "Business Names & Slogans": [],
+  "eLearning Content Development": [],
+  "Speechwriting": [
+    "Motivational Speeches",
+    "Academic Speeches",
+    "Political Speeches",
+    "Business Speeches",
+    "Event Speeches"
+  ],
+  "Grant Writing": [
+    "Grant Research",
+    "Grant Proposals"
+  ],
+  "Transcription": [],
+  "Research & Summaries": [],
+  "Other": [],
+  "Writing Advice": [
+    "Writing Mentorship",
+    "Writing Lessons"
+  ],
+  "Interpretation": [],
+  "Handwriting": [
+    "Letters & Notes",
+    "Invitations & Cards",
+    "Personalized Handwriting",
+    "Academic Handwriting"
+  ]
+},
+"Video & Animation": {
+  "Animated Explainers": [
+    "2D Animated Explainers",
+    "3D Animated Explainers",
+    "Isometric Explainers",
+    "Whiteboard Animation"
+  ],
+  "Video Editing": [],
+  "Video Ads & Commercials": [],
+  "Animated GIFs": [],
+  "Logo Animation": [],
+  "UGC Videos": [
+    "UGC Ads",
+    "Organic UGC",
+    "UGC Bundles"
+  ],
+  "Intro & Outro Videos": [],
+  "Character Animation": [],
+  "3D Product Animation": [],
+  "Social Media Videos": [],
+  "Music Videos": [
+    "Lyric Videos",
+    "Music Visualization",
+    "Dance Videos",
+    "Narrative-Based Videos",
+    "Performance Videos",
+    "Conceptual Videos",
+    "Anime Music Videos",
+    "Spotify Canvas"
+  ],
+  "Animation for Kids": [],
+  "Video Art": [
+    "Experimental Video Art",
+    "AI Video Art",
+    "Image Animation",
+    "Video Installations"
+  ],
+  "Text Animation": [],
+  "Animation for Streamers": [],
+  "Live Action Explainers": [],
+  "Filmed Video Production": [],
+  "Videographers": [],
+  "E-Commerce Product Videos": [],
+  "Spokespersons Videos": [],
+  "Subtitles & Captions": [
+    "Subtitles",
+    "Social Media Captions"
+  ],
+  "NFT Animation": [
+    "NFT Animated Art",
+    "NFT Animated GIFs",
+    "NFT Animated Logos",
+    "NFT Animated Characters"
+  ],
+  "Visual Effects": [
+    "Rotoscoping & Chroma Keying",
+    "Color Grading",
+    "Match Moving",
+    "Compositing",
+    "Cleanups",
+    "Beauty Retouching"
+  ],
+  "Lottie & Web Animation": [
+    "Lottie Animations",
+    "Web Animations",
+    "SVG Animations",
+    "CSS Animations"
+  ],
+  "eLearning Video Production": [
+    "E-Learning Course Videos",
+    "Training Videos",
+    "Tutorial Videos",
+    "Educational Videos"
+  ],
+  "Article to Video": [],
+  "Screencasting Videos": [],
+  "Rigging": [
+    "3D Rigging",
+    "2D Rigging"
+  ],
+  "Corporate Videos": [
+    "Corporate Training Videos",
+    "Corporate Promotional Videos",
+    "Corporate Event Videos",
+    "Corporate Culture Videos"
+  ],
+  "Crowdfunding Videos": [
+    "Kickstarter Videos",
+    "Indiegogo Videos",
+    "Patreon Videos",
+    "GoFundMe Videos"
+  ],
+  "Video Repurposing": [
+    "Social Media Repurposing",
+    "Blog to Video",
+    "Podcast to Video",
+    "Webinar to Video"
+  ],
+  "Slideshow Videos": [
+    "Photo Slideshows",
+    "Video Slideshows",
+    "Animated Slideshows",
+    "Event Highlights"
+  ],
+  "Video Templates Editing": [
+    "After Effects Templates",
+    "Premiere Pro Templates",
+    "Final Cut Pro Templates",
+    "DaVinci Resolve Templates"
+  ],
+  "App & Website Previews": [
+    "App Previews",
+    "Website Previews",
+    "Software Previews",
+    "Game Previews"
+  ],
+  "Book Trailers": [
+    "Book Teasers",
+    "Book Promotional Videos",
+    "Author Interviews"
+  ],
+  "Meditation Videos": [],
+  "Real Estate Promos": [],
+  "Virtual & Streaming Avatars": [
+    "Vtuber Avatars",
+    "AI Avatars",
+    "VR & Metaverse Avatars"
+  ],
+  "Game Trailers": [
+    "Game Cinematics",
+    "Game Teasers",
+    "Game Promotional Videos"
+  ],
+  "Video Advice": [
+    "Video Review & Consultation",
+    "Video Mentorship",
+    "Video Lessons"
+  ],
+  "Other": []
+},
+"Music & Audio": {
+  "Voice Over": [
+    "Commercial Voice Over",
+    "Narration",
+    "Audiobook Voice Over",
+    "Character Voices",
+    "IVR & Phone Systems",
+    "Podcast Voice Over",
+    "Explainer Video Voice Over",
+    "Animation Voice Over",
+    "E-Learning Voice Over",
+    "Video Game Voice Over",
+    "Dubbing & Localization",
+    "Children's Content Voice Over",
+    "Corporate Voice Over",
+    "YouTube Voice Over"
+  ],
+  "Mixing & Mastering": [
+    "Mixing",
+    "Mastering",
+    "Dolby Atmos & Immersive Audio"
+  ],
+  "Music Producers": [
+    "Ghost Production",
+    "Beat Making",
+    "Backing Tracks",
+    "Remixing"
+  ],
+  "Composers": [
+    "Film & Soundtrack Composers",
+    "Game Composers",
+    "Musical Theater Composers",
+    "Music Arrangement"
+  ],
+  "Singers & Vocalists": [
+    "Male Singers",
+    "Female Singers",
+    "Gender Neutral Singers",
+    "Choir & Gospel Singers"
+  ],
+  "Session Musicians": [
+    "Guitar",
+    "Drums & Percussion",
+    "Bass",
+    "Piano & Keys",
+    "Strings",
+    "Brass & Woodwind"
+  ],
+  "Songwriters": [
+    "Lyricists",
+    "Topliners",
+    "Song Structure & Arrangement",
+    "Melody Writing"
+  ],
+  "Podcast Production": [
+    "Podcast Editing",
+    "Podcast Mixing",
+    "Podcast Mastering",
+    "Podcast Show Notes"
+  ],
+  "Sound Design": [
+    "Sound Effects",
+    "Foley"
+  ],
+  "Audiobook Production": [
+    "Audiobook Narration",
+    "Audiobook Editing",
+    "Audiobook Mastering",
+    "Audiobook Cover Design"
+  ],
+  "Online Music Lessons": [
+    "Instruments",
+    "Production",
+    "Vocals",
+    "Theory"
+  ],
+  "Audio Editing": [
+    "Audio Restoration",
+    "Audio Cleanup",
+    "Audio Enhancement",
+    "Audio Mixing"
+  ],
+  "Audio Ads Production": [
+    "Radio Ads",
+    "Podcast Ads",
+    "Audio Commercials",
+    "Audio Branding"
+  ],
+  "Music Transcription": [
+    "Sheet Music Transcription",
+    "Chord Charts",
+    "Lead Sheets",
+    "Tablature"
+  ],
+  "Vocal Tuning": [
+    "Pitch Correction",
+    "Vocal Harmonies",
+    "Vocal Layering",
+    "Vocal Effects"
+  ],
+  "Custom Songs": [
+    "Custom Jingles",
+    "Custom Songs for Events",
+    "Custom Songs for Gifts",
+    "Custom Songs for Brands"
+  ],
+  "DJ Drops & Tags": [
+    "DJ Drops",
+    "Producer Tags"
+  ],
+  "DJ Mixing": [
+    "DJ Sets",
+    "Mashups",
+    "Scratching"
+  ],
+  "Custom Patches & Samples": [
+    "Synth & Instrument Presets",
+    "DAW & Software Presets",
+    "Loops & Samples"
+  ],
+  "Meditation Music": [
+    "Guided Meditation Music",
+    "Ambient Meditation Music",
+    "Binaural Beats",
+    "Nature Sounds"
+  ],
+  "Jingles & Intros": [
+    "Jingles",
+    "Intros & Outros"
+  ],
+  "Audio Logo & Sonic Branding": [
+    "Audio Logo Design",
+    "Sonic Branding Strategy",
+    "Sound Identity Development"
+  ],
+  "Music & Audio Advice": [
+    "Music & Audio Mentorship",
+    "Music Review & Feedback"
+  ],
+  "Voice Synthesis & AI": [
+    "Text-to-speech",
+    "Custom AI Voices",
+    "Speech Recognition"
+  ],
+  "Audio Plugin Development": [
+    "VST Plugins",
+    "Audio Effects Plugins",
+    "Synthesizer Plugins",
+    "Audio Analysis Tools"
+  ],
+  "Other": []
+},
+"Business": {
+  "Legal Consulting": [
+    "Business & Commercial Contracts",
+    "Legal Research",
+    "Legal Documents & Review",
+    "General Legal Advice",
+    "Dispute Resolution Services"
+  ],
+  "E-Commerce Management": [
+    "Consultation",
+    "E-Commerce Store Setup",
+    "Product Upload",
+    "E-Commerce Store Management",
+    "Product Research"
+  ],
+  "Sales": [
+    "Strategy & Planning",
+    "Lead Generation",
+    "Lead Qualification",
+    "Deal Development"
+  ],
+  "Business Formation & Registration": [
+    "Business Structure Consultation",
+    "Document Preparation",
+    "Tax Setup & EIN Application",
+    "Business Registration",
+    "Compliance & Ongoing Requirements"
+  ],
+  "Intellectual Property Management": [
+    "Patent & Trademark Search",
+    "Filing & Registration",
+    "Patent Licensing & Monetization",
+    "Trademark Monitoring & Enforcement",
+    "Infringement Protection & DMCA Takedown",
+    "Intellectual Property Consulting"
+  ],
+  "Virtual Assistant": [
+    "Call Center & Calling",
+    "Messaging & Emailing",
+    "Research Assistant",
+    "File Conversion",
+    "Template Docs & Formatting",
+    "General Assistance",
+    "Fact Checking"
+  ],
+  "Business Plans": [
+    "Business Plans for Startups",
+    "Business Plans for Loan Approval",
+    "Business Plans for Non-Profits",
+    "Business Plans for Immigration",
+    "Business Plans for Partnerships"
+  ],
+  "Market Research": [
+    "Full Package Qual & Quant",
+    "Interviews & Focus Groups",
+    "Domain Name Research",
+    "General Online Research",
+    "Consultation",
+    "Surveys"
+  ],
+  "Business Consulting": [
+    "Business Strategy & Innovation",
+    "Business Efficiency & Automation",
+    "Risk Management",
+    "Digital Transformation Consulting"
+  ],
+  "Presentations": [
+    "Pitch Decks",
+    "Course Presentations",
+    "Business Presentations"
+  ],
+  "Project Management": [
+    "Project Planning & Scheduling",
+    "Risk Management",
+    "Resource Allocation",
+    "Project Monitoring & Reporting",
+    "Agile Project Management",
+    "Waterfall Project Management"
+  ],
+  "Software Management": [
+    "CRM Management",
+    "Project Management Software",
+    "ERP Management"
+  ],
+  "HR Consulting": [
+    "Organizational Development",
+    "Talent Acquisition & Recruitment",
+    "Performance Management",
+    "Employee Learning & Development",
+    "Compensation & Benefits",
+    "HR Information Systems"
+  ],
+  "Customer Care": [
+    "Customer Support",
+    "Planning & Setup",
+    "Consulting",
+    "Customer Success"
+  ],
+  "Online Investigations": [
+    "Corporate Investigations",
+    "CCTV Monitoring",
+    "Background Checks",
+    "Skip Tracing"
+  ],
+  "Sustainability Consulting": [
+    "Sustainability Strategy",
+    "Sustainability Reporting",
+    "Sustainability Training & Workshops",
+    "Sustainability Audits & Assessments"
+  ],
+  "Supply Chain Management": [
+    "Customs & Tariff Advisory",
+    "Logistics",
+    "Procurement & Vendor Management"
+  ],
+  "Product Management": [
+    "User Research & Insights",
+    "Product Strategy & Roadmapping",
+    "Product Prioritization & Execution",
+    "Product Consultation"
+  ],
+  "Event Management": [
+    "Event Planning & Coordination",
+    "Event Marketing & Promotion",
+    "Event Logistics & Operations",
+    "Event Budgeting & Financial Management"
+  ],
+  "AI Consulting": [
+    "AI Strategy",
+    "AI Lessons"
+  ],
+  "Game Concept Design": [
+    "Game Design Documents",
+    "Game Mechanics Design",
+    "Game Story & Narrative Design",
+    "Game Monetization Strategy"
+  ],
+  "Customer Experience Management (CXM)": [
+    "Customer Journey Mapping",
+    "Customer Personalization Strategy",
+    "Loyalty & Retention Programs",
+    "Customer Engagement Strategy",
+    "Voice of Customer (VoC)"
+  ]
+},
+"Personal Growth & Hobbies": {
+  "Online Tutoring": [
+    "Math Tutoring",
+    "Science Tutoring",
+    "Social Sciences Tutoring",
+    "Business Tutoring",
+    "Other Subjects",
+    "Engineering Tutoring"
+  ],
+  "Language Lessons": [
+    "Hindi Lessons",
+    "English Lessons",
+    "Spanish Lessons",
+    "French Lessons",
+    "German Lessons",
+    "Chinese Lessons",
+    "Japanese Lessons",
+    "Italian Lessons",
+    "Russian Lessons",
+    "Korean Lessons",
+    "Other Languages"
+  ],
+  "Life Coaching": [
+    "Personal Growth",
+    "Accountability & Time Management",
+    "Relationship Advice"
+  ],
+  "Competitive Gaming": [
+    "Game Coaching",
+    "eSports Management & Strategy"
+  ],
+  "Game Recordings & Guides": [
+    "Game Walkthroughs",
+    "Game Guides & Tutorials",
+    "Game Strategy Guides",
+    "Game Reviews & Analysis"
+  ],
+  "Gameplay Experience & Feedback": [
+    "Gameplay Recording & Analysis",
+    "Gameplay Feedback & Improvement",
+    "Gameplay Strategy Consultation"
+  ],
+  "Recreational Gaming": [
+    "Game Matchmaking",
+    "Other Gaming Services"
+  ],
+  "Ingame Creation": [
+    "Ingame Architecture",
+    "World Building"
+  ],
+  "Career Counseling": [
+    "Interview Prep",
+    "Search & Apply",
+    "Career Consulting",
+    "Leadership Development",
+    "Retirement Planning & Coaching",
+    "College Admission Consulting"
+  ],
+  "Arts & Crafts": [
+    "Painting & Drawing",
+    "Sculpting & Pottery",
+    "Crafting & DIY Projects",
+    "Photography & Videography",
+    "Calligraphy & Hand Lettering",
+    "Quilting & Sewing",
+    "Knitting & Crocheting",
+    "Woodworking & Carpentry"
+  ],
+  "Embroidery Digitizing": [
+    "Embroidery Design",
+    "Embroidery File Conversion",
+    "Custom Embroidery Patterns",
+    "Embroidery Consultation"
+  ],
+  "Astrology & Psychics": [
+    "Readings & Channeling",
+    "Astrology & Horoscope",
+    "Numerology",
+    "Spell Casting",
+    "Feng Shui & Space Cleansing",
+    "Reiki & Energy Balance"
+  ],
+  "Modeling & Acting": [
+    "Modeling",
+    "Acting",
+    "Voice Acting",
+    "Dancing"
+  ],
+  "Fitness": [
+    "Fitness Lessons",
+    "Workout Plans",
+    "Dance Lessons",
+    "Sports Review & Consultation"
+  ],
+  "Nutrition": [
+    "Recipe Creation",
+    "Meal Plans",
+    "Nutrition Coaching"
+  ],
+  "Wellness": [
+    "Guided Meditation",
+    "Mindfulness Coaching"
+  ],
+  "Traveling": [
+    "Local Advisors",
+    "Shipping Services",
+    "Trip Plans",
+    "Visa Application & Submission"
+  ],
+  "Puzzle & Game Creation": [
+    "Puzzle Design",
+    "Game Design",
+    "Board Game Design",
+    "Card Game Design"
+  ],
+  "Styling & Beauty": [
+    "Fashion Stylists",
+    "Hair & Makeup",
+    "Skincare Advice"
+  ],
+  "Trend Forecasting": [
+    "Fashion Trend Forecasting",
+    "Beauty Trend Forecasting",
+    "Lifestyle Trend Forecasting",
+    "Technology Trend Forecasting"
+  ],
+  "Cosmetics Formulation": [
+    "Skincare Formulation",
+    "Makeup Formulation",
+    "Haircare Formulation",
+    "Fragrance Formulation"
+  ],
+  "Family & Genealogy": [
+    "Family Tree Research",
+    "Genealogy Research",
+    "DNA Analysis & Interpretation",
+    "Family History Writing"
+  ],
+  "Greeting Cards & Videos": [
+    "Greeting Card Design",
+    "Personalized Greeting Videos",
+    "Custom Messages & Wishes",
+    "Animated Greeting Cards"
+  ],
+  "Collectibles": [
+    "Trading Cards",
+    "Stamps & Coins",
+    "Vintage Items",
+    "Action Figures & Toys",
+    "Art & Antiques"
+  ],
+  "Tabletop Games": [
+    "Card Games & Deck Building",
+    "Campaigns & Game Masters"
+  ],
+  "Cosplay Creation": [
+    "Cosplay Design",
+    "Cosplay Sewing & Crafting",
+    "Cosplay Makeup & Styling",
+    "Cosplay Photography"
+  ],
+  "Other": []
+},
+"Programming & Tech": {
+  "Website Development": [
+    "WordPress",
+    "Shopify",
+    "Wix",
+    "Squarespace",
+    "Webflow",
+    "Bubble",
+    "WooCommerce",
+    "ClickFunnels",
+    "Custom Websites",
+    "Magento",
+    "SiteBuilder",
+    "Thinkific",
+    "Drupal",
+    "GoDaddy",
+    "Joomla",
+    "Blogger",
+    "Opencart",
+    "Other Builders",
+    "BigCommerce",
+    "Prestashop",
+    "Shopware",
+    "Big Cartel",
+    "OsCommerce",
+    "Weebly",
+    "Simvoly",
+    "Ionos",
+    "Tilda",
+    "Jimdo",
+    "Strikingly"
+  ],
+  "Website Maintenance": [
+    "Customization",
+    "Bug Fixes",
+    "Backup & Migration",
+    "Hosting & Domain",
+    "Themes/Plugins Installation",
+    "Help/Consultation",
+    "Installation",
+    "Speed Optimization",
+    "Security",
+    "Analytics"
+  ],
+  "Software Development": [
+    "CRM & ERP Development",
+    "Web Application",
+    "Desktop Applications",
+    "API & Integrations",
+    "Bug Fixes",
+    "Automations & Workflows",
+    "Browser Extensions",
+    "Email Template",
+    "Figma to Web & App",
+    "Scripting",
+    "Help/Consultation",
+    "Plugins Development"
+  ],
+  "Mobile App Development": [
+    "Cross-Platform Development",
+    "Website to App",
+    "Android App Development",
+    "iOS App Development",
+    "TV App Development"
+  ],
+  "Game Development": [
+    "Consultation",
+    "Backup & Migration",
+    "Customization",
+    "Prototyping",
+    "Full Game Creation",
+    "Game Mods",
+    "Bug Fixes"
+  ],
+  "AI Development": [
+    "AI Mobile Apps",
+    "AI Websites & Software",
+    "AI Agents",
+    "Custom GPT Apps",
+    "AI Technology Consulting",
+    "AI Integrations"
+  ],
+  "Chatbot Development": [
+    "Rule Based Chatbots",
+    "AI Chatbot Development"
+  ],
+  "Cloud Computing": [
+    "Cloud Consultation",
+    "Cloud Network & Security",
+    "Cloud Management",
+    "Serverless Computing"
+  ],
+  "DevOps Engineering": [
+    "DevOps Consultation.",
+    "Infra as Code.",
+    "CI/CD Pipelines",
+    "DevOps Containerization.",
+    "DevOps Consulting."
+  ],
+  "Support & IT": [
+    "Technical Support",
+    "Server Administration",
+    "Email Management",
+    "VoIP and Telephony",
+    "Software Installation",
+    "CCTV Setup",
+    "Platform Migrations"
+  ],
+  "Cryptocurrencies & Tokens": [
+    "E-Wallet Development",
+    "Coin Design & Tokenization",
+    "Exchange Platforms",
+    "Smart Contracts"
+  ],
+  "Blockchain Development & Solutions": [
+    "Chain Analysis",
+    "Blockchain Protocol Development",
+    "Technical Support",
+    "Blockchain Security & Audits",
+    "Decentralized Applications (dApps)"
+  ],
+  "NFT Development": [
+    "NFT Generators",
+    "NFT Marketplace",
+    "NFT Websites"
+  ],
+  "Mobile App Maintenance": [
+    "Mobile App Customization",
+    "Mobile App Bug Fixes",
+    "Mobile App Consultation",
+    "Mobile Store Management"
+  ],
+  "Electronics Engineering": [
+    "Industrial Automation",
+    "Embedded Systems & IoT",
+    "Printed Circuit Boards (PCB)"
+  ],
+  "Cybersecurity": [
+    "Consultation",
+    "Compliance Services",
+    "Assessment & Penetration Test",
+    "Cybersecurity Management"
+  ],
+  "Development for Streamers": [
+    "Addons & Customization",
+    "Setup & Installation"
+  ],
+  "Online Coding Lessons": [
+    "Programming Languages",
+    "Web Development",
+    "Mobile App Development",
+    "Game Development",
+    "AI & Machine Learning",
+    "Data Science & Analytics",
+    "DevOps & Cloud Computing"
+  ],
+  "Wearable App Development": [
+    "Smartwatch Development",
+    "VR & AR Development"
+  ],
+  "Convert Files": [
+    "Convert to a Fillable Form",
+    "Convert to an eBook",
+    "Convert to an Editable File",
+    "Convert to Another File"
+  ],
+  "User Testing": [
+    "Usability Testing",
+    "A/B Testing",
+    "User Experience Testing",
+    "Accessibility Testing"
+  ],
+  "QA & Review": [
+    "Design Review",
+    "Code Review",
+    "Software Testing"
+  ],
+  "Trading Bots Development": [
+    "Crypto Trading Bots",
+    "Stock Trading Bots",
+    "Forex Trading Bots",
+    "Options Trading Bots"
+  ],
+  "Other": []
+},
+"Data": {
+  "Data Governance & Protection": [
+    "Data Governance Frameworks",
+    "Data Protection & Privacy",
+    "Data Compliance & Regulations",
+    "Data Security & Encryption",
+    "Data Quality Management"
+  ],
+  "Data Scraping": [
+    "Web Scraping",
+    "Data Extraction",
+    "Data Mining",
+    "Data Harvesting"
+  ],
+  "Data Labeling & Annotation": [
+    "Image Annotation",
+    "Text Annotation",
+    "Audio Annotation",
+    "Video Annotation",
+    "3D Point Cloud Annotation"
+  ],
+  "Data Formatting": [
+    "Data Formatting Consultation",
+    "Data Formatting Automation",
+    "Data Formatting Formulas & Macros"
+  ],
+  "Databases": [
+    "Consultation",
+    "Database Administration (DBA)",
+    "SQL & NoSQL Queries",
+    "Design & Optimization",
+    "Database Development",
+    "Database Migration & Performance"
+  ],
+  "Data Cleaning": [
+    "Data Deduplication",
+    "Data Validation",
+    "Data Standardization",
+    "Data Normalization"
+  ],
+  "Data Enrichment": [
+    "Data Enrichment Consultation",
+    "Data Enrichment Automation",
+    "Data Enrichment Formulas & Macros"
+  ],
+  "Data Processing": [
+    "Consultation",
+    "Automations",
+    "Formulas & Macros"
+  ],
+  "Data Engineering": [
+    "Data Pipeline Development",
+    "ETL Processes",
+    "Data Warehousing",
+    "Big Data Solutions",
+    "Data Integration",
+    "Data Migration"
+  ],
+  "Data Analytics": [
+    "BI Analytics",
+    "Data Analytics Consultation",
+    "Supply Chain Analytics",
+    "Financial Analytics",
+    "Statistical Modeling & Analytics",
+    "Product Analytics",
+    "Marketing Analytics"
+  ],
+  "Data Visualization": [
+    "Consultation",
+    "Reports",
+    "Geographic Information Systems (GIS)",
+    "Data Dashboards",
+    "Graphs & Charts"
+  ],
+  "Data Science & ML": [
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "AI Model Fine-Tuning",
+    "Natural Language Processing",
+    "Generative Models",
+    "Time Series Analysis",
+    "Data Science Consultation"
+  ],
+  "Data Entry": [
+    "Web Research",
+    "Copy Paste",
+    "Data Typing"
+  ],
+  "Other": []
+},
+"Digital Marketing": {
+  "Social Media Marketing": [
+    "Profile Setup & Integration",
+    "Social Content",
+    "Social Media Management",
+    "Analytics & Tracking",
+    "Paid Social Media",
+    "Social Media Strategy",
+    "Organic Social Promotions"
+  ],
+  "Guest Posting": [
+    "Guest Post Writing",
+    "Guest Post Publishing",
+    "Guest Post Outreach",
+    "Guest Post Strategy"
+  ],
+  "Search Engine Optimization (SEO)": [
+    "Keyword Research",
+    "On-Page SEO",
+    "Voice Search SEO",
+    "SEO Strategy",
+    "Technical SEO",
+    "Off-Page SEO",
+    "Competitor Analysis",
+    "Full SEO Package"
+  ],
+  "Generative Engine Optimization": [
+    "Generative Engine Optimization",
+    "Generative Engine Strategy",
+    "Generative Engine Content Creation"
+  ],
+  "Public Relations": [
+    "Consultation",
+    "Events, Conferences & Awards",
+    "Press Release Pitching",
+    "Strategy & Planning"
+  ],
+  "Book & eBook Marketing": [
+    "Book Launch Strategy",
+    "Book Promotion",
+    "Book Reviews & Testimonials",
+    "Author Branding"
+  ],
+  "Podcast Marketing": [
+    "Podcast Promotion",
+    "Advertising within Podcasts"
+  ],
+  "Video Marketing": [
+    "YouTube Channel Management",
+    "Consultation & Audience Research",
+    "Video SEO",
+    "Online Video Advertising",
+    "Organic Video Promotion & Distribution",
+    "YouTube Monetization",
+    "Live Video Streaming"
+  ],
+  "Email Marketing": [
+    "Campaign Management",
+    "Email Automations",
+    "Email Platform Support",
+    "Audience Development",
+    "Cold Emails"
+  ],
+  "Text Message Marketing": [
+    "SMS Campaigns",
+    "MMS Campaigns",
+    "Text Message Automation",
+    "Text Message List Building"
+  ],
+  "Crowdfunding": [
+    "Campaign Marketing",
+    "Campaign Creation"
+  ],
+  "Search Engine Marketing (SEM)": [
+    "Setup & Strategy Consultation",
+    "Search Engine Marketing Management",
+    "Shopping Ads",
+    "Ad Review & Optimization"
+  ],
+  "Display Advertising": [
+    "Campaign Setup & Management",
+    "Ad Review & Optimization",
+    "Retargeting",
+    "Native Advertising",
+    "Audio Advertising"
+  ],
+  "Web Traffic": [
+    "Traffic Generation",
+    "Traffic Analysis",
+    "Traffic Optimization"
+  ],
+  "Marketing Concepts & Ideation": [
+    "Marketing Concepts",
+    "Marketing Ideation",
+    "Marketing Campaigns"
+  ],
+  "Web Analytics": [
+    "Setup",
+    "Tracking & Reporting",
+    "Optimization",
+    "Bug Fixes"
+  ],
+  "Marketing Advice": [
+    "Marketing Mentorship",
+    "Marketing Lessons"
+  ],
+  "Marketing Strategy": [
+    "Marketing Consulting",
+    "Digital Marketing Strategy",
+    "Brand  Strategy",
+    "ABM Strategy",
+    "Omnichannel Strategy",
+    "CRM & Retention Strategy",
+    "UGC Strategy"
+  ],
+  "Influencer Marketing": [
+    "Strategy & Research",
+    "Shoutouts & Promotion",
+    "Influencer Management",
+    "Long-Term Collaborations"
+  ],
+  "Community Management": [
+    "Planning, Strategy & Setup",
+    "Sourcing & Recruitment",
+    "Growth, Partnerships & Monetization",
+    "Management & Engagement",
+    "Social Listening",
+    "Event Marketing"
+  ],
+  "Local SEO": [
+    "Google My Business (Google Business Profile)",
+    "Local Citations and Directories"
+  ],
+  "E-Commerce Marketing": [
+    "Promoted Listings",
+    "E-Commerce marketing strategy",
+    "E-Commerce SEO",
+    "Website Promotion"
+  ],
+  "Affiliate Marketing": [
+    "Affiliates Recruitment",
+    "Affiliate Marketing Monetization & Funnels",
+    "Affiliate Link Promotion",
+    "Affiliate Program Management",
+    "Affiliate Program Strategy & Setup",
+    "Affiliate Marketing Consultation"
+  ],
+  "Mobile App Marketing": [
+    "App Store Optimization",
+    "App Promotion"
+  ],
+  "Music Promotion": [
+    "Organic Promotion",
+    "Paid Advertising",
+    "Music Streaming Services",
+    "Playlists and Placements"
+  ],
+  "Conversion Rate Optimization (CRO)": [
+    "A/B Testing",
+    "User Experience (UX) Optimization",
+    "Landing Page Optimization",
+    "Funnel Optimization",
+    "Heatmaps & User Behavior Analysis"
+  ],
+  "Social Commerce": [
+    "Social Commerce Setup & Integration",
+    "Social Commerce Maintenance",
+    "Social Commerce Analytics & Reporting"
+  ],
+  "Marketing Automation": [
+    "PPC Automation",
+    "Social Media Automation",
+    "Marketing Analytics and Reporting Automation"
+  ],
+  "Conscious Branding & Marketing": [
+    "Sustainability & Social Responsibility Marketing",
+    "Diversity & Inclusion (D&I) Marketing",
+    "Employer Branding strategy",
+    "Occasion-Based Marketing"
+  ]
+},
+"Photography": {
+  "Product Photographers": [],
+  "Portrait Photographers": [],
+  "Lifestyle & Fashion Photographers": [],
+  "Real Estate Photographers": [],
+  "Event Photographers": [],
+  "Food Photographers": [],
+  "Scenic Photographers": [],
+  "Photo Preset Creation": [],
+  "Photography Advice": [
+    "Photography Lessons",
+    "Photography Mentorship"
+  ],
+  "Other": []
+},
+"AI Services": {
+  "AI Art Generation": [
+    "AI Art Generation",
+    "AI Art Customization",
+    "AI Art Style Transfer"
+  ],
+  "AI Content Generation": [
+    "AI Text Generation",
+    "AI Image Generation",
+    "AI Video Generation"
+  ],
+  "AI Chatbots": [
+    "Custom Chatbot Development",
+    "Chatbot Integration",
+    "Chatbot Training"
+  ],
+  "AI Data Analysis": [
+    "Predictive Analytics",
+    "Data Visualization",
+    "Natural Language Processing"
+  ],
+  "AI Automation": [
+    "Workflow Automation",
+    "Task Automation",
+    "Process Automation"
+  ],
+  "Other": []
+},
+"Consulting": {
+  "Business Consulting": [
+    "Business Strategy",
+    "Marketing Strategy",
+    "Financial Consulting",
+    "Operations Consulting"
+  ],
+  "IT Consulting": [
+    "IT Strategy",
+    "Cybersecurity Consulting",
+    "Cloud Computing Consulting",
+    "Software Development Consulting"
+  ],
+  "HR Consulting": [
+    "HR Strategy",
+    "Talent Acquisition",
+    "Employee Engagement",
+    "Performance Management"
+  ],
+  "Legal Consulting": [
+    "Contract Review",
+    "Compliance Consulting",
+    "Intellectual Property Consulting"
+  ],
+  "Other": []
+}
 }

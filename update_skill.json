@@ -6079,5 +6079,811 @@
       }
     },
     "Other": {}
+  },
+  "AI Services": {
+    "AI Art Generation": {
+      "AI Art Generation": {
+        "skill": [
+          "Stable Diffusion",
+          "MidJourney",
+          "Prompt Engineering"
+        ]
+      },
+      "AI Art Customization": {
+        "skill": [
+          "Photoshop",
+          "AI Fine-Tuning",
+          "Generative Fill"
+        ]
+      },
+      "AI Art Style Transfer": {
+        "skill": [
+          "Neural Style Transfer",
+          "DeepArt",
+          "StyleGAN"
+        ]
+      }
+    },
+    "AI Content Generation": {
+      "AI Text Generation": {
+        "skill": [
+          "GPT",
+          "Natural Language Generation",
+          "Prompt Engineering"
+        ]
+      },
+      "AI Image Generation": {
+        "skill": [
+          "DALL·E",
+          "Runway ML",
+          "Generative Adversarial Networks"
+        ]
+      },
+      "AI Video Generation": {
+        "skill": [
+          "Synthesia",
+          "Runway ML",
+          "Text-to-Video"
+        ]
+      }
+    },
+    "AI Chatbots": {
+      "Custom Chatbot Development": {
+        "skill": [
+          "Dialogflow",
+          "Rasa",
+          "Botpress"
+        ]
+      },
+      "Chatbot Integration": {
+        "skill": [
+          "API Integration",
+          "Webhooks",
+          "CRM Integration"
+        ]
+      },
+      "Chatbot Training": {
+        "skill": [
+          "Intents & Entities",
+          "Machine Learning",
+          "User Training Data"
+        ]
+      }
+    },
+    "AI Data Analysis": {
+      "Predictive Analytics": {
+        "skill": [
+          "Scikit-learn",
+          "Regression Models",
+          "Time Series Forecasting"
+        ]
+      },
+      "Data Visualization": {
+        "skill": [
+          "Matplotlib",
+          "Power BI",
+          "Tableau"
+        ]
+      },
+      "Natural Language Processing": {
+        "skill": [
+          "SpaCy",
+          "NLTK",
+          "BERT"
+        ]
+      }
+    },
+    "AI Automation": {
+      "Workflow Automation": {
+        "skill": [
+          "Zapier",
+          "Integromat",
+          "Python Scripting"
+        ]
+      },
+      "Task Automation": {
+        "skill": [
+          "Robotic Process Automation",
+          "AutoHotkey",
+          "Python"
+        ]
+      },
+      "Process Automation": {
+        "skill": [
+          "UiPath",
+          "Blue Prism",
+          "Automation Anywhere"
+        ]
+      }
+    },
+    "Other": {}
+  },
+  "Consulting": {
+    "Business Consulting": {
+      "Business Strategy": {
+        "skill": [
+          "Market Analysis",
+          "Competitive Analysis",
+          "Growth Planning"
+        ]
+      },
+      "Marketing Strategy": {
+        "skill": [
+          "Digital Marketing",
+          "SEO",
+          "Content Strategy"
+        ]
+      },
+      "Financial Consulting": {
+        "skill": [
+          "Financial Modeling",
+          "Budgeting",
+          "Risk Management"
+        ]
+      },
+      "Operations Consulting": {
+        "skill": [
+          "Process Improvement",
+          "Lean Six Sigma",
+          "Supply Chain Management"
+        ]
+      }
+    },
+    "IT Consulting": {
+      "IT Strategy": {
+        "skill": [
+          "IT Roadmapping",
+          "Technology Assessment",
+          "Digital Transformation"
+        ]
+      },
+      "Cybersecurity Consulting": {
+        "skill": [
+          "Vulnerability Assessment",
+          "Penetration Testing",
+          "Security Audits"
+        ]
+      },
+      "Cloud Computing Consulting": {
+        "skill": [
+          "AWS",
+          "Azure",
+          "Cloud Migration"
+        ]
+      },
+      "Software Development Consulting": {
+        "skill": [
+          "Agile Methodology",
+          "DevOps",
+          "Code Review"
+        ]
+      }
+    },
+    "HR Consulting": {
+      "HR Strategy": {
+        "skill": [
+          "Workforce Planning",
+          "Organizational Development",
+          "HR Policies"
+        ]
+      },
+      "Talent Acquisition": {
+        "skill": [
+          "Recruitment Strategies",
+          "Interviewing",
+          "Candidate Sourcing"
+        ]
+      },
+      "Employee Engagement": {
+        "skill": [
+          "Employee Surveys",
+          "Retention Strategies",
+          "Team Building"
+        ]
+      },
+      "Performance Management": {
+        "skill": [
+          "KPIs",
+          "Performance Reviews",
+          "Feedback Systems"
+        ]
+      }
+    },
+    "Legal Consulting": {
+      "Contract Review": {
+        "skill": [
+          "Contract Drafting",
+          "Risk Analysis",
+          "Negotiation"
+        ]
+      },
+      "Compliance Consulting": {
+        "skill": [
+          "Regulatory Compliance",
+          "Audit Preparation",
+          "Policy Development"
+        ]
+      },
+      "Intellectual Property Consulting": {
+        "skill": [
+          "Patent Law",
+          "Trademark Registration",
+          "IP Strategy"
+        ]
+      }
+    },
+    "Other": {}
+  },
+  "Video & Animation": {
+    "Animated Explainers": {
+      "2D Animated Explainers": {
+        "skill": [
+          "Adobe After Effects",
+          "Illustrator"
+        ]
+      },
+      "3D Animated Explainers": {
+        "skill": [
+          "Blender",
+          "Cinema 4D",
+          "Maya"
+        ]
+      },
+      "Isometric Explainers": {
+        "skill": [
+          "Adobe Illustrator",
+          "After Effects"
+        ]
+      },
+      "Whiteboard Animation": {
+        "skill": [
+          "VideoScribe",
+          "Doodly"
+        ]
+      }
+    },
+    "Animated Logos": {
+      "2D Animated Logos": {
+        "skill": [
+          "Adobe After Effects",
+          "Illustrator"
+        ]
+      },
+      "3D Animated Logos": {
+        "skill": [
+          "Blender",
+          "Cinema 4D"
+        ]
+      },
+      "Logo Reveal Animations": {
+        "skill": [
+          "After Effects",
+          "Motion Graphics"
+        ]
+      }
+    },
+    "Music Videos": {
+      "Lyric Videos": {
+        "skill": [
+          "Kinetic Typography",
+          "After Effects"
+        ]
+      },
+      "Music Visualization": {
+        "skill": [
+          "After Effects",
+          "Trapcode Suite"
+        ]
+      },
+      "Dance Videos": {
+        "skill": [
+          "Filming",
+          "Editing to Beat"
+        ]
+      },
+      "Narrative-Based Videos": {
+        "skill": [
+          "Storyboarding",
+          "Cinematography"
+        ]
+      },
+      "Performance Videos": {
+        "skill": [
+          "Multi-Cam Editing"
+        ]
+      },
+      "Conceptual Videos": {
+        "skill": [
+          "Creative Direction",
+          "Post Production"
+        ]
+      },
+      "Anime Music Videos": {
+        "skill": [
+          "Anime Cuts",
+          "Music Syncing"
+        ]
+      },
+      "Spotify Canvas": {
+        "skill": [
+          "Short Loop Animation",
+          "GIF Export"
+        ]
+      }
+    },
+    "Video Art": {
+      "Experimental Video Art": {
+        "skill": [
+          "Video Editing",
+          "Glitch Effects"
+        ]
+      },
+      "AI Video Art": {
+        "skill": [
+          "RunwayML",
+          "Gen-2",
+          "Stable Video"
+        ]
+      },
+      "Image Animation": {
+        "skill": [
+          "Photo Motion",
+          "Parallax"
+        ]
+      },
+      "Video Installations": {
+        "skill": [
+          "Projection Mapping",
+          "Art Direction"
+        ]
+      }
+    },
+    "Subtitles & Captions": {
+      "Subtitles": {
+        "skill": [
+          "Subtitle Software",
+          "SRT Formatting"
+        ]
+      },
+      "Social Media Captions": {
+        "skill": [
+          "Auto-captioning Tools",
+          "Burn-in Captions"
+        ]
+      }
+    },
+    "NFT Animation": {
+      "NFT Animated Art": {
+        "skill": [
+          "Looping Animation",
+          "GIF Export"
+        ]
+      },
+      "NFT Animated GIFs": {
+        "skill": [
+          "GIF Creation",
+          "After Effects"
+        ]
+      },
+      "NFT Animated Logos": {
+        "skill": [
+          "Logo Animation",
+          "Exporting to NFT Format"
+        ]
+      },
+      "NFT Animated Characters": {
+        "skill": [
+          "2D/3D Animation",
+          "Crypto Wallet Basics"
+        ]
+      }
+    },
+    "Visual Effects": {
+      "Rotoscoping & Chroma Keying": {
+        "skill": [
+          "Mocha Pro",
+          "After Effects"
+        ]
+      },
+      "Color Grading": {
+        "skill": [
+          "DaVinci Resolve",
+          "LUTs"
+        ]
+      },
+      "Match Moving": {
+        "skill": [
+          "PFTrack",
+          "Camera Tracking"
+        ]
+      },
+      "Compositing": {
+        "skill": [
+          "Nuke",
+          "After Effects"
+        ]
+      },
+      "Cleanups": {
+        "skill": [
+          "Paint & Clone",
+          "Frame Cleanup"
+        ]
+      },
+      "Beauty Retouching": {
+        "skill": [
+          "Skin Smoothing",
+          "Makeup FX"
+        ]
+      }
+    },
+    "Lottie & Web Animation": {
+      "Lottie Animations": {
+        "skill": [
+          "Bodymovin Plugin",
+          "After Effects"
+        ]
+      },
+      "Web Animations": {
+        "skill": [
+          "GSAP",
+          "CSS Animation"
+        ]
+      },
+      "SVG Animations": {
+        "skill": [
+          "SVGator",
+          "CSS"
+        ]
+      },
+      "CSS Animations": {
+        "skill": [
+          "Keyframes",
+          "Transitions"
+        ]
+      }
+    },
+    "eLearning Video Production": {
+      "E-Learning Course Videos": {
+        "skill": [
+          "Screen Recording",
+          "Narration"
+        ]
+      },
+      "Training Videos": {
+        "skill": [
+          "Scripting",
+          "B-Roll"
+        ]
+      },
+      "Tutorial Videos": {
+        "skill": [
+          "Step-by-step Instructions",
+          "Screen Capture"
+        ]
+      },
+      "Educational Videos": {
+        "skill": [
+          "Infographics",
+          "Voiceover"
+        ]
+      }
+    },
+    "Rigging": {
+      "3D Rigging": {
+        "skill": [
+          "Blender",
+          "Maya"
+        ]
+      },
+      "2D Rigging": {
+        "skill": [
+          "Duik",
+          "Spine"
+        ]
+      }
+    },
+    "Corporate Videos": {
+      "Corporate Training Videos": {
+        "skill": [
+          "Presentation Style Editing"
+        ]
+      },
+      "Corporate Promotional Videos": {
+        "skill": [
+          "Brand Messaging"
+        ]
+      },
+      "Corporate Event Videos": {
+        "skill": [
+          "Live Event Coverage"
+        ]
+      },
+      "Corporate Culture Videos": {
+        "skill": [
+          "Interview Style",
+          "Scripting"
+        ]
+      }
+    },
+    "Crowdfunding Videos": {
+      "Kickstarter Videos": {
+        "skill": [
+          "Scriptwriting",
+          "Video Production"
+        ]
+      },
+      "Indiegogo Videos": {
+        "skill": [
+          "Storytelling",
+          "Demo Footage"
+        ]
+      },
+      "Patreon Videos": {
+        "skill": [
+          "Personal Branding"
+        ]
+      },
+      "GoFundMe Videos": {
+        "skill": [
+          "Emotive Storytelling"
+        ]
+      }
+    },
+    "Video Repurposing": {
+      "Social Media Repurposing": {
+        "skill": [
+          "Short Form Editing"
+        ]
+      },
+      "Blog to Video": {
+        "skill": [
+          "Text to Animation Tools"
+        ]
+      },
+      "Podcast to Video": {
+        "skill": [
+          "Audiogram",
+          "Waveform Tools"
+        ]
+      },
+      "Webinar to Video": {
+        "skill": [
+          "Trimming",
+          "Highlight Reel"
+        ]
+      }
+    },
+    "Slideshow Videos": {
+      "Photo Slideshows": {
+        "skill": [
+          "Ken Burns Effect",
+          "Transitions"
+        ]
+      },
+      "Video Slideshows": {
+        "skill": [
+          "Compilation",
+          "Music Sync"
+        ]
+      },
+      "Animated Slideshows": {
+        "skill": [
+          "Motion Graphics",
+          "After Effects"
+        ]
+      },
+      "Event Highlights": {
+        "skill": [
+          "Editing",
+          "Music Timing"
+        ]
+      }
+    },
+    "Video Templates Editing": {
+      "After Effects Templates": {
+        "skill": [
+          "After Effects",
+          "Editing Pre-made Templates"
+        ]
+      },
+      "Premiere Pro Templates": {
+        "skill": [
+          "Premiere Pro"
+        ]
+      },
+      "Final Cut Pro Templates": {
+        "skill": [
+          "Final Cut Pro"
+        ]
+      },
+      "DaVinci Resolve Templates": {
+        "skill": [
+          "DaVinci Resolve"
+        ]
+      }
+    },
+    "App & Website Previews": {
+      "App Previews": {
+        "skill": [
+          "Device Mockups",
+          "Screen Recording"
+        ]
+      },
+      "Website Previews": {
+        "skill": [
+          "Scrolling Demos",
+          "Live Preview"
+        ]
+      },
+      "Software Previews": {
+        "skill": [
+          "Narration",
+          "Feature Highlight"
+        ]
+      },
+      "Game Previews": {
+        "skill": [
+          "Gameplay Capture",
+          "Trailer Editing"
+        ]
+      }
+    },
+    "Book Trailers": {
+      "Book Teasers": {
+        "skill": [
+          "Visual Effects",
+          "Narration"
+        ]
+      },
+      "Book Promotional Videos": {
+        "skill": [
+          "Author Branding"
+        ]
+      },
+      "Author Interviews": {
+        "skill": [
+          "Filming",
+          "Lighting"
+        ]
+      }
+    },
+    "Virtual & Streaming Avatars": {
+      "Vtuber Avatars": {
+        "skill": [
+          "Live2D",
+          "Face Tracking"
+        ]
+      },
+      "AI Avatars": {
+        "skill": [
+          "AI Generation Tools",
+          "Lip Sync"
+        ]
+      },
+      "VR & Metaverse Avatars": {
+        "skill": [
+          "3D Modeling",
+          "Rigging"
+        ]
+      }
+    },
+    "Game Trailers": {
+      "Game Cinematics": {
+        "skill": [
+          "Storyboarding",
+          "VFX"
+        ]
+      },
+      "Game Teasers": {
+        "skill": [
+          "Trailer Editing"
+        ]
+      },
+      "Game Promotional Videos": {
+        "skill": [
+          "Highlight Features"
+        ]
+      }
+    },
+    "Video Advice": {
+      "Video Review & Consultation": {
+        "skill": [
+          "Critical Review",
+          "Video Strategy"
+        ]
+      },
+      "Video Mentorship": {
+        "skill": [
+          "Teaching",
+          "Career Guidance"
+        ]
+      },
+      "Video Lessons": {
+        "skill": [
+          "Tutorial Creation",
+          "Lesson Planning"
+        ]
+      }
+    }
+  },
+
+
+  "Music & Audio": {
+    "Voice Over": {
+      "Commercial Voice Over": { "skill": ["Adobe Audition", "Microphone Techniques"] },
+      "Narration": { "skill": ["Audacity", "Voice Clarity"] },
+      "Audiobook Voice Over": { "skill": ["Adobe Audition", "Noise Reduction"] },
+      "Character Voices": { "skill": ["Voice Modulation", "Creativity"] },
+      "IVR & Phone Systems": { "skill": ["Clear Diction", "Sound Editing"] },
+      "Podcast Voice Over": { "skill": ["GarageBand", "Dynamic Mic Handling"] },
+      "Explainer Video Voice Over": { "skill": ["Adobe Audition", "Clarity"] },
+      "Animation Voice Over": { "skill": ["Acting Skills", "Audacity"] },
+      "E-Learning Voice Over": { "skill": ["Narration", "Articulation"] },
+      "Video Game Voice Over": { "skill": ["Character Acting", "Recording Techniques"] },
+      "Dubbing & Localization": { "skill": ["Lip Sync", "Multilingual Voice Skills"] },
+      "Childrens Content Voice Over": { "skill": ["Energetic Voice", "Playful Tone"] },
+      "Corporate Voice Over": { "skill": ["Professional Tone", "Adobe Audition"] },
+      "YouTube Voice Over": { "skill": ["Audacity", "Engaging Delivery"] }
+    },
+    "Mixing & Mastering": {
+      "Mixing": { "skill": ["FL Studio", "EQ", "Compression"] },
+      "Mastering": { "skill": ["iZotope Ozone", "Limiter", "Multiband Compression"] },
+      "Dolby Atmos & Immersive Audio": { "skill": ["Logic Pro", "3D Sound Design"] }
+    },
+    "Music Producers": {
+      "Ghost Production": { "skill": ["FL Studio", "Arrangement"] },
+      "Beat Making": { "skill": ["Ableton Live", "Sampling"] },
+      "Backing Tracks": { "skill": ["Logic Pro", "Instrumental Production"] },
+      "Remixing": { "skill": ["Stem Separation", "DAWs"] }
+    },
+    "Composers": {
+      "Film & Soundtrack Composers": { "skill": ["Orchestration", "DAWs"] },
+      "Game Composers": { "skill": ["Looping Music", "Unity Integration"] },
+      "Musical Theater Composers": { "skill": ["Sheet Music", "Lyrics Writing"] },
+      "Music Arrangement": { "skill": ["Music Theory", "Digital Notation"] }
+    },
+    "Singers & Vocalists": {
+      "Male Singers": { "skill": ["Vocal Range", "Mic Control"] },
+      "Female Singers": { "skill": ["Harmony", "Studio Recording"] },
+      "Gender Neutral Singers": { "skill": ["Tone Modulation", "Voice Versatility"] },
+      "Choir & Gospel Singers": { "skill": ["Group Singing", "Breathing Technique"] }
+    }
+    ,
+
+
+    "Songwriters": {
+      "Lyricists": { "skill": ["Creative Writing", "Rhyme Schemes"] },
+      "Topliners": { "skill": ["Melody Creation", "Vocal Arrangement"] },
+      "Jingle Writers": { "skill": ["Catchy Hooks", "Brand Messaging"] },
+      "Song Structure Experts": { "skill": ["Verse-Chorus Structure", "Bridge Writing"] }
+    },
+    "Audio Editing": {
+      "Podcast Editing": { "skill": ["Audacity", "Noise Reduction"] },
+      "Music Editing": { "skill": ["FL Studio", "Timing Adjustments"] },
+      "Sound Design": { "skill": ["SFX Creation", "Field Recording"] },
+      "Audio Restoration": { "skill": ["Click Removal", "Noise Reduction"] }
+    },
+    "Sound Effects": {
+      "Foley Artists": { "skill": ["Sound Recording", "SFX Creation"] },
+      "SFX Libraries": { "skill": ["Sound Cataloging", "Editing"] },
+      "Custom Sound Effects": { "skill": ["Field Recording", "Audio Editing"] }
+    },
+    "Music Lessons": {
+      "Instrument Lessons": { "skill": ["Guitar", "Piano", "Drums"] },
+      "Vocal Lessons": { "skill": ["Breathing Techniques", "Pitch Control"] },
+      "Music Theory Lessons": { "skill": ["Chord Progressions", "Scales"] },
+      "Songwriting Lessons": { "skill": ["Lyric Writing", "Melody Creation"] }
+    },
+    "Music Advice": {
+      "Music Production Consultation": { "skill": ["DAW Setup", "Production Techniques"] },
+      "Music Career Coaching": { "skill": ["Branding", "Marketing Strategies"] },
+      "Music Industry Insights": { "skill": ["Trends", "Networking"] }
+    }
+
   }
+
+
+
+
+
 }
