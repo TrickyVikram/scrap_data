@@ -1,65 +1,6083 @@
 {
-  "Graphics & Design": {
-   
-    "Game Art": [
-      "Character Design",
-      "Props & Objects",
-      "Backgrounds & Environments",
-      "UI & UX"
-    ]},
- 
-   "AI Services": {
-    "AI Art Generation": [
-      "AI Art Generation",
-      "AI Art Customization",
-      "AI Art Style Transfer"
-    ],
-    "AI Content Generation": [
-      "AI Text Generation",
-      "AI Image Generation",
-      "AI Video Generation"
-    ],
-    "AI Chatbots": [
-      "Custom Chatbot Development",
-      "Chatbot Integration",
-      "Chatbot Training"
-    ],
-    "AI Data Analysis": [
-      "Predictive Analytics",
-      "Data Visualization",
-      "Natural Language Processing"
-    ],
-    "AI Automation": [
-      "Workflow Automation",
-      "Task Automation",
-      "Process Automation"
-    ],
-    "Other AI Services": []
+  "Programming & Tech": {
+    "Web Development": {
+      "Frontend Development": {
+        "skill": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js",
+          "blade",
+          "Vue.js",
+          "Angular",
+          "Bootstrap",
+          "Next.js",
+          "Tailwind CSS"
+        ]
+      },
+      "Backend Development": {
+        "skill": [
+          "Node.js",
+          "Express.js",
+          "Django",
+          "Flask",
+          "Laravel",
+          "Ruby on Rails",
+          "Spring Boot",
+          "PHP",
+          "Java",
+          "Python",
+          "JavaScript(Backend)",
+          "Kotlin",
+          "Swift",
+          "C#"
+        ]
+      },
+      "Full-Stack Development": {
+        "skill": [
+          "MERN Stack",
+          "MEAN Stack",
+          "LAMP Stack",
+          "Django + React",
+          "Rails + React",
+          "Spring + Angular",
+          "PHP + Vue.js",
+          "Java + Angular",
+          "Python + Flask",
+          "Node.js + React",
+          "JavaScript Full Stack",
+          "Kotlin Full Stack",
+          "Swift Full Stack"
+        ]
+      },
+      "CMS Development": {
+        "skill": [
+          "WordPress",
+          "Drupal",
+          "Joomla",
+          "Magento"
+        ]
+      },
+      "Web Maintenance": {
+        "skill": [
+          "Bug Fixing",
+          "Performance Optimization",
+          "Security Updates",
+          "Cross-browser Testing"
+        ]
+      },
+      "Landing Pages": {
+        "skill": [
+          "Responsive Design",
+          "SEO Basics",
+          "Testing",
+          "Conversion Rate Optimization"
+        ]
+      }
+    },
+    "Mobile App Development": {
+      "iOS App Development": {
+        "skill": [
+          "Swift",
+          "Objective-C",
+          "Xcode",
+          "UIKit",
+          "SwiftUI"
+        ]
+      },
+      "Android App Development": {
+        "skill": [
+          "Kotlin",
+          "Java",
+          "Android Studio",
+          "Jetpack Compose"
+        ]
+      },
+      "Cross Platform Apps": {
+        "skill": [
+          "React Native",
+          "Flutter",
+          "Xamarin",
+          "Ionic"
+        ]
+      },
+      "Mobile App UI/UX": {
+        "skill": [
+          "Figma",
+          "Sketch",
+          "Adobe XD",
+          "Prototyping"
+        ]
+      },
+      "App Maintenance": {
+        "skill": [
+          "Bug Fixes",
+          "Version Updates",
+          "Performance Monitoring"
+        ]
+      }
+    },
+    "Game Development": {
+      "Unity Development": {
+        "skill": [
+          "C#",
+          "Unity Editor",
+          "Shader Programming",
+          "Asset Management"
+        ]
+      },
+      "Unreal Engine Development": {
+        "skill": [
+          "C++",
+          "Blueprints",
+          "Unreal Editor"
+        ]
+      },
+      "Mobile Game Development": {
+        "skill": [
+          "Unity",
+          "Cocos2d-x",
+          "SpriteKit"
+        ]
+      },
+      "2D/3D Game Art": {
+        "skill": [
+          "Blender",
+          "Maya",
+          "Photoshop",
+          "Substance Painter"
+        ]
+      },
+      "Game Testing & QA": {
+        "skill": [
+          "Bug Tracking",
+          "Test Case Writing",
+          "Performance Testing"
+        ]
+      }
+    },
+    "AI Development": {
+      "AI Chatbots": {
+        "skill": [
+          "Dialogflow",
+          "Microsoft Bot Framework",
+          "Rasa"
+        ]
+      },
+      "AI Image Generation": {
+        "skill": [
+          "GANs",
+          "Style Transfer",
+          "DeepDream"
+        ]
+      },
+      "Machine Learning Models": {
+        "skill": [
+          "Scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "Keras"
+        ]
+      },
+      "Deep Learning Projects": {
+        "skill": [
+          "CNN",
+          "RNN",
+          "Transformers",
+          "NLP"
+        ]
+      },
+      "AI Integrations": {
+        "skill": [
+          "API Integration",
+          "Chatbot Deployment",
+          "Automation"
+        ]
+      }
+    },
+    "Data Science & Analytics": {
+      "Data Cleaning": {
+        "skill": [
+          "Pandas",
+          "NumPy",
+          "OpenRefine"
+        ]
+      },
+      "Data Visualization": {
+        "skill": [
+          "Matplotlib",
+          "Seaborn",
+          "Tableau",
+          "Power BI"
+        ]
+      },
+      "Predictive Analytics": {
+        "skill": [
+          "Regression Models",
+          "Time Series Forecasting",
+          "Classification"
+        ]
+      },
+      "Dashboard Creation": {
+        "skill": [
+          "Dash",
+          "Tableau",
+          "Power BI"
+        ]
+      },
+      "Business Intelligence Tools": {
+        "skill": [
+          "Looker",
+          "QlikView",
+          "SAP BI"
+        ]
+      }
+    },
+    "Automation": {
+      "Web Automation": {
+        "skill": [
+          "Selenium",
+          "Puppeteer",
+          "Playwright"
+        ]
+      },
+      "Task Automation": {
+        "skill": [
+          "Zapier",
+          "IFTTT",
+          "UiPath"
+        ]
+      },
+      "Workflow Automation": {
+        "skill": [
+          "Jenkins",
+          "GitHub Actions",
+          "GitLab CI"
+        ]
+      },
+      "Data Scraping Bots": {
+        "skill": [
+          "BeautifulSoup",
+          "Scrapy",
+          "Octoparse"
+        ]
+      },
+      "Custom Scripts": {
+        "skill": [
+          "Python",
+          "Bash",
+          "PowerShell"
+        ]
+      }
+    },
+    "Cybersecurity": {
+      "Penetration Testing": {
+        "skill": [
+          "Metasploit",
+          "Burp Suite",
+          "Nmap"
+        ]
+      },
+      "Security Audit": {
+        "skill": [
+          "Vulnerability Assessment",
+          "Compliance Checking"
+        ]
+      },
+      "Firewall Setup": {
+        "skill": [
+          "iptables",
+          "Cisco ASA"
+        ]
+      },
+      "Vulnerability Fixes": {
+        "skill": [
+          "Patch Management",
+          "Code Review"
+        ]
+      },
+      "Cybersecurity Consulting": {
+        "skill": [
+          "Risk Assessment",
+          "Security Policies"
+        ]
+      }
+    },
+    "DevOps & Cloud": {
+      "CI/CD Setup": {
+        "skill": [
+          "Jenkins",
+          "CircleCI",
+          "GitLab CI/CD"
+        ]
+      },
+      "AWS Services": {
+        "skill": [
+          "EC2",
+          "S3",
+          "Lambda",
+          "CloudFormation"
+        ]
+      },
+      "Google Cloud": {
+        "skill": [
+          "Compute Engine",
+          "Cloud Functions",
+          "BigQuery"
+        ]
+      },
+      "Docker & Kubernetes": {
+        "skill": [
+          "Containerization",
+          "K8s Cluster Management"
+        ]
+      },
+      "Monitoring & Logging": {
+        "skill": [
+          "Prometheus",
+          "Grafana",
+          "ELK Stack"
+        ]
+      }
+    },
+    "Blockchain": {
+      "Smart Contracts": {
+        "skill": [
+          "Solidity",
+          "Truffle",
+          "Hardhat"
+        ]
+      },
+      "DApps": {
+        "skill": [
+          "Web3.js",
+          "Ethers.js",
+          "IPFS"
+        ]
+      },
+      "NFT Marketplace": {
+        "skill": [
+          "OpenSea API",
+          "ERC721",
+          "ERC1155"
+        ]
+      },
+      "Token Development": {
+        "skill": [
+          "ERC20",
+          "Token Standards"
+        ]
+      },
+      "Blockchain Wallet": {
+        "skill": [
+          "MetaMask Integration",
+          "WalletConnect"
+        ]
+      }
+    },
+    "AR/VR Development": {
+      "AR Apps": {
+        "skill": [
+          "ARKit",
+          "ARCore",
+          "Vuforia"
+        ]
+      },
+      "VR Games": {
+        "skill": [
+          "Oculus SDK",
+          "SteamVR"
+        ]
+      },
+      "3D Object Integration": {
+        "skill": [
+          "3D Modeling",
+          "Unity Integration"
+        ]
+      },
+      "AR Filters": {
+        "skill": [
+          "Spark AR",
+          "Lens Studio"
+        ]
+      },
+      "VR Prototyping": {
+        "skill": [
+          "3D Interaction Design",
+          "Prototyping Tools"
+        ]
+      }
+    },
+    "Software Testing": {
+      "Manual Testing": {
+        "skill": [
+          "Test Case Design",
+          "Bug Reporting"
+        ]
+      },
+      "Automated Testing": {
+        "skill": [
+          "Selenium",
+          "JUnit",
+          "TestNG",
+          "Cypress"
+        ]
+      },
+      "Mobile App Testing": {
+        "skill": [
+          "Appium",
+          "Robotium"
+        ]
+      },
+      "Web App Testing": {
+        "skill": [
+          "Selenium",
+          "Cypress"
+        ]
+      },
+      "Load Testing": {
+        "skill": [
+          "JMeter",
+          "LoadRunner"
+        ]
+      }
+    },
+    "E-commerce Development": {
+      "Shopify Development": {
+        "skill": [
+          "Liquid",
+          "Shopify APIs"
+        ]
+      },
+      "WooCommerce": {
+        "skill": [
+          "PHP",
+          "WordPress"
+        ]
+      },
+      "Magento Development": {
+        "skill": [
+          "PHP",
+          "Magento 2",
+          "Composer"
+        ]
+      },
+      "Custom Cart Solutions": {
+        "skill": [
+          "PHP",
+          "JavaScript",
+          "Payment Gateway Integration"
+        ]
+      },
+      "Marketplace Integration": {
+        "skill": [
+          "API Integration",
+          "Third-Party Services"
+        ]
+      }
+    },
+    "Scripting & Utilities": {
+      "Python Scripts": {
+        "skill": [
+          "Automation",
+          "Data Processing",
+          "APIs"
+        ]
+      },
+      "Shell Scripts": {
+        "skill": [
+          "Bash",
+          "Zsh"
+        ]
+      },
+      "Batch Scripts": {
+        "skill": [
+          "Windows CMD"
+        ]
+      },
+      "PowerShell Tools": {
+        "skill": [
+          "System Administration",
+          "Automation"
+        ]
+      },
+      "Task Automation Tools": {
+        "skill": [
+          "Cron Jobs",
+          "Task Scheduler"
+        ]
+      }
+    },
+    "API Development & Integration": {
+      "REST API Development": {
+        "skill": [
+          "Node.js",
+          "Express.js",
+          "Django REST Framework"
+        ]
+      },
+      "GraphQL APIs": {
+        "skill": [
+          "Apollo Server",
+          "GraphQL.js"
+        ]
+      },
+      "Third-Party Integration": {
+        "skill": [
+          "OAuth",
+          "Webhooks",
+          "API Clients"
+        ]
+      },
+      "Payment Gateway Integration": {
+        "skill": [
+          "Stripe",
+          "PayPal",
+          "Razorpay"
+        ]
+      },
+      "OAuth Setup": {
+        "skill": [
+          "OAuth 2.0",
+          "JWT"
+        ]
+      }
+    },
+    "Database Development": {
+      "SQL Database": {
+        "skill": [
+          "MySQL",
+          "PostgreSQL",
+          "SQL Server",
+          "SQLite"
+        ]
+      },
+      "NoSQL Database": {
+        "skill": [
+          "MongoDB",
+          "Cassandra",
+          "Redis"
+        ]
+      },
+      "Database Optimization": {
+        "skill": [
+          "Indexing",
+          "Query Optimization"
+        ]
+      },
+      "Database Migration": {
+        "skill": [
+          "ETL",
+          "Data Migration Tools"
+        ]
+      },
+      "Backup & Recovery": {
+        "skill": [
+          "Disaster Recovery Planning"
+        ]
+      }
+    },
+    "Desktop Applications": {
+      "Windows Software": {
+        "skill": [
+          "C#",
+          ".NET Framework",
+          "WPF"
+        ]
+      },
+      "MacOS Software": {
+        "skill": [
+          "Swift",
+          "Objective-C",
+          "Cocoa"
+        ]
+      },
+      "Electron Apps": {
+        "skill": [
+          "JavaScript",
+          "Node.js",
+          "Electron APIs"
+        ]
+      },
+      "Installer Creation": {
+        "skill": [
+          "Inno Setup",
+          "NSIS"
+        ]
+      },
+      "Legacy Software Upgrade": {
+        "skill": [
+          "Code Refactoring",
+          "Migration"
+        ]
+      }
+    },
+    "UI/UX Design": {
+      "Web App UI Design": {
+        "skill": [
+          "Figma",
+          "Sketch",
+          "Adobe XD",
+          "Responsive Design"
+        ]
+      },
+      "Mobile App UI Design": {
+        "skill": [
+          "Figma",
+          "Adobe XD",
+          "Prototyping"
+        ]
+      },
+      "Prototyping": {
+        "skill": [
+          "InVision",
+          "Marvel",
+          "Axure"
+        ]
+      },
+      "User Testing": {
+        "skill": [
+          "A/B Testing",
+          "Usability Testing"
+        ]
+      },
+      "Interaction Design": {
+        "skill": [
+          "Microinteractions",
+          "Animations"
+        ]
+      }
+    },
+    "Cloud Computing": {
+      "Infrastructure as a Service (IaaS)": {
+        "skill": [
+          "AWS EC2",
+          "Google Compute Engine",
+          "Azure VMs"
+        ]
+      },
+      "Platform as a Service (PaaS)": {
+        "skill": [
+          "Heroku",
+          "AWS Elastic Beanstalk",
+          "Google App Engine"
+        ]
+      },
+      "Serverless Computing": {
+        "skill": [
+          "AWS Lambda",
+          "Azure Functions",
+          "Google Cloud Functions"
+        ]
+      },
+      "Cloud Storage": {
+        "skill": [
+          "AWS S3",
+          "Google Cloud Storage",
+          "Azure Blob Storage"
+        ]
+      },
+      "Cloud Security": {
+        "skill": [
+          "IAM",
+          "Encryption",
+          "Cloud Auditing"
+        ]
+      }
+    },
+    "Technical Writing": {
+      "Documentation": {
+        "skill": [
+          "API Docs",
+          "User Manuals",
+          "Technical Specs"
+        ]
+      },
+      "Blog Writing": {
+        "skill": [
+          "Tech Blogs",
+          "Tutorials",
+          "How-To Guides"
+        ]
+      },
+      "Proposal Writing": {
+        "skill": [
+          "Project Proposals",
+          "Grant Writing"
+        ]
+      },
+      "Whitepapers": {
+        "skill": [
+          "Research Papers",
+          "Technical Reports"
+        ]
+      },
+      "Content Editing": {
+        "skill": [
+          "Proofreading",
+          "Copy Editing"
+        ]
+      }
+    }
   },
-  "Consulting": {
-    "Business Consulting": [
-      "Business Strategy",
-      "Marketing Strategy",
-      "Financial Consulting",
-      "Operations Consulting"
-    ],
-    "IT Consulting": [
-      "IT Strategy",
-      "Cybersecurity Consulting",
-      "Cloud Computing Consulting",
-      "Software Development Consulting"
-    ],
-    "HR Consulting": [
-      "HR Strategy",
-      "Talent Acquisition",
-      "Employee Engagement",
-      "Performance Management"
-    ],
-    "Legal Consulting": [
-      "Contract Review",
-      "Compliance Consulting",
-      "Intellectual Property Consulting"
-    ],
-    "Other": []
+  "Graphics & Design": {
+    "Logo Design": {
+      "Minimalist Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "CorelDRAW",
+          "Sketch",
+          "Affinity Designer"
+        ]
+      },
+      "Vintage Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "CorelDRAW"
+        ]
+      },
+      "3D Logo Design": {
+        "skill": [
+          "Blender",
+          "Cinema 4D",
+          "Adobe Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Mascot Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "Procreate"
+        ]
+      },
+      "Signature Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "Affinity Designer"
+        ]
+      },
+      "Modern Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Sketch",
+          "Figma"
+        ]
+      },
+      "Retro Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Text Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "FontForge",
+          "Photoshop"
+        ]
+      },
+      "Feminine Logo Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "Procreate"
+        ]
+      }
+    },
+    "Brand Style Guides": {
+      "Brand Guidelines": {
+        "skill": [
+          "Adobe InDesign",
+          "Figma",
+          "Sketch"
+        ]
+      },
+      "Brand Identity Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "Canva"
+        ]
+      },
+      "Brand Strategy & Positioning": {
+        "skill": [
+          "PowerPoint",
+          "Google Slides",
+          "Miro"
+        ]
+      },
+      "Brand Naming": {
+        "skill": [
+          "Mind Mapping Tools",
+          "Google Docs",
+          "Evernote"
+        ]
+      }
+    },
+    "Game Art": {
+      "Character Design": {
+        "skill": [
+          "Adobe Photoshop",
+          "Clip Studio Paint",
+          "Procreate"
+        ]
+      },
+      "Props & Objects": {
+        "skill": [
+          "Blender",
+          "Maya",
+          "Substance Painter"
+        ]
+      },
+      "Backgrounds & Environments": {
+        "skill": [
+          "Photoshop",
+          "Blender",
+          "Unreal Engine"
+        ]
+      },
+      "UI & UX": {
+        "skill": [
+          "Figma",
+          "Adobe XD",
+          "Sketch"
+        ]
+      }
+    },
+    "Graphics for Streamers": {
+      "Overlays & Alerts": {
+        "skill": [
+          "Adobe Photoshop",
+          "OBS Studio",
+          "After Effects"
+        ]
+      },
+      "Panels & Banners": {
+        "skill": [
+          "Canva",
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Emotes & Badges": {
+        "skill": [
+          "Adobe Illustrator",
+          "Procreate",
+          "Photoshop"
+        ]
+      },
+      "Stream Packages": {
+        "skill": [
+          "After Effects",
+          "OBS Studio",
+          "Photoshop"
+        ]
+      }
+    },
+    "Business Cards & Stationery": {
+      "Business Card Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "InDesign",
+          "CorelDRAW"
+        ]
+      },
+      "Stationery Design": {
+        "skill": [
+          "Adobe InDesign",
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Letterhead Design": {
+        "skill": [
+          "Adobe InDesign",
+          "Microsoft Word",
+          "Google Docs"
+        ]
+      },
+      "Envelope Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "InDesign"
+        ]
+      }
+    },
+    "Website Design": {
+      "Website UI/UX Design": {
+        "skill": [
+          "Figma",
+          "Adobe XD",
+          "Sketch"
+        ]
+      },
+      "Website Builders Design": {
+        "skill": [
+          "WordPress",
+          "Wix",
+          "Squarespace"
+        ]
+      }
+    },
+    "App Design": {
+      "Mobile App UI/UX Design": {
+        "skill": [
+          "Figma",
+          "Adobe XD",
+          "Sketch"
+        ]
+      },
+      "Web App UI/UX Design": {
+        "skill": [
+          "Figma",
+          "Adobe XD",
+          "Sketch"
+        ]
+      },
+      "App Store Screenshots": {
+        "skill": [
+          "Photoshop",
+          "Figma",
+          "Canva"
+        ]
+      }
+    },
+    "UX Design": {
+      "User Experience Design": {
+        "skill": [
+          "Axure",
+          "Figma",
+          "Adobe XD"
+        ]
+      },
+      "User Interface Design": {
+        "skill": [
+          "Figma",
+          "Sketch",
+          "Adobe XD"
+        ]
+      },
+      "Wireframes & Prototypes": {
+        "skill": [
+          "Balsamiq",
+          "Figma",
+          "Adobe XD"
+        ]
+      },
+      "Usability Testing": {
+        "skill": [
+          "UserTesting",
+          "Lookback",
+          "Hotjar"
+        ]
+      }
+    },
+    "Landing Page Design": {
+      "Landing Page UI/UX Design": {
+        "skill": [
+          "Figma",
+          "Sketch",
+          "Adobe XD"
+        ]
+      },
+      "Landing Page Builders Design": {
+        "skill": [
+          "Unbounce",
+          "Leadpages",
+          "Instapage"
+        ]
+      }
+    },
+    "Resume Design": {
+      "Resume Design": {
+        "skill": [
+          "Adobe InDesign",
+          "Canva",
+          "Microsoft Word"
+        ]
+      },
+      "Cover Letter Design": {
+        "skill": [
+          "Microsoft Word",
+          "Google Docs",
+          "Canva"
+        ]
+      },
+      "LinkedIn Profile Design": {
+        "skill": [
+          "Canva",
+          "Adobe Photoshop"
+        ]
+      }
+    },
+    "Illustration": {
+      "Vector Illustration": {
+        "skill": [
+          "Adobe Illustrator",
+          "CorelDRAW",
+          "Affinity Designer"
+        ]
+      },
+      "Digital Illustration": {
+        "skill": [
+          "Adobe Photoshop",
+          "Procreate",
+          "Clip Studio Paint"
+        ]
+      },
+      "Children’s Book Illustration": {
+        "skill": [
+          "Adobe Photoshop",
+          "Procreate",
+          "Corel Painter"
+        ]
+      },
+      "Line Art & Ink Drawing": {
+        "skill": [
+          "Adobe Illustrator",
+          "Clip Studio Paint",
+          "Procreate"
+        ]
+      },
+      "Cartoon & Comic Style": {
+        "skill": [
+          "Clip Studio Paint",
+          "Adobe Photoshop",
+          "Procreate"
+        ]
+      },
+      "Realistic Illustration": {
+        "skill": [
+          "Adobe Photoshop",
+          "Corel Painter",
+          "Procreate"
+        ]
+      },
+      "Character Design & Concept Art": {
+        "skill": [
+          "Photoshop",
+          "Procreate",
+          "Krita"
+        ]
+      },
+      "Portrait Illustration": {
+        "skill": [
+          "Adobe Photoshop",
+          "Procreate",
+          "Corel Painter"
+        ]
+      }
+    },
+    "Children’s Book Illustration": {
+      "Children’s Book Cover Design": {
+        "skill": [
+          "Adobe Photoshop",
+          "InDesign",
+          "Procreate"
+        ]
+      },
+      "Children’s Book Layout Design": {
+        "skill": [
+          "Adobe InDesign",
+          "Microsoft Publisher"
+        ]
+      },
+      "Children’s Book Character Design": {
+        "skill": [
+          "Photoshop",
+          "Procreate",
+          "Clip Studio Paint"
+        ]
+      }
+    },
+    "AI Artists": {
+      "Image Generation": {
+        "skill": [
+          "Stable Diffusion",
+          "Midjourney",
+          "DALL·E"
+        ]
+      },
+      "Custom Image Prompts": {
+        "skill": [
+          "Prompt Engineering",
+          "ChatGPT",
+          "Midjourney"
+        ]
+      },
+      "ComfyUI Workflow Creation": {
+        "skill": [
+          "ComfyUI",
+          "Python",
+          "AI Tools"
+        ]
+      }
+    },
+    "AI Avatar Design": {
+      "AI Avatar Generation": {
+        "skill": [
+          "Artbreeder",
+          "Ready Player Me",
+          "Daz3D"
+        ]
+      },
+      "AI Avatar Customization": {
+        "skill": [
+          "Photoshop",
+          "Blender",
+          "ZBrush"
+        ]
+      },
+      "AI Avatar Style Transfer": {
+        "skill": [
+          "DeepArt",
+          "Prisma",
+          "RunwayML"
+        ]
+      }
+    },
+    "NFT Art": {
+      "NFT Collection Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "OpenSea"
+        ]
+      },
+      "NFT Character Design": {
+        "skill": [
+          "Photoshop",
+          "Blender",
+          "Procreate"
+        ]
+      },
+      "NFT Animation & Motion Graphics": {
+        "skill": [
+          "After Effects",
+          "Blender",
+          "Cinema 4D"
+        ]
+      },
+      "NFT Game Assets": {
+        "skill": [
+          "Blender",
+          "Unity",
+          "Unreal Engine"
+        ]
+      }
+    },
+    "Pattern Design": {
+      "Surface Pattern Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "Procreate"
+        ]
+      },
+      "Textile Pattern Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Seamless Pattern Design": {
+        "skill": [
+          "Adobe Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Pattern Illustration": {
+        "skill": [
+          "Adobe Illustrator",
+          "Procreate"
+        ]
+      }
+    },
+    "Fonts & Typography": {
+      "Font Design": {
+        "skill": [
+          "FontForge",
+          "Glyphs",
+          "Adobe Illustrator"
+        ]
+      },
+      "Typography": {
+        "skill": [
+          "Adobe Illustrator",
+          "InDesign"
+        ]
+      },
+      "Hand Lettering": {
+        "skill": [
+          "Procreate",
+          "Adobe Fresco"
+        ]
+      },
+      "Calligraphy": {
+        "skill": [
+          "Procreate",
+          "Traditional Calligraphy"
+        ]
+      }
+    },
+    "Poster Design": {
+      "Movie Poster Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "InDesign"
+        ]
+      },
+      "Event Poster Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Promotional Poster Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Art Prints & Wall Art": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "CorelDRAW"
+        ]
+      }
+    },
+    "Brochure Design": {
+      "Tri-Fold Brochure Design": {
+        "skill": [
+          "InDesign",
+          "Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Bi-Fold Brochure Design": {
+        "skill": [
+          "InDesign",
+          "Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Booklet Design": {
+        "skill": [
+          "InDesign",
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Flyer & Leaflet Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "Canva"
+        ]
+      }
+    },
+    "Flyer Design": {
+      "Event Flyer Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "Canva"
+        ]
+      },
+      "Promotional Flyer Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "Canva"
+        ]
+      },
+      "Digital Flyer Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "Canva"
+        ]
+      },
+      "Social Media Flyer Design": {
+        "skill": [
+          "Photoshop",
+          "Canva",
+          "Adobe Spark"
+        ]
+      }
+    },
+    "Book Design": {
+      "Book Layout Design & Typesetting": {
+        "skill": [
+          "InDesign",
+          "Microsoft Word",
+          "LaTeX"
+        ]
+      },
+      "Book Cover Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "InDesign"
+        ]
+      }
+    },
+    "Album Cover Design": {
+      "Music Album Cover Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "Canva"
+        ]
+      },
+      "Podcast Cover Design": {
+        "skill": [
+          "Photoshop",
+          "Canva",
+          "Illustrator"
+        ]
+      },
+      "Vinyl & CD Cover Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Digital Album Art": {
+        "skill": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      }
+    },
+    "Podcast Cover Art": {
+      "Podcast Cover Design": {
+        "skill": [
+          "Photoshop",
+          "Canva",
+          "Illustrator"
+        ]
+      },
+      "Podcast Episode Artwork": {
+        "skill": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      "Podcast Branding": {
+        "skill": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      }
+    },
+    "Packaging & Label Design": {
+      "Packaging Design": {
+        "skill": [
+          "Illustrator",
+          "Photoshop",
+          "InDesign"
+        ]
+      },
+      "Label Design": {
+        "skill": [
+          "Illustrator",
+          "Photoshop"
+        ]
+      },
+      "Dieline Design": {
+        "skill": [
+          "Illustrator",
+          "InDesign"
+        ]
+      }
+    },
+    "Storyboards": {
+      "Storyboard Art": {
+        "skill": [
+          "Photoshop",
+          "Storyboard Pro",
+          "Clip Studio Paint"
+        ]
+      },
+      "Animatics": {
+        "skill": [
+          "After Effects",
+          "Premiere Pro"
+        ]
+      },
+      "Comic Book Storyboards": {
+        "skill": [
+          "Clip Studio Paint",
+          "Photoshop"
+        ]
+      }
+    },
+    "Tattoo Design": {
+      "Tattoo Design": {
+        "skill": [
+          "Photoshop",
+          "Procreate",
+          "Illustrator"
+        ]
+      },
+      "Tattoo Flash Design": {
+        "skill": [
+          "Photoshop",
+          "Illustrator",
+          "Procreate"
+        ]
+      }
+    },
+    "3D & 2D Design": {
+      "3D Modeling": {
+        "skill": [
+          "Blender",
+          "Maya",
+          "3ds Max"
+        ]
+      },
+      "3D Rendering": {
+        "skill": [
+          "Blender",
+          "V-Ray",
+          "KeyShot"
+        ]
+      },
+      "3D Texturing": {
+        "skill": [
+          "Substance Painter",
+          "Photoshop"
+        ]
+      },
+      "2D Animation": {
+        "skill": [
+          "Adobe Animate",
+          "Toon Boom Harmony",
+          "After Effects"
+        ]
+      },
+      "Motion Graphics": {
+        "skill": [
+          "After Effects",
+          "Cinema 4D",
+          "Blender"
+        ]
+      }
+    }
+  },
+  "Writing & Translation": {
+    "Articles & Blog Posts": {
+      "SEO Writing": {
+        "skill": [
+          "Keyword Research",
+          "On-page SEO",
+          "Content Optimization"
+        ]
+      },
+      "Promotional Articles": {
+        "skill": [
+          "Persuasive Writing",
+          "Marketing",
+          "Call-to-action"
+        ]
+      },
+      "Lifestyle Blogs": {
+        "skill": [
+          "Casual Tone",
+          "Storytelling",
+          "Trend Awareness"
+        ]
+      },
+      "Professional Industry Articles": {
+        "skill": [
+          "Technical Writing",
+          "Industry Knowledge",
+          "Research"
+        ]
+      },
+      "Informative & Educational Articles": {
+        "skill": [
+          "Clarity",
+          "Fact-checking",
+          "Explanatory Writing"
+        ]
+      },
+      "Bulk Articles": {
+        "skill": [
+          "Fast Writing",
+          "Consistency",
+          "Volume Management"
+        ]
+      }
+    },
+    "Proofreading & Editing": {
+      "AI Content Editing": {
+        "skill": [
+          "Grammar Checking",
+          "Plagiarism Detection",
+          "Tone Correction"
+        ]
+      },
+      "Proofreading": {
+        "skill": [
+          "Spelling",
+          "Punctuation",
+          "Grammar"
+        ]
+      },
+      "Copy Editing": {
+        "skill": [
+          "Flow Improvement",
+          "Consistency",
+          "Style Guide Adherence"
+        ]
+      },
+      "Review & Rewrite": {
+        "skill": [
+          "Rephrasing",
+          "Content Enhancement",
+          "Structural Editing"
+        ]
+      },
+      "Citation & Formatting": {
+        "skill": [
+          "APA Style",
+          "MLA Style",
+          "Chicago Style"
+        ]
+      }
+    },
+    "Translation": {
+      "English to Other Languages": {
+        "skill": [
+          "Bilingual Fluency",
+          "Cultural Adaptation",
+          "Localization"
+        ]
+      },
+      "Other Languages to English": {
+        "skill": [
+          "Translation Accuracy",
+          "Proofreading",
+          "Editing"
+        ]
+      },
+      "Other Languages to Other Languages": {
+        "skill": [
+          "Multilingual Proficiency",
+          "Cross-lingual Understanding"
+        ]
+      },
+      "Subtitles Translation": {
+        "skill": [
+          "Timing",
+          "Conciseness",
+          "Cultural Sensitivity"
+        ]
+      },
+      "Website Translation": {
+        "skill": [
+          "SEO Localization",
+          "Technical Terms",
+          "User Experience"
+        ]
+      }
+    },
+    "Website Content": {
+      "Website Copywriting": {
+        "skill": [
+          "Engaging Copy",
+          "SEO",
+          "Brand Voice"
+        ]
+      },
+      "Landing Page Content": {
+        "skill": [
+          "Conversion Optimization",
+          "Clear Messaging",
+          "Call-to-action"
+        ]
+      },
+      "Product Descriptions": {
+        "skill": [
+          "Persuasive Writing",
+          "Feature Highlighting",
+          "SEO"
+        ]
+      },
+      "Service Descriptions": {
+        "skill": [
+          "Benefits Focus",
+          "Clear Language",
+          "Trust Building"
+        ]
+      },
+      "About Us Pages": {
+        "skill": [
+          "Brand Storytelling",
+          "Authenticity",
+          "Engagement"
+        ]
+      }
+    },
+    "Product Descriptions": {
+      "SEO Product Descriptions": {
+        "skill": [
+          "SEO Keywords",
+          "Persuasive Language",
+          "Conciseness"
+        ]
+      },
+      "Creative Product Descriptions": {
+        "skill": [
+          "Creative Writing",
+          "Storytelling",
+          "Emotional Appeal"
+        ]
+      },
+      "Technical Product Descriptions": {
+        "skill": [
+          "Technical Knowledge",
+          "Clear Explanation",
+          "Accuracy"
+        ]
+      },
+      "E-Commerce Product Descriptions": {
+        "skill": [
+          "User Experience",
+          "SEO",
+          "Feature Highlighting"
+        ]
+      }
+    },
+    "Book & eBook Writing": {
+      "Kindle Niche Research": {
+        "skill": [
+          "Market Analysis",
+          "Keyword Research",
+          "Trend Spotting"
+        ]
+      },
+      "Short Stories": {
+        "skill": [
+          "Creative Writing",
+          "Plot Development",
+          "Characterization"
+        ]
+      },
+      "Book Proposals": {
+        "skill": [
+          "Persuasive Writing",
+          "Market Understanding",
+          "Professional Formatting"
+        ]
+      },
+      "Book Blurbs": {
+        "skill": [
+          "Hook Writing",
+          "Conciseness",
+          "Engagement"
+        ]
+      },
+      "Ghostwriting": {
+        "skill": [
+          "Adaptability",
+          "Voice Matching",
+          "Confidentiality"
+        ]
+      }
+    },
+    "Book Editing": {
+      "Book Proofreading": {
+        "skill": [
+          "Grammar",
+          "Spelling",
+          "Consistency"
+        ]
+      },
+      "Book Formatting": {
+        "skill": [
+          "Layout Design",
+          "Style Guide",
+          "Technical Skills"
+        ]
+      },
+      "Book Cover Design": {
+        "skill": [
+          "Graphic Design",
+          "Typography",
+          "Market Trends"
+        ]
+      },
+      "Book Marketing": {
+        "skill": [
+          "Social Media Marketing",
+          "Campaign Planning",
+          "Audience Targeting"
+        ]
+      }
+    },
+    "Resume Writing": {
+      "Resume Writing": {
+        "skill": [
+          "ATS Optimization",
+          "Clear Formatting",
+          "Achievement Highlighting"
+        ]
+      },
+      "CV Writing": {
+        "skill": [
+          "Academic Formatting",
+          "Detail Orientation",
+          "Clarity"
+        ]
+      },
+      "LinkedIn Profile Writing": {
+        "skill": [
+          "SEO",
+          "Professional Tone",
+          "Networking"
+        ]
+      },
+      "Cover Letter Writing": {
+        "skill": [
+          "Personalization",
+          "Persuasion",
+          "Conciseness"
+        ]
+      }
+    },
+    "Brand Voice & Tone": {
+      "Brand Voice Development": {
+        "skill": [
+          "Consistency",
+          "Audience Understanding",
+          "Creativity"
+        ]
+      },
+      "Brand Tone Guidelines": {
+        "skill": [
+          "Tone Analysis",
+          "Documentation",
+          "Training"
+        ]
+      },
+      "Brand Messaging Framework": {
+        "skill": [
+          "Strategic Messaging",
+          "Positioning",
+          "Clarity"
+        ]
+      }
+    },
+    "UX Writing": {
+      "Microcopy": {
+        "skill": [
+          "Brevity",
+          "Clarity",
+          "User Focus"
+        ]
+      },
+      "User Interface Text": {
+        "skill": [
+          "Simplicity",
+          "Consistency",
+          "Accessibility"
+        ]
+      },
+      "Onboarding Copy": {
+        "skill": [
+          "Engagement",
+          "Guidance",
+          "Conciseness"
+        ]
+      },
+      "Error Messages": {
+        "skill": [
+          "Empathy",
+          "Clarity",
+          "Actionable Language"
+        ]
+      }
+    },
+    "Email Copy": {
+      "Email Newsletters": {
+        "skill": [
+          "Engagement",
+          "Segmentation",
+          "Design"
+        ]
+      },
+      "Email Campaigns": {
+        "skill": [
+          "Targeting",
+          "Persuasive Writing",
+          "Call-to-action"
+        ]
+      },
+      "Email Automation Sequences": {
+        "skill": [
+          "Workflow Design",
+          "Personalization",
+          "Timing"
+        ]
+      },
+      "Cold Emails": {
+        "skill": [
+          "Persuasion",
+          "Personalization",
+          "Follow-up"
+        ]
+      }
+    },
+    "Technical Writing": {
+      "Technical Documentation": {
+        "skill": [
+          "Clarity",
+          "Accuracy",
+          "Technical Knowledge"
+        ]
+      },
+      "User Manuals": {
+        "skill": [
+          "Step-by-step Instruction",
+          "Illustrations",
+          "Accessibility"
+        ]
+      },
+      "API Documentation": {
+        "skill": [
+          "Technical Precision",
+          "Examples",
+          "Clarity"
+        ]
+      },
+      "Software Documentation": {
+        "skill": [
+          "Versioning",
+          "Clear Language",
+          "User Focus"
+        ]
+      }
+    },
+    "Custom Writing Prompts": {
+      "Technical Writing Prompts": {
+        "skill": [
+          "Topic Knowledge",
+          "Creativity",
+          "Relevance"
+        ]
+      },
+      "Copywriting Prompts": {
+        "skill": [
+          "Persuasive Language",
+          "Creativity",
+          "Market Awareness"
+        ]
+      },
+      "Creative Writing Prompts": {
+        "skill": [
+          "Imagination",
+          "Diversity",
+          "Engagement"
+        ]
+      },
+      "Blogging & Content Prompts": {
+        "skill": [
+          "Trend Awareness",
+          "Audience Understanding",
+          "SEO"
+        ]
+      }
+    },
+    "Content Strategy": {
+      "Content Planning": {
+        "skill": [
+          "Research",
+          "Organization",
+          "Goal Setting"
+        ]
+      },
+      "Content Calendar Creation": {
+        "skill": [
+          "Scheduling",
+          "Coordination",
+          "Tools Proficiency"
+        ]
+      },
+      "Content Audit & Analysis": {
+        "skill": [
+          "Data Analysis",
+          "Reporting",
+          "Optimization"
+        ]
+      },
+      "Content Distribution Strategy": {
+        "skill": [
+          "Channel Knowledge",
+          "Scheduling",
+          "Engagement"
+        ]
+      }
+    },
+    "Localization": {
+      "Website Localization": {
+        "skill": [
+          "Cultural Awareness",
+          "SEO Localization",
+          "Technical Adaptation"
+        ]
+      },
+      "App Localization": {
+        "skill": [
+          "User Experience",
+          "Cultural Sensitivity",
+          "Technical Skills"
+        ]
+      },
+      "Software Localization": {
+        "skill": [
+          "Coding Knowledge",
+          "Testing",
+          "Language Skills"
+        ]
+      },
+      "Game Localization": {
+        "skill": [
+          "Creative Adaptation",
+          "Cultural Sensitivity",
+          "Terminology"
+        ]
+      }
+    },
+    "White Papers": {
+      "Technical White Papers": {
+        "skill": [
+          "Research",
+          "Technical Writing",
+          "Data Presentation"
+        ]
+      },
+      "Business White Papers": {
+        "skill": [
+          "Market Analysis",
+          "Persuasive Writing",
+          "Clear Messaging"
+        ]
+      },
+      "Research White Papers": {
+        "skill": [
+          "Academic Writing",
+          "Citation",
+          "Data Analysis"
+        ]
+      },
+      "Marketing White Papers": {
+        "skill": [
+          "Persuasion",
+          "Branding",
+          "Content Strategy"
+        ]
+      }
+    },
+    "Sales Copy": {
+      "Sales Pages": {
+        "skill": [
+          "Conversion Optimization",
+          "Persuasive Writing",
+          "Call-to-action"
+        ]
+      },
+      "Sales Funnels": {
+        "skill": [
+          "Customer Journey",
+          "Copywriting",
+          "Optimization"
+        ]
+      },
+      "Email Sales Copy": {
+        "skill": [
+          "Persuasion",
+          "Segmentation",
+          "Personalization"
+        ]
+      },
+      "Landing Page Sales Copy": {
+        "skill": [
+          "Clear Messaging",
+          "Urgency",
+          "Engagement"
+        ]
+      }
+    },
+    "Social Media Copywriting": {
+      "Social Media Posts & Captions": {
+        "skill": [
+          "Brevity",
+          "Engagement",
+          "Trend Awareness"
+        ]
+      },
+      "Social Media Video Scripts": {
+        "skill": [
+          "Scriptwriting",
+          "Conciseness",
+          "Engagement"
+        ]
+      },
+      "Social Media Long Posts & Articles": {
+        "skill": [
+          "Storytelling",
+          "Depth",
+          "Research"
+        ]
+      },
+      "Social Media Bios": {
+        "skill": [
+          "Conciseness",
+          "Brand Voice",
+          "Creativity"
+        ]
+      }
+    },
+    "Podcast Writing": {
+      "Podcast Content": {
+        "skill": [
+          "Research",
+          "Scriptwriting",
+          "Storytelling"
+        ]
+      },
+      "Podcast Show Notes": {
+        "skill": [
+          "Summarizing",
+          "SEO",
+          "Engagement"
+        ]
+      }
+    },
+    "Ad Copy": {
+      "Google Ads Copy": {
+        "skill": [
+          "Keyword Targeting",
+          "Conciseness",
+          "Call-to-action"
+        ]
+      },
+      "Facebook Ads Copy": {
+        "skill": [
+          "Audience Targeting",
+          "Persuasive Writing",
+          "Creativity"
+        ]
+      },
+      "Instagram Ads Copy": {
+        "skill": [
+          "Visual Appeal",
+          "Trend Awareness",
+          "Engagement"
+        ]
+      },
+      "LinkedIn Ads Copy": {
+        "skill": [
+          "Professional Tone",
+          "B2B Marketing",
+          "Clear Messaging"
+        ]
+      }
+    },
+    "Cover Letters": {
+      "Job Application Cover Letters": {
+        "skill": [
+          "Personalization",
+          "Professional Tone",
+          "Conciseness"
+        ]
+      },
+      "Business Cover Letters": {
+        "skill": [
+          "Formal Writing",
+          "Persuasion",
+          "Clarity"
+        ]
+      },
+      "Personal Cover Letters": {
+        "skill": [
+          "Expressiveness",
+          "Tone Matching",
+          "Authenticity"
+        ]
+      }
+    },
+    "Press Releases": {
+      "Press Release Writing": {
+        "skill": [
+          "Journalistic Style",
+          "Clear Messaging",
+          "SEO"
+        ]
+      },
+      "Press Release Distribution": {
+        "skill": [
+          "Media Outreach",
+          "Timing",
+          "Networking"
+        ]
+      },
+      "Press Release Translation": {
+        "skill": [
+          "Translation Accuracy",
+          "Localization",
+          "Proofreading"
+        ]
+      }
+    },
+    "Case Studies": {
+      "Case Study Writing": {
+        "skill": [
+          "Research",
+          "Storytelling",
+          "Data Presentation"
+        ]
+      },
+      "Case Study Design": {
+        "skill": [
+          "Layout Design",
+          "Infographics",
+          "Visual Clarity"
+        ]
+      },
+      "Case Study Research": {
+        "skill": [
+          "Data Collection",
+          "Analysis",
+          "Interviewing"
+        ]
+      }
+    },
+    "LinkedIn Profiles": {
+      "LinkedIn Profile Optimization": {
+        "skill": [
+          "SEO",
+          "Professional Branding",
+          "Keyword Use"
+        ]
+      },
+      "LinkedIn Profile Writing": {
+        "skill": [
+          "Conciseness",
+          "Engagement",
+          "Professional Tone"
+        ]
+      },
+      "LinkedIn Profile Design": {
+        "skill": [
+          "Visual Design",
+          "Branding",
+          "Layout"
+        ]
+      }
+    },
+    "Job Descriptions": {
+      "Job Description Writing": {
+        "skill": [
+          "Clarity",
+          "Role Understanding",
+          "SEO"
+        ]
+      },
+      "Job Description Templates": {
+        "skill": [
+          "Template Design",
+          "Consistency",
+          "Customization"
+        ]
+      },
+      "Job Description Optimization": {
+        "skill": [
+          "Keyword Research",
+          "Readability",
+          "Engagement"
+        ]
+      }
+    },
+    "Creative Writing": {
+      "Game Writing": {
+        "skill": [
+          "Interactive Storytelling",
+          "Dialogue Writing",
+          "Character Development"
+        ]
+      },
+      "Poetry": {
+        "skill": [
+          "Creativity",
+          "Emotional Expression",
+          "Meter and Rhyme"
+        ]
+      },
+      "Song Lyrics": {
+        "skill": [
+          "Rhythm",
+          "Rhyme",
+          "Emotional Impact"
+        ]
+      },
+      "Letters": {
+        "skill": [
+          "Personal Tone",
+          "Clarity",
+          "Emotional Expression"
+        ]
+      }
+    },
+    "Beta Reading": {
+      "Beta Reading for Novels": {
+        "skill": [
+          "Story Feedback",
+          "Character Analysis",
+          "Plot Structure"
+        ]
+      },
+      "Beta Reading for Short Stories": {
+        "skill": [
+          "Conciseness",
+          "Theme Analysis",
+          "Pacing"
+        ]
+      },
+      "Beta Reading for Non-Fiction": {
+        "skill": [
+          "Fact-checking",
+          "Clarity",
+          "Organization"
+        ]
+      },
+      "Beta Reading for Screenplays": {
+        "skill": [
+          "Formatting",
+          "Dialogue Feedback",
+          "Pacing"
+        ]
+      }
+    },
+    "Scriptwriting": {
+      "Other Scriptwriting": {
+        "skill": [
+          "Screenwriting",
+          "Storytelling",
+          "Formatting"
+        ]
+      },
+      "Consultation": {
+        "skill": [
+          "Story Development",
+          "Script Analysis",
+          "Feedback"
+        ]
+      },
+      "Webinars": {
+        "skill": [
+          "Engagement",
+          "Clear Messaging",
+          "Timing"
+        ]
+      },
+      "Cold Calls": {
+        "skill": [
+          "Persuasive Writing",
+          "Conciseness",
+          "Call Structure"
+        ]
+      },
+      "Audio Ads": {
+        "skill": [
+          "Conciseness",
+          "Persuasive Language",
+          "Sound Design Awareness"
+        ]
+      },
+      "Script Coverage": {
+        "skill": [
+          "Detailed Feedback",
+          "Industry Standards",
+          "Storytelling"
+        ]
+      },
+      "Film & TV Screenplays": {
+        "skill": [
+          "Formatting",
+          "Character Development",
+          "Dialogue"
+        ]
+      },
+      "Chatbot Conversation Scripts": {
+        "skill": [
+          "Conversational Flow",
+          "User Experience",
+          "Scripting"
+        ]
+      },
+      "Video Scripts": {
+        "skill": [
+          "Visual Storytelling"
+        ]
+      }
+    },
+    "Video & Animation": {
+      "Animated Explainers": {
+        "2D Animated Explainers": {
+          "skill": [
+            "Adobe After Effects",
+            "Adobe Animate",
+            "Toon Boom Harmony",
+            "Moho (Anime Studio)"
+          ]
+        },
+        "3D Animated Explainers": {
+          "skill": [
+            "Blender",
+            "Maya",
+            "Cinema 4D",
+            "3ds Max"
+          ]
+        },
+        "Isometric Explainers": {
+          "skill": [
+            "Adobe Illustrator",
+            "Adobe After Effects",
+            "Blender"
+          ]
+        },
+        "Whiteboard Animation": {
+          "skill": [
+            "VideoScribe",
+            "Doodly",
+            "Adobe After Effects"
+          ]
+        }
+      },
+      "Video Editing": {
+        "General Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "DaVinci Resolve"
+          ]
+        },
+        "Social Media Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "Canva",
+            "InShot"
+          ]
+        },
+        "YouTube Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "DaVinci Resolve"
+          ]
+        },
+        "Corporate Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "DaVinci Resolve",
+            "Avid Media Composer"
+          ]
+        },
+        "Event Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "DaVinci Resolve"
+          ]
+        },
+        "Music Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "After Effects"
+          ]
+        },
+        "Podcast Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Audacity",
+            "DaVinci Resolve"
+          ]
+        },
+        "Vlog Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "DaVinci Resolve",
+            "iMovie"
+          ]
+        }
+      },
+      "Video Ads & Commercials": {
+        "Social Media Ads": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Canva"
+          ]
+        },
+        "YouTube Ads": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Final Cut Pro"
+          ]
+        },
+        "TV Commercials": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "DaVinci Resolve",
+            "Avid Media Composer"
+          ]
+        },
+        "Product Demos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Camtasia"
+          ]
+        },
+        "Brand Story Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "After Effects"
+          ]
+        }
+      },
+      "Animated GIFs": {
+        "Animated Social Media GIFs": {
+          "skill": [
+            "Adobe Photoshop",
+            "Adobe After Effects",
+            "GIFMaker"
+          ]
+        },
+        "Animated Website GIFs": {
+          "skill": [
+            "Adobe Photoshop",
+            "Adobe After Effects",
+            "GIMP"
+          ]
+        },
+        "Animated Email GIFs": {
+          "skill": [
+            "Adobe Photoshop",
+            "Adobe After Effects",
+            "Canva"
+          ]
+        },
+        "Custom Animated GIFs": {
+          "skill": [
+            "Adobe Photoshop",
+            "Adobe After Effects",
+            "Toon Boom Harmony"
+          ]
+        }
+      },
+      "Logo Animation": {
+        "2D Logo Animation": {
+          "skill": [
+            "Adobe After Effects",
+            "Cinema 4D",
+            "Blender"
+          ]
+        },
+        "3D Logo Animation": {
+          "skill": [
+            "Blender",
+            "Cinema 4D",
+            "Maya"
+          ]
+        },
+        "Logo Reveal Animations": {
+          "skill": [
+            "Adobe After Effects",
+            "Cinema 4D"
+          ]
+        },
+        "Logo Intro & Outro Animations": {
+          "skill": [
+            "Adobe After Effects",
+            "Blender"
+          ]
+        }
+      },
+      "UGC Videos": {
+        "UGC Ads": {
+          "skill": [
+            "Smartphone Filming",
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Organic UGC": {
+          "skill": [
+            "Smartphone Filming",
+            "iMovie",
+            "Adobe Premiere Pro"
+          ]
+        },
+        "UGC Bundles": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "DaVinci Resolve"
+          ]
+        }
+      },
+      "Intro & Outro Videos": {
+        "YouTube Intros & Outros": {
+          "skill": [
+            "Adobe After Effects",
+            "Blender",
+            "Premiere Pro"
+          ]
+        },
+        "Social Media Intros & Outros": {
+          "skill": [
+            "Adobe After Effects",
+            "Canva",
+            "Premiere Pro"
+          ]
+        },
+        "Corporate Intros & Outros": {
+          "skill": [
+            "Adobe After Effects",
+            "DaVinci Resolve"
+          ]
+        },
+        "Event Intros & Outros": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        }
+      },
+      "Character Animation": {
+        "2D Character Animation": {
+          "skill": [
+            "Toon Boom Harmony",
+            "Adobe Animate",
+            "Moho (Anime Studio)"
+          ]
+        },
+        "3D Character Animation": {
+          "skill": [
+            "Blender",
+            "Maya",
+            "Cinema 4D"
+          ]
+        },
+        "Stop Motion Animation": {
+          "skill": [
+            "Dragonframe",
+            "Stop Motion Studio"
+          ]
+        },
+        "Motion Capture Animation": {
+          "skill": [
+            "MotionBuilder",
+            "Blender",
+            "iPi Soft"
+          ]
+        }
+      },
+      "3D Product Animation": {
+        "3D Product Explainers": {
+          "skill": [
+            "Blender",
+            "Cinema 4D",
+            "Maya"
+          ]
+        },
+        "3D Product Demos": {
+          "skill": [
+            "Blender",
+            "Cinema 4D",
+            "3ds Max"
+          ]
+        },
+        "3D Product Showcases": {
+          "skill": [
+            "Blender",
+            "Cinema 4D",
+            "Maya"
+          ]
+        },
+        "3D Product Visualizations": {
+          "skill": [
+            "Blender",
+            "3ds Max",
+            "Cinema 4D"
+          ]
+        }
+      },
+      "Social Media Videos": {
+        "Instagram Reels": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "InShot",
+            "CapCut"
+          ]
+        },
+        "TikTok Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "CapCut",
+            "InShot"
+          ]
+        },
+        "Facebook Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "YouTube Shorts": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Snapchat Stories": {
+          "skill": [
+            "Snapchat App",
+            "Adobe Premiere Pro"
+          ]
+        },
+        "Twitter Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        }
+      },
+      "Music Videos": {
+        "Lyric Videos": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        },
+        "Music Visualization": {
+          "skill": [
+            "Adobe After Effects",
+            "Resolume"
+          ]
+        },
+        "Dance Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Narrative-Based Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Performance Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Conceptual Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Anime Music Videos": {
+          "skill": [
+            "Adobe After Effects",
+            "Moho (Anime Studio)"
+          ]
+        },
+        "Spotify Canvas": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        }
+      },
+      "Animation for Kids": {
+        "Children's Animated Stories": {
+          "skill": [
+            "Toon Boom Harmony",
+            "Adobe Animate",
+            "Moho (Anime Studio)"
+          ]
+        },
+        "Animated Educational Content": {
+          "skill": [
+            "Toon Boom Harmony",
+            "Adobe Animate"
+          ]
+        },
+        "Animated Nursery Rhymes": {
+          "skill": [
+            "Toon Boom Harmony",
+            "Adobe Animate"
+          ]
+        },
+        "Animated Cartoons": {
+          "skill": [
+            "Toon Boom Harmony",
+            "Adobe Animate",
+            "Moho (Anime Studio)"
+          ]
+        }
+      },
+      "Video Art": {
+        "Experimental Video Art": {
+          "skill": [
+            "Adobe After Effects",
+            "Blender"
+          ]
+        },
+        "AI Video Art": {
+          "skill": [
+            "Runway ML",
+            "DeepArt",
+            "Adobe After Effects"
+          ]
+        },
+        "Image Animation": {
+          "skill": [
+            "Adobe After Effects",
+            "Photoshop"
+          ]
+        },
+        "Video Installations": {
+          "skill": [
+            "Resolume",
+            "TouchDesigner"
+          ]
+        }
+      },
+      "Text Animation": {
+        "Kinetic Typography": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        },
+        "Animated Titles": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        },
+        "Lower Thirds Animation": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        },
+        "Text Effects": {
+          "skill": [
+            "Adobe After Effects",
+            "Premiere Pro"
+          ]
+        }
+      },
+      "Animation for Streamers": {
+        "Stream Overlays": {
+          "skill": [
+            "OBS Studio",
+            "Adobe After Effects"
+          ]
+        },
+        "Stream Alerts": {
+          "skill": [
+            "OBS Studio",
+            "Streamlabs",
+            "StreamElements"
+          ]
+        },
+        "Stream Transitions": {
+          "skill": [
+            "Adobe After Effects",
+            "OBS Studio"
+          ]
+        },
+        "Stream Emotes": {
+          "skill": [
+            "Photoshop",
+            "Adobe Animate"
+          ]
+        }
+      },
+      "Live Action Explainers": {
+        "Live Action Explainers": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Live Action Product Demos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Live Action Tutorials": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Live Action Testimonials": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        }
+      },
+      "Filmed Video Production": {
+        "Corporate Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "DaVinci Resolve"
+          ]
+        },
+        "Event Coverage": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Interviews & Testimonials": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Promotional Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Training & Instructional Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        }
+      },
+      "Videographers": {
+        "Event Videography": {
+          "skill": [
+            "Sony A7III",
+            "Canon EOS",
+            "Adobe Premiere Pro"
+          ]
+        },
+        "Wedding Videography": {
+          "skill": [
+            "Sony A7III",
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Commercial Videography": {
+          "skill": [
+            "Sony A7III",
+            "Adobe Premiere Pro"
+          ]
+        },
+        "Documentary Videography": {
+          "skill": [
+            "Sony A7III",
+            "Adobe Premiere Pro",
+            "DaVinci Resolve"
+          ]
+        }
+      },
+      "E-Commerce Product Videos": {
+        "Product Showcase Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "After Effects"
+          ]
+        },
+        "Unboxing Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "Product Review Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        },
+        "How-To Product Videos": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Camtasia"
+          ]
+        }
+      },
+      "Spokespersons Videos": {
+        "Corporate Spokespersons": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Teleprompter"
+          ]
+        },
+        "Product Spokespersons": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Teleprompter"
+          ]
+        },
+        "Event Spokespersons": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Teleprompter"
+          ]
+        },
+        "Brand Ambassadors": {
+          "skill": [
+            "Public Speaking",
+            "Teleprompter"
+          ]
+        }
+      },
+      "Subtitles & Captions": {
+        "Subtitles": {
+          "skill": [
+            "Aegisub",
+            "Adobe Premiere Pro"
+          ]
+        },
+        "Social Media Captions": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Canva"
+          ]
+        }
+      },
+      "NFT Animation": {
+        "NFT Animated Art": {
+          "skill": [
+            "Blender",
+            "Adobe After Effects"
+          ]
+        },
+        "NFT Animated GIFs": {
+          "skill": [
+            "Adobe Photoshop",
+            "Adobe After Effects"
+          ]
+        },
+        "NFT Animated Logos": {
+          "skill": [
+            "Adobe After Effects",
+            "Blender"
+          ]
+        },
+        "NFT Animated Characters": {
+          "skill": [
+            "Blender",
+            "Adobe Animate"
+          ]
+        }
+      },
+      "Visual Effects": {
+        "Rotoscoping & Chroma Keying": {
+          "skill": [
+            "Adobe After Effects",
+            "Mocha Pro"
+          ]
+        },
+        "Color Grading": {
+          "skill": [
+            "DaVinci Resolve",
+            "Adobe Premiere Pro"
+          ]
+        },
+        "Match Moving": {
+          "skill": [
+            "Boujou",
+            "PFTrack"
+          ]
+        },
+        "Compositing": {
+          "skill": [
+            "Nuke",
+            "Adobe After Effects"
+          ]
+        },
+        "Cleanups": {
+          "skill": [
+            "Adobe Photoshop",
+            "Adobe After Effects"
+          ]
+        },
+        "Simulations": {
+          "skill": [
+            "Houdini",
+            "Blender"
+          ]
+        }
+      },
+      "360° & VR Videos": {
+        "360° Video Editing": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Insta360 Studio"
+          ]
+        },
+        "VR Video Production": {
+          "skill": [
+            "Unity",
+            "Unreal Engine"
+          ]
+        }
+      },
+      "Animations for Developers": {
+        "Lottie Animations": {
+          "skill": [
+            "Adobe After Effects",
+            "Bodymovin"
+          ]
+        },
+        "CSS Animations": {
+          "skill": [
+            "CSS3",
+            "JavaScript"
+          ]
+        },
+        "SVG Animations": {
+          "skill": [
+            "SVG",
+            "JavaScript",
+            "Adobe Illustrator"
+          ]
+        },
+        "WebGL Animations": {
+          "skill": [
+            "Three.js",
+            "WebGL"
+          ]
+        }
+      },
+      "Presentation Design": {
+        "Animated Presentations": {
+          "skill": [
+            "PowerPoint",
+            "Keynote",
+            "Prezi"
+          ]
+        },
+        "Video Presentations": {
+          "skill": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro"
+          ]
+        }
+      }
+    },
+    "Music & Audio": {
+      "Voice Over": {
+        "Commercial Voice Over": {
+          "skill": [
+            "Voice Acting",
+            "Script Reading",
+            "Audio Recording",
+            "Editing",
+            "Microphone Techniques"
+          ]
+        },
+        "Narration": {
+          "skill": [
+            "Storytelling",
+            "Voice Modulation",
+            "Clear Diction",
+            "Audio Editing"
+          ]
+        },
+        "Audiobook Voice Over": {
+          "skill": [
+            "Long-form Voice Acting",
+            "Characterization",
+            "Breath Control",
+            "Editing"
+          ]
+        },
+        "Character Voices": {
+          "skill": [
+            "Voice Acting",
+            "Impersonation",
+            "Character Development",
+            "Pitch Control"
+          ]
+        },
+        "IVR & Phone Systems": {
+          "skill": [
+            "Professional Tone",
+            "Clear Speech",
+            "Audio Editing",
+            "Recording"
+          ]
+        },
+        "Podcast Voice Over": {
+          "skill": [
+            "Conversational Voice",
+            "Editing",
+            "Microphone Use",
+            "Storytelling"
+          ]
+        },
+        "Explainer Video Voice Over": {
+          "skill": [
+            "Clear Explanation",
+            "Pacing",
+            "Engaging Tone",
+            "Recording"
+          ]
+        },
+        "Animation Voice Over": {
+          "skill": [
+            "Character Acting",
+            "Emotional Expression",
+            "Lip-syncing",
+            "Audio Editing"
+          ]
+        },
+        "E-Learning Voice Over": {
+          "skill": [
+            "Instructional Voice",
+            "Clear Enunciation",
+            "Pacing",
+            "Editing"
+          ]
+        },
+        "Video Game Voice Over": {
+          "skill": [
+            "Character Acting",
+            "Emotional Range",
+            "Voice Direction",
+            "Audio Editing"
+          ]
+        },
+        "Dubbing & Localization": {
+          "skill": [
+            "Lip-sync",
+            "Translation Adaptation",
+            "Voice Acting",
+            "Audio Syncing"
+          ]
+        },
+        "Children's Content Voice Over": {
+          "skill": [
+            "Expressive Voice",
+            "Engagement",
+            "Clear Speech",
+            "Character Voices"
+          ]
+        },
+        "Corporate Voice Over": {
+          "skill": [
+            "Professional Tone",
+            "Clear Communication",
+            "Script Reading",
+            "Editing"
+          ]
+        },
+        "YouTube Voice Over": {
+          "skill": [
+            "Engaging Voice",
+            "Clear Pronunciation",
+            "Audio Editing",
+            "Pacing"
+          ]
+        }
+      },
+      "Mixing & Mastering": {
+        "Mixing": {
+          "skill": [
+            "DAW (Logic Pro, Pro Tools, Ableton)",
+            "EQ",
+            "Compression",
+            "Reverb",
+            "Automation"
+          ]
+        },
+        "Mastering": {
+          "skill": [
+            "Audio Loudness",
+            "Stereo Imaging",
+            "Compression",
+            "Limiter",
+            "Finalizing Tracks"
+          ]
+        },
+        "Dolby Atmos & Immersive Audio": {
+          "skill": [
+            "Spatial Audio",
+            "3D Audio Mixing",
+            "Dolby Atmos",
+            "Ambisonics"
+          ]
+        }
+      },
+      "Music Producers": {
+        "Ghost Production": {
+          "skill": [
+            "Beat Making",
+            "Arrangement",
+            "Mixing",
+            "Music Composition"
+          ]
+        },
+        "Beat Making": {
+          "skill": [
+            "Drum Programming",
+            "Sampling",
+            "Synth Programming",
+            "DAW Proficiency"
+          ]
+        },
+        "Backing Tracks": {
+          "skill": [
+            "Instrument Recording",
+            "Arrangement",
+            "Loop Creation",
+            "Audio Editing"
+          ]
+        },
+        "Remixing": {
+          "skill": [
+            "DAW",
+            "Sampling",
+            "Sound Design",
+            "Mixing",
+            "Arrangement"
+          ]
+        }
+      },
+      "Composers": {
+        "Film & Soundtrack Composers": {
+          "skill": [
+            "Orchestration",
+            "Music Theory",
+            "DAW",
+            "MIDI Programming"
+          ]
+        },
+        "Game Composers": {
+          "skill": [
+            "Interactive Music",
+            "Looping",
+            "Adaptive Soundtracks",
+            "DAW"
+          ]
+        },
+        "Musical Theater Composers": {
+          "skill": [
+            "Songwriting",
+            "Arrangement",
+            "Lyric Writing",
+            "Orchestration"
+          ]
+        },
+        "Music Arrangement": {
+          "skill": [
+            "Music Theory",
+            "Instrument Scoring",
+            "DAW",
+            "Orchestration"
+          ]
+        }
+      },
+      "Singers & Vocalists": {
+        "Male Singers": {
+          "skill": [
+            "Vocal Technique",
+            "Breath Control",
+            "Pitch Accuracy",
+            "Performance"
+          ]
+        },
+        "Female Singers": {
+          "skill": [
+            "Vocal Technique",
+            "Range Control",
+            "Pitch Accuracy",
+            "Stage Presence"
+          ]
+        },
+        "Gender Neutral Singers": {
+          "skill": [
+            "Vocal Flexibility",
+            "Expression",
+            "Pitch Control",
+            "Performance"
+          ]
+        },
+        "Choir & Gospel Singers": {
+          "skill": [
+            "Harmony Singing",
+            "Breath Control",
+            "Pitch Accuracy",
+            "Stage Performance"
+          ]
+        }
+      },
+      "Session Musicians": {
+        "Guitar": {
+          "skill": [
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Improvisation",
+            "Reading Music"
+          ]
+        },
+        "Drums & Percussion": {
+          "skill": [
+            "Rhythm",
+            "Timing",
+            "Various Percussion Instruments",
+            "Improvisation"
+          ]
+        },
+        "Bass": {
+          "skill": [
+            "Bass Guitar",
+            "Rhythm Section",
+            "Improvisation",
+            "Reading Music"
+          ]
+        },
+        "Piano & Keys": {
+          "skill": [
+            "Piano",
+            "Synthesizers",
+            "Chord Voicing",
+            "Improvisation"
+          ]
+        },
+        "Strings": {
+          "skill": [
+            "Violin",
+            "Cello",
+            "Orchestral Playing",
+            "Sight Reading"
+          ]
+        },
+        "Brass & Woodwind": {
+          "skill": [
+            "Trumpet",
+            "Saxophone",
+            "Clarinet",
+            "Sight Reading"
+          ]
+        }
+      },
+      "Songwriters": {
+        "Lyricists": {
+          "skill": [
+            "Creative Writing",
+            "Poetry",
+            "Storytelling",
+            "Rhyme Schemes"
+          ]
+        },
+        "Topliners": {
+          "skill": [
+            "Melody Writing",
+            "Vocal Hook Creation",
+            "Song Structure"
+          ]
+        },
+        "Song Structure & Arrangement": {
+          "skill": [
+            "Music Theory",
+            "Arrangement",
+            "Composition",
+            "DAW"
+          ]
+        },
+        "Melody Writing": {
+          "skill": [
+            "Ear Training",
+            "Music Theory",
+            "Instrument Proficiency"
+          ]
+        }
+      },
+      "Podcast Production": {
+        "Podcast Editing": {
+          "skill": [
+            "Audio Editing",
+            "Noise Reduction",
+            "EQ",
+            "Compression"
+          ]
+        },
+        "Podcast Mixing": {
+          "skill": [
+            "Mixing",
+            "Level Balancing",
+            "EQ",
+            "Compression"
+          ]
+        },
+        "Podcast Mastering": {
+          "skill": [
+            "Loudness Normalization",
+            "Compression",
+            "Finalizing Audio"
+          ]
+        },
+        "Podcast Show Notes": {
+          "skill": [
+            "Writing",
+            "SEO",
+            "Summarization",
+            "Content Creation"
+          ]
+        }
+      },
+      "Sound Design": {
+        "Sound Effects": {
+          "skill": [
+            "Foley",
+            "Synthesis",
+            "Sampling",
+            "DAW"
+          ]
+        },
+        "Foley": {
+          "skill": [
+            "Recording Techniques",
+            "Sound Matching",
+            "Editing"
+          ]
+        }
+      },
+      "Audiobook Production": {
+        "Audiobook Narration": {
+          "skill": [
+            "Long-form Voice Acting",
+            "Breath Control",
+            "Consistency"
+          ]
+        },
+        "Audiobook Editing": {
+          "skill": [
+            "Noise Reduction",
+            "Audio Editing",
+            "Consistency"
+          ]
+        },
+        "Audiobook Mastering": {
+          "skill": [
+            "Loudness Standards",
+            "Compression",
+            "Finalizing Audio"
+          ]
+        },
+        "Audiobook Cover Design": {
+          "skill": [
+            "Graphic Design",
+            "Marketing",
+            "Illustration"
+          ]
+        }
+      },
+      "Online Music Lessons": {
+        "Instruments": {
+          "skill": [
+            "Instrument Proficiency",
+            "Teaching",
+            "Lesson Planning"
+          ]
+        },
+        "Production": {
+          "skill": [
+            "DAW",
+            "Music Theory",
+            "Mixing",
+            "Sound Design"
+          ]
+        },
+        "Vocals": {
+          "skill": [
+            "Vocal Technique",
+            "Breath Control",
+            "Coaching"
+          ]
+        },
+        "Theory": {
+          "skill": [
+            "Music Theory",
+            "Ear Training",
+            "Composition"
+          ]
+        }
+      },
+      "Audio Editing": {
+        "Audio Restoration": {
+          "skill": [
+            "Noise Reduction",
+            "Click Removal",
+            "Audio Repair"
+          ]
+        },
+        "Audio Cleanup": {
+          "skill": [
+            "Noise Removal",
+            "EQ",
+            "Compression"
+          ]
+        },
+        "Audio Enhancement": {
+          "skill": [
+            "EQ",
+            "Compression",
+            "Stereo Imaging"
+          ]
+        },
+        "Audio Mixing": {
+          "skill": [
+            "DAW",
+            "EQ",
+            "Compression",
+            "Panning"
+          ]
+        }
+      },
+      "Audio Ads Production": {
+        "Radio Ads": {
+          "skill": [
+            "Script Writing",
+            "Voice Over",
+            "Editing",
+            "Mixing"
+          ]
+        },
+        "Podcast Ads": {
+          "skill": [
+            "Voice Over",
+            "Editing",
+            "Targeted Messaging"
+          ]
+        },
+        "Audio Commercials": {
+          "skill": [
+            "Script Writing",
+            "Voice Acting",
+            "Mixing"
+          ]
+        },
+        "Audio Branding": {
+          "skill": [
+            "Sound Identity",
+            "Jingles",
+            "Sonic Branding"
+          ]
+        }
+      },
+      "Music Transcription": {
+        "Sheet Music Transcription": {
+          "skill": [
+            "Music Notation",
+            "Ear Training",
+            "Software (Sibelius, Finale)"
+          ]
+        },
+        "Chord Charts": {
+          "skill": [
+            "Chord Theory",
+            "Music Notation"
+          ]
+        },
+        "Lead Sheets": {
+          "skill": [
+            "Melody Notation",
+            "Chord Symbols"
+          ]
+        },
+        "Tablature": {
+          "skill": [
+            "Instrument Tablature",
+            "Music Notation"
+          ]
+        }
+      },
+      "Vocal Tuning": {
+        "Pitch Correction": {
+          "skill": [
+            "Auto-Tune",
+            "Melodyne",
+            "Pitch Editing"
+          ]
+        },
+        "Vocal Harmonies": {
+          "skill": [
+            "Arrangement",
+            "Recording",
+            "Mixing"
+          ]
+        },
+        "Vocal Layering": {
+          "skill": [
+            "Recording",
+            "Editing",
+            "Mixing"
+          ]
+        },
+        "Vocal Effects": {
+          "skill": [
+            "Reverb",
+            "Delay",
+            "Chorus",
+            "Auto-Tune"
+          ]
+        }
+      },
+      "Custom Songs": {
+        "Custom Jingles": {
+          "skill": [
+            "Composition",
+            "Arranging",
+            "Recording"
+          ]
+        },
+        "Custom Songs for Events": {
+          "skill": [
+            "Songwriting",
+            "Production",
+            "Mixing"
+          ]
+        },
+        "Custom Songs for Gifts": {
+          "skill": [
+            "Songwriting",
+            "Arrangement",
+            "Recording"
+          ]
+        },
+        "Custom Songs for Brands": {
+          "skill": [
+            "Branding",
+            "Composition",
+            "Production"
+          ]
+        }
+      },
+      "DJ Drops & Tags": {
+        "DJ Drops": {
+          "skill": [
+            "Voice Recording",
+            "Editing",
+            "Sound Effects"
+          ]
+        },
+        "Producer Tags": {
+          "skill": [
+            "Voice Recording",
+            "Mixing",
+            "Sound Branding"
+          ]
+        }
+      },
+      "DJ Mixing": {
+        "DJ Sets": {
+          "skill": [
+            "Beatmatching",
+            "Mixing",
+            "Scratching",
+            "Song Selection"
+          ]
+        },
+        "Mashups": {
+          "skill": [
+            "Editing",
+            "Mixing",
+            "Song Arrangement"
+          ]
+        },
+        "Scratching": {
+          "skill": [
+            "Turntablism",
+            "Beatmatching",
+            "Manual Scratching"
+          ]
+        }
+      },
+      "Custom Patches & Samples": {
+        "Synth & Instrument Presets": {
+          "skill": [
+            "Sound Design",
+            "Synthesis",
+            "DAW"
+          ]
+        },
+        "DAW & Software Presets": {
+          "skill": [
+            "Preset Creation",
+            "DAW Knowledge"
+          ]
+        },
+        "Loops & Samples": {
+          "skill": [
+            "Sampling",
+            "Loop Creation",
+            "Editing"
+          ]
+        }
+      },
+      "Meditation Music": {
+        "Guided Meditation Music": {
+          "skill": [
+            "Calm Voice",
+            "Script Writing",
+            "Recording"
+          ]
+        },
+        "Ambient Meditation Music": {
+          "skill": [
+            "Soundscapes",
+            "Synth Pads",
+            "Mixing"
+          ]
+        },
+        "Binaural Beats": {
+          "skill": [
+            "Sound Engineering",
+            "Frequency Manipulation"
+          ]
+        },
+        "Nature Sounds": {
+          "skill": [
+            "Field Recording",
+            "Editing",
+            "Sound Design"
+          ]
+        }
+      },
+      "Jingles & Intros": {
+        "Jingles": {
+          "skill": [
+            "Composition",
+            "Lyric Writing",
+            "Recording"
+          ]
+        },
+        "Intros & Outros": {
+          "skill": [
+            "Voice Over",
+            "Mixing",
+            "Editing"
+          ]
+        }
+      },
+      "Audio Logo & Sonic Branding": {
+        "Audio Logo Design": {
+          "skill": [
+            "Sound Design",
+            "Branding",
+            "Mixing"
+          ]
+        },
+        "Sonic Branding Strategy": {
+          "skill": [
+            "Marketing",
+            "Sound Identity",
+            "Branding"
+          ]
+        },
+        "Sound Identity Development": {
+          "skill": [
+            "Sound Design",
+            "Brand Strategy",
+            "Mixing"
+          ]
+        }
+      },
+      "Music & Audio Advice": {
+        "Music & Audio Mentorship": {
+          "skill": [
+            "Coaching",
+            "Music Theory",
+            "Production Guidance"
+          ]
+        },
+        "Music Review & Feedback": {
+          "skill": [
+            "Critical Listening",
+            "Music Theory",
+            "Constructive Feedback"
+          ]
+        }
+      },
+      "Voice Synthesis & AI": {
+        "Text-to-speech": {
+          "skill": [
+            "TTS Engines",
+            "Voice Programming",
+            "AI"
+          ]
+        },
+        "Custom AI Voices": {
+          "skill": [
+            "Machine Learning",
+            "Voice Modeling",
+            "Programming"
+          ]
+        },
+        "Speech Recognition": {
+          "skill": [
+            "NLP",
+            "Machine Learning",
+            "Audio Processing"
+          ]
+        }
+      },
+      "Audio Plugin Development": {
+        "VST Plugins": {
+          "skill": [
+            "C++",
+            "JUCE Framework",
+            "Audio DSP"
+          ]
+        },
+        "Audio Effects Plugins": {
+          "skill": [
+            "DSP",
+            "C++",
+            "Plugin Development"
+          ]
+        },
+        "Synthesizer Plugins": {
+          "skill": [
+            "Sound Synthesis",
+            "Programming",
+            "DSP"
+          ]
+        },
+        "Audio Analysis Tools": {
+          "skill": [
+            "Signal Processing",
+            "Machine Learning",
+            "Audio DSP"
+          ]
+        }
+      },
+      "Other": {}
+    },
+    "Business": {
+      "Legal Consulting": {
+        "Business & Commercial Contracts": {
+          "skill": [
+            "Contract Drafting",
+            "Negotiation",
+            "Legal Compliance"
+          ]
+        },
+        "Legal Research": {
+          "skill": [
+            "Case Law Analysis",
+            "Statutory Interpretation",
+            "Legal Writing"
+          ]
+        },
+        "Legal Documents & Review": {
+          "skill": [
+            "Document Review",
+            "Due Diligence",
+            "Risk Assessment"
+          ]
+        },
+        "General Legal Advice": {
+          "skill": [
+            "Client Consultation",
+            "Legal Strategy",
+            "Regulatory Advice"
+          ]
+        },
+        "Dispute Resolution Services": {
+          "skill": [
+            "Mediation",
+            "Arbitration",
+            "Litigation Support"
+          ]
+        }
+      },
+      "E-Commerce Management": {
+        "Consultation": {
+          "skill": [
+            "Market Analysis",
+            "Platform Selection",
+            "Business Strategy"
+          ]
+        },
+        "E-Commerce Store Setup": {
+          "skill": [
+            "Shopify Setup",
+            "WooCommerce",
+            "Payment Gateway Integration"
+          ]
+        },
+        "Product Upload": {
+          "skill": [
+            "Data Entry",
+            "SEO for Products",
+            "Inventory Management"
+          ]
+        },
+        "E-Commerce Store Management": {
+          "skill": [
+            "Order Processing",
+            "Customer Service",
+            "Performance Tracking"
+          ]
+        },
+        "Product Research": {
+          "skill": [
+            "Competitor Analysis",
+            "Trend Analysis",
+            "Supplier Sourcing"
+          ]
+        }
+      },
+      "Sales": {
+        "Strategy & Planning": {
+          "skill": [
+            "Sales Forecasting",
+            "Market Segmentation",
+            "Sales Funnel Design"
+          ]
+        },
+        "Lead Generation": {
+          "skill": [
+            "Cold Calling",
+            "Email Campaigns",
+            "Social Selling"
+          ]
+        },
+        "Lead Qualification": {
+          "skill": [
+            "CRM Management",
+            "Customer Profiling",
+            "Needs Assessment"
+          ]
+        },
+        "Deal Development": {
+          "skill": [
+            "Negotiation",
+            "Proposal Writing",
+            "Closing Techniques"
+          ]
+        }
+      },
+      "Business Formation & Registration": {
+        "Business Structure Consultation": {
+          "skill": [
+            "Entity Selection",
+            "Tax Planning",
+            "Legal Compliance"
+          ]
+        },
+        "Document Preparation": {
+          "skill": [
+            "Filing Forms",
+            "Corporate Documentation",
+            "Licensing"
+          ]
+        },
+        "Tax Setup & EIN Application": {
+          "skill": [
+            "Tax ID Application",
+            "Tax Compliance",
+            "Accounting Setup"
+          ]
+        },
+        "Business Registration": {
+          "skill": [
+            "Government Filing",
+            "Regulatory Research",
+            "Compliance Monitoring"
+          ]
+        },
+        "Compliance & Ongoing Requirements": {
+          "skill": [
+            "Reporting",
+            "Renewals",
+            "Audit Preparation"
+          ]
+        }
+      },
+      "Intellectual Property Management": {
+        "Patent & Trademark Search": {
+          "skill": [
+            "Patent Search",
+            "Trademark Search",
+            "Prior Art Analysis"
+          ]
+        },
+        "Filing & Registration": {
+          "skill": [
+            "Application Filing",
+            "Documentation",
+            "Office Action Responses"
+          ]
+        },
+        "Patent Licensing & Monetization": {
+          "skill": [
+            "Licensing Agreements",
+            "Royalty Management",
+            "Market Analysis"
+          ]
+        },
+        "Trademark Monitoring & Enforcement": {
+          "skill": [
+            "Brand Protection",
+            "Infringement Detection",
+            "Legal Action"
+          ]
+        },
+        "Infringement Protection & DMCA Takedown": {
+          "skill": [
+            "Digital Rights Management",
+            "DMCA Notices",
+            "Content Removal"
+          ]
+        },
+        "Intellectual Property Consulting": {
+          "skill": [
+            "IP Strategy",
+            "Portfolio Management",
+            "Valuation"
+          ]
+        }
+      },
+      "Virtual Assistant": {
+        "Call Center & Calling": {
+          "skill": [
+            "Phone Etiquette",
+            "Call Routing",
+            "Customer Handling"
+          ]
+        },
+        "Messaging & Emailing": {
+          "skill": [
+            "Email Management",
+            "Chat Support",
+            "Communication Skills"
+          ]
+        },
+        "Research Assistant": {
+          "skill": [
+            "Online Research",
+            "Data Compilation",
+            "Report Preparation"
+          ]
+        },
+        "File Conversion": {
+          "skill": [
+            "PDF Conversion",
+            "Document Formatting",
+            "Data Extraction"
+          ]
+        },
+        "Template Docs & Formatting": {
+          "skill": [
+            "MS Office",
+            "Google Docs",
+            "Template Creation"
+          ]
+        },
+        "General Assistance": {
+          "skill": [
+            "Scheduling",
+            "Data Entry",
+            "Task Management"
+          ]
+        },
+        "Fact Checking": {
+          "skill": [
+            "Information Verification",
+            "Source Validation",
+            "Data Accuracy"
+          ]
+        }
+      }
+    },
+    "Personal Growth & Hobbies": {
+      "Online Tutoring": {
+        "Math Tutoring": {
+          "skill": [
+            "Algebra",
+            "Calculus",
+            "Geometry",
+            "Problem Solving",
+            "Test Preparation"
+          ]
+        },
+        "Science Tutoring": {
+          "skill": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Scientific Method",
+            "Lab Skills"
+          ]
+        },
+        "Social Sciences Tutoring": {
+          "skill": [
+            "History",
+            "Psychology",
+            "Sociology",
+            "Critical Thinking"
+          ]
+        },
+        "Business Tutoring": {
+          "skill": [
+            "Marketing Basics",
+            "Finance Fundamentals",
+            "Entrepreneurship"
+          ]
+        },
+        "Other Subjects": {
+          "skill": [
+            "Custom Curriculum",
+            "Study Skills",
+            "Subject Research"
+          ]
+        },
+        "Engineering Tutoring": {
+          "skill": [
+            "Mechanics",
+            "Electrical Engineering",
+            "CAD",
+            "Programming Basics"
+          ]
+        }
+      },
+      "Language Lessons": {
+        "Hindi Lessons": {
+          "skill": [
+            "Grammar",
+            "Conversation",
+            "Pronunciation",
+            "Reading",
+            "Writing"
+          ]
+        },
+        "English Lessons": {
+          "skill": [
+            "Grammar",
+            "Vocabulary",
+            "Conversation",
+            "Business English",
+            "Writing"
+          ]
+        },
+        "Spanish Lessons": {
+          "skill": [
+            "Grammar",
+            "Conversation",
+            "Cultural Context",
+            "Listening"
+          ]
+        },
+        "French Lessons": {
+          "skill": [
+            "Grammar",
+            "Conversation",
+            "Pronunciation",
+            "Reading"
+          ]
+        },
+        "German Lessons": {
+          "skill": [
+            "Grammar",
+            "Conversation",
+            "Vocabulary",
+            "Writing"
+          ]
+        },
+        "Chinese Lessons": {
+          "skill": [
+            "Mandarin Basics",
+            "Pinyin",
+            "Characters",
+            "Tone Practice"
+          ]
+        },
+        "Japanese Lessons": {
+          "skill": [
+            "Hiragana",
+            "Katakana",
+            "Basic Grammar",
+            "Kanji"
+          ]
+        },
+        "Italian Lessons": {
+          "skill": [
+            "Grammar",
+            "Conversation",
+            "Culture",
+            "Pronunciation"
+          ]
+        },
+        "Russian Lessons": {
+          "skill": [
+            "Cyrillic Alphabet",
+            "Grammar",
+            "Conversation",
+            "Vocabulary"
+          ]
+        },
+        "Korean Lessons": {
+          "skill": [
+            "Hangul",
+            "Grammar",
+            "Pronunciation",
+            "Conversational Korean"
+          ]
+        },
+        "Other Languages": {
+          "skill": [
+            "Language Acquisition",
+            "Custom Lessons",
+            "Cultural Insights"
+          ]
+        }
+      },
+      "Life Coaching": {
+        "Personal Growth": {
+          "skill": [
+            "Goal Setting",
+            "Motivation",
+            "Self-Reflection",
+            "Mindset Coaching"
+          ]
+        },
+        "Accountability & Time Management": {
+          "skill": [
+            "Prioritization",
+            "Scheduling",
+            "Productivity Techniques",
+            "Focus Strategies"
+          ]
+        },
+        "Relationship Advice": {
+          "skill": [
+            "Communication Skills",
+            "Conflict Resolution",
+            "Empathy",
+            "Counseling Basics"
+          ]
+        }
+      },
+      "Competitive Gaming": {
+        "Game Coaching": {
+          "skill": [
+            "Strategy Development",
+            "Skill Training",
+            "Gameplay Analysis"
+          ]
+        },
+        "eSports Management & Strategy": {
+          "skill": [
+            "Team Management",
+            "Tournament Organization",
+            "Brand Building"
+          ]
+        }
+      },
+      "Game Recordings & Guides": {
+        "Game Walkthroughs": {
+          "skill": [
+            "Step-by-Step Explanation",
+            "Video Editing",
+            "Narration"
+          ]
+        },
+        "Game Guides & Tutorials": {
+          "skill": [
+            "Content Creation",
+            "Game Mechanics",
+            "Teaching Skills"
+          ]
+        },
+        "Game Strategy Guides": {
+          "skill": [
+            "Tactics",
+            "Meta Analysis",
+            "Player Psychology"
+          ]
+        },
+        "Game Reviews & Analysis": {
+          "skill": [
+            "Critical Review",
+            "Game Mechanics Understanding",
+            "Audience Engagement"
+          ]
+        }
+      },
+      "Gameplay Experience & Feedback": {
+        "Gameplay Recording & Analysis": {
+          "skill": [
+            "Video Capture",
+            "Performance Review",
+            "Technical Analysis"
+          ]
+        },
+        "Gameplay Feedback & Improvement": {
+          "skill": [
+            "Constructive Criticism",
+            "Skill Development",
+            "Communication"
+          ]
+        },
+        "Gameplay Strategy Consultation": {
+          "skill": [
+            "Custom Strategies",
+            "Meta Knowledge",
+            "Player Coaching"
+          ]
+        }
+      },
+      "Recreational Gaming": {
+        "Game Matchmaking": {
+          "skill": [
+            "Player Matching",
+            "Community Management",
+            "Fair Play Enforcement"
+          ]
+        },
+        "Other Gaming Services": {
+          "skill": [
+            "Custom Game Modes",
+            "Server Management",
+            "Modding"
+          ]
+        }
+      },
+      "Ingame Creation": {
+        "Ingame Architecture": {
+          "skill": [
+            "Level Design",
+            "3D Modeling",
+            "Game Engine Usage"
+          ]
+        },
+        "World Building": {
+          "skill": [
+            "Lore Development",
+            "Storytelling",
+            "Map Design"
+          ]
+        }
+      },
+      "Career Counseling": {
+        "Interview Prep": {
+          "skill": [
+            "Resume Writing",
+            "Mock Interviews",
+            "Communication Skills"
+          ]
+        },
+        "Search & Apply": {
+          "skill": [
+            "Job Search Strategies",
+            "Application Techniques",
+            "Networking"
+          ]
+        },
+        "Career Consulting": {
+          "skill": [
+            "Career Path Planning",
+            "Skill Assessment",
+            "Goal Setting"
+          ]
+        },
+        "Leadership Development": {
+          "skill": [
+            "Team Building",
+            "Communication",
+            "Conflict Management"
+          ]
+        },
+        "Retirement Planning & Coaching": {
+          "skill": [
+            "Financial Planning",
+            "Goal Setting",
+            "Life Transition Coaching"
+          ]
+        },
+        "College Admission Consulting": {
+          "skill": [
+            "Application Assistance",
+            "Essay Coaching",
+            "Interview Preparation"
+          ]
+        }
+      },
+      "Arts & Crafts": {
+        "Painting & Drawing": {
+          "skill": [
+            "Sketching",
+            "Watercolors",
+            "Oil Painting",
+            "Digital Art"
+          ]
+        },
+        "Sculpting & Pottery": {
+          "skill": [
+            "Clay Modeling",
+            "Wheel Throwing",
+            "Carving"
+          ]
+        },
+        "Crafting & DIY Projects": {
+          "skill": [
+            "Paper Crafts",
+            "Upcycling",
+            "Jewelry Making"
+          ]
+        },
+        "Photography & Videography": {
+          "skill": [
+            "Camera Operation",
+            "Lighting",
+            "Editing",
+            "Composition"
+          ]
+        },
+        "Calligraphy & Hand Lettering": {
+          "skill": [
+            "Brush Techniques",
+            "Typography",
+            "Design Layout"
+          ]
+        },
+        "Quilting & Sewing": {
+          "skill": [
+            "Pattern Making",
+            "Machine Sewing",
+            "Hand Stitching"
+          ]
+        },
+        "Knitting & Crocheting": {
+          "skill": [
+            "Yarn Selection",
+            "Pattern Reading",
+            "Stitch Techniques"
+          ]
+        },
+        "Woodworking & Carpentry": {
+          "skill": [
+            "Tool Handling",
+            "Joinery",
+            "Finishing"
+          ]
+        }
+      },
+      "Embroidery Digitizing": {
+        "Embroidery Design": {
+          "skill": [
+            "Digitizing Software",
+            "Design Layout",
+            "Thread Selection"
+          ]
+        },
+        "Embroidery File Conversion": {
+          "skill": [
+            "File Format Conversion",
+            "Software Compatibility",
+            "Quality Control"
+          ]
+        },
+        "Custom Embroidery Patterns": {
+          "skill": [
+            "Pattern Design",
+            "Client Consultation",
+            "Sampling"
+          ]
+        },
+        "Embroidery Consultation": {
+          "skill": [
+            "Material Selection",
+            "Process Optimization",
+            "Cost Estimation"
+          ]
+        }
+      },
+      "Astrology & Psychics": {
+        "Readings & Channeling": {
+          "skill": [
+            "Intuition",
+            "Clairvoyance",
+            "Client Communication"
+          ]
+        },
+        "Astrology & Horoscope": {
+          "skill": [
+            "Chart Reading",
+            "Zodiac Knowledge",
+            "Prediction Techniques"
+          ]
+        },
+        "Numerology": {
+          "skill": [
+            "Number Analysis",
+            "Life Path Calculation",
+            "Interpretation"
+          ]
+        },
+        "Spell Casting": {
+          "skill": [
+            "Ritual Knowledge",
+            "Energy Work",
+            "Symbolism"
+          ]
+        },
+        "Feng Shui & Space Cleansing": {
+          "skill": [
+            "Energy Flow",
+            "Interior Arrangement",
+            "Cleansing Rituals"
+          ]
+        },
+        "Reiki & Energy Balance": {
+          "skill": [
+            "Energy Healing",
+            "Chakra Balancing",
+            "Meditation Guidance"
+          ]
+        }
+      },
+      "Modeling & Acting": {
+        "Modeling": {
+          "skill": [
+            "Posing",
+            "Runway Walking",
+            "Portfolio Development"
+          ]
+        },
+        "Acting": {
+          "skill": [
+            "Character Development",
+            "Script Analysis",
+            "Improvisation"
+          ]
+        },
+        "Voice Acting": {
+          "skill": [
+            "Voice Modulation",
+            "Dubbing",
+            "Narration"
+          ]
+        },
+        "Dancing": {
+          "skill": [
+            "Choreography",
+            "Various Dance Styles",
+            "Rhythm Training"
+          ]
+        }
+      },
+      "Fitness": {
+        "Fitness Lessons": {
+          "skill": [
+            "Exercise Instruction",
+            "Anatomy Knowledge",
+            "Motivation"
+          ]
+        },
+        "Workout Plans": {
+          "skill": [
+            "Program Design",
+            "Nutrition Basics",
+            "Progress Tracking"
+          ]
+        },
+        "Dance Lessons": {
+          "skill": [
+            "Dance Techniques",
+            "Teaching Skills",
+            "Fitness Integration"
+          ]
+        },
+        "Sports Review & Consultation": {
+          "skill": [
+            "Performance Analysis",
+            "Strategy Development",
+            "Injury Prevention"
+          ]
+        }
+      },
+      "Nutrition": {
+        "Recipe Creation": {
+          "skill": [
+            "Meal Planning",
+            "Dietary Restrictions",
+            "Flavor Balancing"
+          ]
+        },
+        "Meal Plans": {
+          "skill": [
+            "Nutritional Analysis",
+            "Calorie Counting",
+            "Client Consultation"
+          ]
+        },
+        "Nutrition Coaching": {
+          "skill": [
+            "Healthy Habits",
+            "Supplement Knowledge",
+            "Motivational Coaching"
+          ]
+        }
+      },
+      "Wellness": {
+        "Guided Meditation": {
+          "skill": [
+            "Meditation Techniques",
+            "Voice Guidance",
+            "Relaxation"
+          ]
+        },
+        "Mindfulness Coaching": {
+          "skill": [
+            "Mindfulness Practices",
+            "Stress Reduction",
+            "Self Awareness"
+          ]
+        }
+      },
+      "Traveling": {
+        "Local Advisors": {
+          "skill": [
+            "Destination Knowledge",
+            "Itinerary Planning",
+            "Cultural Insights"
+          ]
+        },
+        "Shipping Services": {
+          "skill": [
+            "Logistics",
+            "Customs Procedures",
+            "Tracking"
+          ]
+        },
+        "Trip Plans": {
+          "skill": [
+            "Route Planning",
+            "Budgeting",
+            "Booking Management"
+          ]
+        },
+        "Visa Application & Submission": {
+          "skill": [
+            "Documentation",
+            "Regulations Knowledge",
+            "Application Assistance"
+          ]
+        }
+      },
+      "Puzzle & Game Creation": {
+        "Puzzle Design": {
+          "skill": [
+            "Logic Design",
+            "Creative Thinking",
+            "Puzzle Testing"
+          ]
+        },
+        "Game Design": {
+          "skill": [
+            "Mechanics",
+            "Level Design",
+            "Story Integration"
+          ]
+        },
+        "Board Game Design": {
+          "skill": [
+            "Rule Development",
+            "Prototyping",
+            "Playtesting"
+          ]
+        },
+        "Card Game Design": {
+          "skill": [
+            "Deck Building",
+            "Balance Testing",
+            "Artwork Coordination"
+          ]
+        }
+      },
+      "Styling & Fashion": {
+        "Fashion Design": {
+          "skill": [
+            "Sketching",
+            "Trend Analysis",
+            "Material Knowledge"
+          ]
+        },
+        "Personal Styling": {
+          "skill": [
+            "Color Theory",
+            "Body Shape Analysis",
+            "Wardrobe Planning"
+          ]
+        },
+        "Makeup & Hair Styling": {
+          "skill": [
+            "Techniques",
+            "Product Knowledge",
+            "Event Styling"
+          ]
+        }
+      }
+    },
+    "Data": {
+      "Data Governance & Protection": {
+        "Data Governance Frameworks": {
+          "skill": [
+            "Policy Development",
+            "Compliance Monitoring",
+            "Risk Assessment"
+          ]
+        },
+        "Data Protection & Privacy": {
+          "skill": [
+            "Data Encryption",
+            "Access Control",
+            "GDPR Compliance"
+          ]
+        },
+        "Data Compliance & Regulations": {
+          "skill": [
+            "HIPAA",
+            "SOX",
+            "CCPA"
+          ]
+        },
+        "Data Security & Encryption": {
+          "skill": [
+            "AES Encryption",
+            "SSL/TLS",
+            "Firewall Management"
+          ]
+        },
+        "Data Quality Management": {
+          "skill": [
+            "Data Validation",
+            "Data Cleansing",
+            "Data Profiling"
+          ]
+        }
+      },
+      "Data Scraping": {
+        "Web Scraping": {
+          "skill": [
+            "Python Scrapy",
+            "Beautiful Soup",
+            "Selenium Automation"
+          ]
+        },
+        "Data Extraction": {
+          "skill": [
+            "API Integration",
+            "Regular Expressions",
+            "OCR Techniques"
+          ]
+        },
+        "Data Mining": {
+          "skill": [
+            "Pattern Recognition",
+            "Clustering",
+            "Classification"
+          ]
+        },
+        "Data Harvesting": {
+          "skill": [
+            "Bulk Data Collection",
+            "Data Aggregation",
+            "Data Cleaning"
+          ]
+        }
+      },
+      "Data Labeling & Annotation": {
+        "Image Annotation": {
+          "skill": [
+            "Bounding Box Annotation",
+            "Semantic Segmentation",
+            "Labeling Tools (LabelImg)"
+          ]
+        },
+        "Text Annotation": {
+          "skill": [
+            "Named Entity Recognition",
+            "Sentiment Annotation",
+            "Part-of-Speech Tagging"
+          ]
+        },
+        "Audio Annotation": {
+          "skill": [
+            "Speech Transcription",
+            "Sound Event Labeling",
+            "Audio Segmentation"
+          ]
+        },
+        "Video Annotation": {
+          "skill": [
+            "Frame-by-Frame Labeling",
+            "Object Tracking",
+            "Action Recognition"
+          ]
+        },
+        "3D Point Cloud Annotation": {
+          "skill": [
+            "3D Bounding Boxes",
+            "Semantic Labeling",
+            "LIDAR Data Processing"
+          ]
+        }
+      },
+      "Data Formatting": {
+        "Data Formatting Consultation": {
+          "skill": [
+            "Data Standardization",
+            "Template Creation",
+            "Format Validation"
+          ]
+        },
+        "Data Formatting Automation": {
+          "skill": [
+            "Excel Macros",
+            "Python Scripting",
+            "ETL Pipelines"
+          ]
+        },
+        "Data Formatting Formulas & Macros": {
+          "skill": [
+            "Excel Formulas",
+            "VBA Macros",
+            "Google Sheets Scripting"
+          ]
+        }
+      },
+      "Databases": {
+        "Consultation": {
+          "skill": [
+            "Database Architecture",
+            "Scalability Planning",
+            "Backup Strategies"
+          ]
+        },
+        "Database Administration (DBA)": {
+          "skill": [
+            "Performance Tuning",
+            "Security Management",
+            "Replication Setup"
+          ]
+        },
+        "SQL & NoSQL Queries": {
+          "skill": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "Cassandra"
+          ]
+        },
+        "Design & Optimization": {
+          "skill": [
+            "Indexing",
+            "Normalization",
+            "Query Optimization"
+          ]
+        },
+        "Database Development": {
+          "skill": [
+            "Stored Procedures",
+            "Triggers",
+            "Schema Design"
+          ]
+        },
+        "Database Migration & Performance": {
+          "skill": [
+            "Data Migration",
+            "Load Balancing",
+            "Performance Benchmarking"
+          ]
+        }
+      },
+      "Data Cleaning": {
+        "Data Deduplication": {
+          "skill": [
+            "Duplicate Detection",
+            "Data Matching Algorithms",
+            "Record Linkage"
+          ]
+        },
+        "Data Validation": {
+          "skill": [
+            "Rule-Based Validation",
+            "Cross-Field Validation",
+            "Automated Testing"
+          ]
+        },
+        "Data Standardization": {
+          "skill": [
+            "Format Standardization",
+            "Normalization Techniques",
+            "Data Harmonization"
+          ]
+        },
+        "Data Normalization": {
+          "skill": [
+            "Min-Max Scaling",
+            "Z-Score Normalization",
+            "Data Transformation"
+          ]
+        }
+      },
+      "Data Enrichment": {
+        "Data Enrichment Consultation": {
+          "skill": [
+            "External Data Integration",
+            "Data Matching",
+            "Data Augmentation Strategies"
+          ]
+        },
+        "Data Enrichment Automation": {
+          "skill": [
+            "API Automation",
+            "Batch Processing",
+            "Workflow Automation"
+          ]
+        },
+        "Data Enrichment Formulas & Macros": {
+          "skill": [
+            "Excel VLOOKUP",
+            "Power Query",
+            "Custom Macros"
+          ]
+        }
+      },
+      "Data Processing": {
+        "Consultation": {
+          "skill": [
+            "Process Design",
+            "Workflow Optimization",
+            "Bottleneck Analysis"
+          ]
+        },
+        "Automations": {
+          "skill": [
+            "ETL Tools",
+            "Python Automation",
+            "Scheduling Tools"
+          ]
+        },
+        "Formulas & Macros": {
+          "skill": [
+            "Excel Macros",
+            "Google Sheets Scripts",
+            "Custom Functions"
+          ]
+        }
+      },
+      "Data Engineering": {
+        "Data Pipeline Development": {
+          "skill": [
+            "Apache Airflow",
+            "Luigi",
+            "Dataflow"
+          ]
+        },
+        "ETL Processes": {
+          "skill": [
+            "Informatica",
+            "Talend",
+            "Custom ETL Scripts"
+          ]
+        },
+        "Data Warehousing": {
+          "skill": [
+            "Redshift",
+            "Snowflake",
+            "BigQuery"
+          ]
+        },
+        "Big Data Solutions": {
+          "skill": [
+            "Hadoop",
+            "Spark",
+            "Kafka"
+          ]
+        },
+        "Data Integration": {
+          "skill": [
+            "API Integration",
+            "Middleware Solutions",
+            "Data Federation"
+          ]
+        },
+        "Data Migration": {
+          "skill": [
+            "Cloud Migration",
+            "Database Replication",
+            "Data Transfer Tools"
+          ]
+        }
+      },
+      "Data Analytics": {
+        "BI Analytics": {
+          "skill": [
+            "Power BI",
+            "Tableau",
+            "Looker"
+          ]
+        },
+        "Data Analytics Consultation": {
+          "skill": [
+            "Business Analysis",
+            "Data Interpretation",
+            "KPI Development"
+          ]
+        },
+        "Supply Chain Analytics": {
+          "skill": [
+            "Inventory Analysis",
+            "Demand Forecasting",
+            "Logistics Optimization"
+          ]
+        },
+        "Financial Analytics": {
+          "skill": [
+            "Financial Modeling",
+            "Risk Analysis",
+            "Portfolio Management"
+          ]
+        },
+        "Statistical Modeling & Analytics": {
+          "skill": [
+            "Regression Analysis",
+            "Hypothesis Testing",
+            "Predictive Modeling"
+          ]
+        },
+        "Product Analytics": {
+          "skill": [
+            "User Behavior Analysis",
+            "A/B Testing",
+            "Funnel Analysis"
+          ]
+        },
+        "Marketing Analytics": {
+          "skill": [
+            "Campaign Analysis",
+            "Customer Segmentation",
+            "ROI Measurement"
+          ]
+        }
+      },
+      "Data Visualization": {
+        "Consultation": {
+          "skill": [
+            "Visualization Best Practices",
+            "Dashboard Design",
+            "User Experience"
+          ]
+        },
+        "Reports": {
+          "skill": [
+            "Report Writing",
+            "Data Storytelling",
+            "Automated Reporting"
+          ]
+        },
+        "Geographic Information Systems (GIS)": {
+          "skill": [
+            "ArcGIS",
+            "QGIS",
+            "Spatial Analysis"
+          ]
+        },
+        "Data Dashboards": {
+          "skill": [
+            "Dashboard Development",
+            "Real-time Data Updates",
+            "KPI Tracking"
+          ]
+        },
+        "Graphs & Charts": {
+          "skill": [
+            "D3.js",
+            "Chart.js",
+            "Plotly"
+          ]
+        }
+      },
+      "Data Science & ML": {
+        "Machine Learning": {
+          "skill": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Model Evaluation"
+          ]
+        },
+        "Deep Learning": {
+          "skill": [
+            "Neural Networks",
+            "TensorFlow",
+            "PyTorch"
+          ]
+        },
+        "Computer Vision": {
+          "skill": [
+            "Image Classification",
+            "Object Detection",
+            "OpenCV"
+          ]
+        },
+        "AI Model Fine-Tuning": {
+          "skill": [
+            "Hyperparameter Tuning",
+            "Transfer Learning",
+            "Model Optimization"
+          ]
+        },
+        "Natural Language Processing": {
+          "skill": [
+            "Text Classification",
+            "Named Entity Recognition",
+            "Sentiment Analysis"
+          ]
+        },
+        "Generative Models": {
+          "skill": [
+            "GANs",
+            "Variational Autoencoders",
+            "Text Generation"
+          ]
+        },
+        "Time Series Analysis": {
+          "skill": [
+            "ARIMA",
+            "LSTM",
+            "Forecasting"
+          ]
+        },
+        "Data Science Consultation": {
+          "skill": [
+            "Data Strategy",
+            "Problem Framing",
+            "Model Deployment"
+          ]
+        }
+      },
+      "Data Entry": {
+        "Web Research": {
+          "skill": [
+            "Internet Research",
+            "Data Collection",
+            "Source Verification"
+          ]
+        },
+        "Online Data Entry": {
+          "skill": [
+            "Data Input",
+            "Accuracy Checking",
+            "Form Filling"
+          ]
+        },
+        "Offline Data Entry": {
+          "skill": [
+            "Document Digitization",
+            "Data Conversion",
+            "Manual Data Entry"
+          ]
+        },
+        "Data Collection": {
+          "skill": [
+            "Survey Data Entry",
+            "Field Data Collection",
+            "Database Entry"
+          ]
+        },
+        "Copy Paste": {
+          "skill": [
+            "Data Duplication",
+            "Bulk Copy-Pasting",
+            "Clipboard Management"
+          ]
+        },
+        "Captcha Entry": {
+          "skill": [
+            "Captcha Solving",
+            "Speed Typing",
+            "Accuracy"
+          ]
+        },
+        "Transcription": {
+          "skill": [
+            "Audio to Text",
+            "Medical Transcription",
+            "Typing Speed"
+          ]
+        }
+      }
+    }
+  },
+  "Digital Marketing": {
+    "Social Media Marketing": {
+      "Profile Setup & Integration": {
+        "skill": [
+          "Facebook Page Setup",
+          "Instagram Profile Setup",
+          "Account Linking",
+          "Branding Consistency"
+        ]
+      },
+      "Social Content": {
+        "skill": [
+          "Content Creation",
+          "Graphic Design",
+          "Copywriting",
+          "Scheduling Posts"
+        ]
+      },
+      "Social Media Management": {
+        "skill": [
+          "Community Engagement",
+          "Content Calendar Planning",
+          "Comment Moderation",
+          "Analytics Monitoring"
+        ]
+      },
+      "Analytics & Tracking": {
+        "skill": [
+          "Google Analytics",
+          "Facebook Insights",
+          "Performance Reporting",
+          "Conversion Tracking"
+        ]
+      },
+      "Paid Social Media": {
+        "skill": [
+          "Facebook Ads",
+          "Instagram Ads",
+          "Budget Management",
+          "A/B Testing"
+        ]
+      },
+      "Social Media Strategy": {
+        "skill": [
+          "Audience Research",
+          "Competitive Analysis",
+          "Campaign Planning",
+          "Brand Positioning"
+        ]
+      },
+      "Organic Social Promotions": {
+        "skill": [
+          "Hashtag Research",
+          "Influencer Outreach",
+          "Content Optimization",
+          "Engagement Strategies"
+        ]
+      }
+    },
+    "Guest Posting": {
+      "Guest Post Writing": {
+        "skill": [
+          "SEO Writing",
+          "Topic Research",
+          "Content Editing",
+          "Link Building"
+        ]
+      },
+      "Guest Post Publishing": {
+        "skill": [
+          "Outreach Emails",
+          "Publication Guidelines",
+          "Submission Tracking",
+          "Relationship Building"
+        ]
+      },
+      "Guest Post Outreach": {
+        "skill": [
+          "Prospecting Blogs",
+          "Email Marketing",
+          "Follow-Up Strategies",
+          "Negotiation"
+        ]
+      },
+      "Guest Post Strategy": {
+        "skill": [
+          "Target Audience Identification",
+          "Content Planning",
+          "Link Strategy",
+          "Performance Measurement"
+        ]
+      }
+    },
+    "Search Engine Optimization (SEO)": {
+      "Keyword Research": {
+        "skill": [
+          "Google Keyword Planner",
+          "Competitor Analysis",
+          "Long-Tail Keywords",
+          "Search Intent Analysis"
+        ]
+      },
+      "On-Page SEO": {
+        "skill": [
+          "Meta Tags Optimization",
+          "Header Tags Usage",
+          "Internal Linking",
+          "Content Optimization"
+        ]
+      },
+      "Voice Search SEO": {
+        "skill": [
+          "Conversational Keywords",
+          "Featured Snippets",
+          "Mobile Optimization",
+          "Local SEO Techniques"
+        ]
+      },
+      "SEO Strategy": {
+        "skill": [
+          "Site Audits",
+          "Content Gap Analysis",
+          "Backlink Building",
+          "Competitor Benchmarking"
+        ]
+      },
+      "Technical SEO": {
+        "skill": [
+          "Site Speed Optimization",
+          "XML Sitemaps",
+          "Robots.txt Configuration",
+          "Structured Data"
+        ]
+      },
+      "Off-Page SEO": {
+        "skill": [
+          "Backlink Outreach",
+          "Guest Posting",
+          "Social Bookmarking",
+          "Influencer Collaborations"
+        ]
+      },
+      "Competitor Analysis": {
+        "skill": [
+          "Backlink Analysis",
+          "Content Comparison",
+          "Traffic Sources",
+          "Keyword Gap"
+        ]
+      },
+      "Full SEO Package": {
+        "skill": [
+          "Keyword Research",
+          "On-Page SEO",
+          "Technical SEO",
+          "Off-Page SEO",
+          "Content Strategy"
+        ]
+      }
+    },
+    "Generative Engine Optimization": {
+      "Generative Engine Optimization": {
+        "skill": [
+          "AI Content Optimization",
+          "Prompt Engineering",
+          "Machine Learning Integration"
+        ]
+      },
+      "Generative Engine Strategy": {
+        "skill": [
+          "AI Content Planning",
+          "Automation Workflows",
+          "Performance Analysis"
+        ]
+      },
+      "Generative Engine Content Creation": {
+        "skill": [
+          "AI Text Generation",
+          "Creative Prompt Design",
+          "Content Refinement"
+        ]
+      }
+    },
+    "Public Relations": {
+      "Consultation": {
+        "skill": [
+          "Media Relations",
+          "Crisis Management",
+          "Stakeholder Communication"
+        ]
+      },
+      "Events, Conferences & Awards": {
+        "skill": [
+          "Event Planning",
+          "Sponsorship Management",
+          "Award Submissions"
+        ]
+      },
+      "Press Release Pitching": {
+        "skill": [
+          "Press Release Writing",
+          "Media Outreach",
+          "Follow-Up"
+        ]
+      },
+      "Strategy & Planning": {
+        "skill": [
+          "PR Campaign Planning",
+          "Target Audience Analysis",
+          "Message Development"
+        ]
+      }
+    },
+    "Book & eBook Marketing": {
+      "Book Launch Strategy": {
+        "skill": [
+          "Launch Planning",
+          "Pre-Launch Campaigns",
+          "Distribution Channels"
+        ]
+      },
+      "Book Promotion": {
+        "skill": [
+          "Social Media Promotion",
+          "Email Marketing",
+          "Book Reviews Outreach"
+        ]
+      },
+      "Book Reviews & Testimonials": {
+        "skill": [
+          "Reviewer Outreach",
+          "Testimonial Collection",
+          "Review Management"
+        ]
+      },
+      "Author Branding": {
+        "skill": [
+          "Personal Branding",
+          "Website Development",
+          "Author Social Profiles"
+        ]
+      }
+    },
+    "Podcast Marketing": {
+      "Podcast Promotion": {
+        "skill": [
+          "Podcast SEO",
+          "Social Media Ads",
+          "Cross-Promotion"
+        ]
+      },
+      "Advertising within Podcasts": {
+        "skill": [
+          "Sponsorship Deals",
+          "Ad Script Writing",
+          "Campaign Tracking"
+        ]
+      }
+    },
+    "Video Marketing": {
+      "YouTube Channel Management": {
+        "skill": [
+          "Channel Branding",
+          "Content Scheduling",
+          "Community Management"
+        ]
+      },
+      "Consultation & Audience Research": {
+        "skill": [
+          "Audience Analysis",
+          "Content Strategy",
+          "Competitor Research"
+        ]
+      },
+      "Video SEO": {
+        "skill": [
+          "Keyword Optimization",
+          "Thumbnail Design",
+          "Metadata Management"
+        ]
+      },
+      "Online Video Advertising": {
+        "skill": [
+          "YouTube Ads",
+          "Targeting & Retargeting",
+          "Budget Allocation"
+        ]
+      },
+      "Organic Video Promotion & Distribution": {
+        "skill": [
+          "Social Sharing",
+          "Influencer Outreach",
+          "Community Engagement"
+        ]
+      },
+      "YouTube Monetization": {
+        "skill": [
+          "AdSense Setup",
+          "Memberships",
+          "Merchandise Integration"
+        ]
+      },
+      "Live Video Streaming": {
+        "skill": [
+          "Platform Setup",
+          "Audience Interaction",
+          "Technical Troubleshooting"
+        ]
+      }
+    },
+    "Email Marketing": {
+      "Campaign Management": {
+        "skill": [
+          "List Segmentation",
+          "Campaign Scheduling",
+          "Performance Reporting"
+        ]
+      },
+      "Email Automations": {
+        "skill": [
+          "Drip Campaigns",
+          "Trigger Setup",
+          "Personalization"
+        ]
+      },
+      "Email Platform Support": {
+        "skill": [
+          "Mailchimp",
+          "Constant Contact",
+          "Campaign Monitor"
+        ]
+      },
+      "Audience Development": {
+        "skill": [
+          "Lead Magnets",
+          "Signup Forms",
+          "Subscriber Growth"
+        ]
+      },
+      "Cold Emails": {
+        "skill": [
+          "Prospecting",
+          "Personalized Outreach",
+          "Follow-Up Strategies"
+        ]
+      }
+    },
+    "Text Message Marketing": {
+      "SMS Campaigns": {
+        "skill": [
+          "Campaign Planning",
+          "Message Personalization",
+          "Delivery Timing"
+        ]
+      },
+      "MMS Campaigns": {
+        "skill": [
+          "Rich Media Messaging",
+          "Image & Video Integration",
+          "Compliance"
+        ]
+      },
+      "Text Message Automation": {
+        "skill": [
+          "Auto-Responders",
+          "Triggers",
+          "Workflow Setup"
+        ]
+      },
+      "Text Message List Building": {
+        "skill": [
+          "Opt-In Strategies",
+          "Subscriber Management",
+          "Lead Capture"
+        ]
+      }
+    },
+    "Crowdfunding": {
+      "Campaign Marketing": {
+        "skill": [
+          "Pitch Development",
+          "Social Media Outreach",
+          "Email Campaigns"
+        ]
+      },
+      "Campaign Creation": {
+        "skill": [
+          "Page Design",
+          "Reward Structuring",
+          "Storytelling"
+        ]
+      }
+    },
+    "Search Engine Marketing (SEM)": {
+      "Setup & Strategy Consultation": {
+        "skill": [
+          "Account Setup",
+          "Keyword Research",
+          "Budget Planning"
+        ]
+      },
+      "Search Engine Marketing Management": {
+        "skill": [
+          "Campaign Monitoring",
+          "Bid Management",
+          "Performance Optimization"
+        ]
+      },
+      "Shopping Ads": {
+        "skill": [
+          "Product Feed Management",
+          "Google Merchant Center",
+          "Ad Optimization"
+        ]
+      },
+      "Ad Review & Optimization": {
+        "skill": [
+          "A/B Testing",
+          "CTR Improvement",
+          "Quality Score Analysis"
+        ]
+      }
+    },
+    "Display Advertising": {
+      "Campaign Setup & Management": {
+        "skill": [
+          "Ad Design",
+          "Targeting",
+          "Budget Allocation"
+        ]
+      },
+      "Ad Review & Optimization": {
+        "skill": [
+          "Creative Testing",
+          "Placement Analysis",
+          "Performance Tracking"
+        ]
+      },
+      "Retargeting": {
+        "skill": [
+          "Audience Segmentation",
+          "Pixel Setup",
+          "Ad Sequencing"
+        ]
+      },
+      "Native Advertising": {
+        "skill": [
+          "Content Creation",
+          "Platform Integration",
+          "Performance Analysis"
+        ]
+      },
+      "Audio Advertising": {
+        "skill": [
+          "Script Writing",
+          "Ad Placement",
+          "Audience Targeting"
+        ]
+      },
+      "Video Advertising": {
+        "skill": [
+          "Video Ad Creation",
+          "YouTube Ads",
+          "Campaign Optimization"
+        ]
+      }
+    },
+    "Mobile Marketing": {
+      "App Store Optimization": {
+        "skill": [
+          "Keyword Research",
+          "App Title Optimization",
+          "Review Management"
+        ]
+      },
+      "App Marketing": {
+        "skill": [
+          "User Acquisition",
+          "In-App Advertising",
+          "Retention Strategies"
+        ]
+      },
+      "SMS & Push Notifications": {
+        "skill": [
+          "Message Personalization",
+          "Campaign Scheduling",
+          "Analytics"
+        ]
+      }
+    },
+    "Marketing Automation": {
+      "Marketing Automation": {
+        "skill": [
+          "Workflow Creation",
+          "Lead Scoring",
+          "CRM Integration"
+        ]
+      }
+    },
+    "Online Reputation Management": {
+      "Reputation Management": {
+        "skill": [
+          "Review Monitoring",
+          "Response Strategy",
+          "Crisis Management"
+        ]
+      }
+    },
+    "Conversion Rate Optimization": {
+      "Conversion Optimization": {
+        "skill": [
+          "A/B Testing",
+          "Heatmap Analysis",
+          "User Journey Mapping"
+        ]
+      }
+    },
+    "Growth Hacking": {
+      "Growth Hacking": {
+        "skill": [
+          "Viral Marketing",
+          "Experimentation",
+          "Analytics"
+        ]
+      }
+    },
+    "Affiliate Marketing": {
+      "Affiliate Marketing": {
+        "skill": [
+          "Partner Recruitment",
+          "Commission Management",
+          "Performance Tracking"
+        ]
+      }
+    },
+    "Marketing Strategy & Consulting": {
+      "Marketing Strategy & Consulting": {
+        "skill": [
+          "Market Research",
+          "Business Analysis",
+          "Campaign Planning"
+        ]
+      }
+    },
+    "Content Marketing": {
+      "Content Marketing": {
+        "skill": [
+          "Content Planning",
+          "SEO Writing",
+          "Distribution Strategy"
+        ]
+      }
+    }
+  },
+  "Photography": {
+    "Product Photographers": {
+      "E-Commerce Product Photography": {
+        "skill": [
+          "Lighting Setup",
+          "Background Removal",
+          "Image Retouching",
+          "Color Correction"
+        ]
+      },
+      "Studio Product Photography": {
+        "skill": [
+          "Studio Lighting",
+          "Product Styling",
+          "High-Resolution Capture"
+        ]
+      },
+      "Lifestyle Product Photography": {
+        "skill": [
+          "Model Coordination",
+          "Scene Setting",
+          "Natural Lighting"
+        ]
+      },
+      "360-Degree Product Photography": {
+        "skill": [
+          "360 Spin Photography",
+          "Image Stitching",
+          "Turntable Operation"
+        ]
+      }
+    },
+    "Portrait Photographers": {
+      "Studio Portrait Photography": {
+        "skill": [
+          "Portrait Lighting",
+          "Posing Techniques",
+          "Softbox Use"
+        ]
+      },
+      "Outdoor Portrait Photography": {
+        "skill": [
+          "Natural Light Usage",
+          "Reflector Techniques",
+          "Environmental Awareness"
+        ]
+      },
+      "Family Portrait Photography": {
+        "skill": [
+          "Group Posing",
+          "Child Photography",
+          "Photo Composition"
+        ]
+      },
+      "Professional Headshots": {
+        "skill": [
+          "Corporate Style",
+          "Retouching",
+          "Professional Editing"
+        ]
+      },
+      "Pet Portraits": {
+        "skill": [
+          "Animal Handling",
+          "Fast Shutter Speeds",
+          "Patience and Timing"
+        ]
+      }
+    },
+    "Lifestyle & Fashion Photographers": {
+      "Fashion Photography": {
+        "skill": [
+          "Runway Coverage",
+          "Model Directing",
+          "Creative Lighting"
+        ]
+      },
+      "Lifestyle Photography": {
+        "skill": [
+          "Storytelling",
+          "Candid Shots",
+          "Environmental Portraits"
+        ]
+      },
+      "Editorial Photography": {
+        "skill": [
+          "Magazine Style",
+          "Concept Development",
+          "Creative Direction"
+        ]
+      },
+      "Street Style Photography": {
+        "skill": [
+          "Urban Photography",
+          "Spontaneous Shots",
+          "Fashion Trends"
+        ]
+      }
+    },
+    "Real Estate Photographers": {
+      "Residential Real Estate Photography": {
+        "skill": [
+          "Wide-Angle Lens Use",
+          "HDR Imaging",
+          "Interior Lighting"
+        ]
+      },
+      "Commercial Real Estate Photography": {
+        "skill": [
+          "Building Exteriors",
+          "Architectural Details",
+          "Drone Photography"
+        ]
+      },
+      "Architectural Photography": {
+        "skill": [
+          "Perspective Correction",
+          "Detail Focus",
+          "Natural & Artificial Lighting"
+        ]
+      },
+      "Interior Design Photography": {
+        "skill": [
+          "Room Styling",
+          "Lighting Balancing",
+          "Staging Photography"
+        ]
+      }
+    },
+    "Event Photographers": {
+      "Wedding Photography": {
+        "skill": [
+          "Candid Photography",
+          "Portrait Shots",
+          "Low Light Photography"
+        ]
+      },
+      "Corporate Event Photography": {
+        "skill": [
+          "Professional Presentation",
+          "Group Shots",
+          "Event Coverage"
+        ]
+      },
+      "Concert & Live Event Photography": {
+        "skill": [
+          "Fast Shutter Speed",
+          "Low Light Techniques",
+          "Crowd Shots"
+        ]
+      },
+      "Sports Event Photography": {
+        "skill": [
+          "Action Shots",
+          "Tracking Moving Subjects",
+          "Telephoto Lens"
+        ]
+      },
+      "Birthday & Party Photography": {
+        "skill": [
+          "Candid Shots",
+          "Flash Photography",
+          "Group Photos"
+        ]
+      }
+    },
+    "Food Photographers": {
+      "Restaurant Photography": {
+        "skill": [
+          "Food Styling",
+          "Close-up Shots",
+          "Lighting for Food"
+        ]
+      },
+      "Food Styling & Photography": {
+        "skill": [
+          "Prop Selection",
+          "Color Coordination",
+          "Creative Plating"
+        ]
+      },
+      "Product Photography for Food Brands": {
+        "skill": [
+          "Packaging Shots",
+          "Branding Consistency",
+          "Lighting Techniques"
+        ]
+      },
+      "Food Blogging Photography": {
+        "skill": [
+          "Natural Light Use",
+          "Lifestyle Shots",
+          "Recipe Step Photography"
+        ]
+      }
+    },
+    "Scenic Photographers": {
+      "Landscape Photography": {
+        "skill": [
+          "Golden Hour Shooting",
+          "Wide-Angle Photography",
+          "Long Exposure"
+        ]
+      },
+      "Nature Photography": {
+        "skill": [
+          "Wildlife Patience",
+          "Macro Photography",
+          "Natural Habitat"
+        ]
+      },
+      "Travel Photography": {
+        "skill": [
+          "Cultural Sensitivity",
+          "Scenic Composition",
+          "Portable Gear"
+        ]
+      },
+      "Adventure Photography": {
+        "skill": [
+          "Extreme Conditions",
+          "Action Shots",
+          "Safety Awareness"
+        ]
+      }
+    },
+    "Photo Preset Creation": {
+      "Lightroom Presets": {
+        "skill": [
+          "Color Grading",
+          "Batch Processing",
+          "Custom Preset Design"
+        ]
+      },
+      "Photoshop Actions": {
+        "skill": [
+          "Automated Editing",
+          "Layer Management",
+          "Retouching"
+        ]
+      },
+      "Mobile Presets": {
+        "skill": [
+          "Mobile App Editing",
+          "Quick Adjustments",
+          "Filters"
+        ]
+      },
+      "Custom Presets": {
+        "skill": [
+          "Personalized Styles",
+          "Creative Editing",
+          "User Experience"
+        ]
+      }
+    },
+    "Photography Advice": {
+      "Photography Lessons": {
+        "skill": [
+          "Technical Training",
+          "Composition Rules",
+          "Equipment Guidance"
+        ]
+      },
+      "Photography Mentorship": {
+        "skill": [
+          "Career Coaching",
+          "Portfolio Review",
+          "Creative Development"
+        ]
+      }
+    },
+    "Other": {}
   }
 }

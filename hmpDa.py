@@ -51,26 +51,6 @@ for main_cat, sub_cats in data.items():
         f"SELECT LAST_INSERT_ID(), {language_id}, '{sql_escape(main_cat)}', 'Description for {sql_escape(main_cat)}';"
     )
 
-    general_child_url = f"{cat_url}-general"
-    sql_lines.append(
-        f"INSERT INTO categories_children (child_url, child_parent_id) "
-        f"SELECT '{general_child_url}', cat_id FROM categories WHERE cat_url = '{cat_url}';"
-    )
-
-    sql_lines.append(
-        f"INSERT INTO child_cats_meta (child_id, child_parent_id, language_id, child_title, child_desc) "
-        f"SELECT LAST_INSERT_ID(), cat_id, {language_id}, 'General', 'General image for {sql_escape(main_cat)}' "
-        f"FROM categories WHERE cat_url = '{cat_url}';"
-    )
-
-    sql_lines.append(
-        f"INSERT INTO category_images (cat_id, child_id, attr_id, file_name, file_path, uploaded_by, uploaded_at) "
-        f"SELECT cat_id, child_id, 0, 'main_{cat_url}.jpg', '/images/main_{cat_url}.jpg', {uploaded_by}, CURRENT_TIMESTAMP "
-        f"FROM categories_children "
-        f"JOIN categories ON categories.cat_id = categories_children.child_parent_id "
-        f"WHERE categories.cat_url = '{cat_url}' AND categories_children.child_url = '{general_child_url}';"
-    )
-
     for sub_cat, attributes in sub_cats.items():
         child_url = clean_url(sub_cat)
 
