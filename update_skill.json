@@ -6806,82 +6806,819 @@
       }
     }
   },
-
-
   "Music & Audio": {
     "Voice Over": {
-      "Commercial Voice Over": { "skill": ["Adobe Audition", "Microphone Techniques"] },
-      "Narration": { "skill": ["Audacity", "Voice Clarity"] },
-      "Audiobook Voice Over": { "skill": ["Adobe Audition", "Noise Reduction"] },
-      "Character Voices": { "skill": ["Voice Modulation", "Creativity"] },
-      "IVR & Phone Systems": { "skill": ["Clear Diction", "Sound Editing"] },
-      "Podcast Voice Over": { "skill": ["GarageBand", "Dynamic Mic Handling"] },
-      "Explainer Video Voice Over": { "skill": ["Adobe Audition", "Clarity"] },
-      "Animation Voice Over": { "skill": ["Acting Skills", "Audacity"] },
-      "E-Learning Voice Over": { "skill": ["Narration", "Articulation"] },
-      "Video Game Voice Over": { "skill": ["Character Acting", "Recording Techniques"] },
-      "Dubbing & Localization": { "skill": ["Lip Sync", "Multilingual Voice Skills"] },
-      "Childrens Content Voice Over": { "skill": ["Energetic Voice", "Playful Tone"] },
-      "Corporate Voice Over": { "skill": ["Professional Tone", "Adobe Audition"] },
-      "YouTube Voice Over": { "skill": ["Audacity", "Engaging Delivery"] }
+      "Commercial Voice Over": {
+        "skill": [
+          "Adobe Audition",
+          "Microphone Techniques"
+        ]
+      },
+      "Narration": {
+        "skill": [
+          "Audacity",
+          "Voice Clarity"
+        ]
+      },
+      "Audiobook Voice Over": {
+        "skill": [
+          "Adobe Audition",
+          "Noise Reduction"
+        ]
+      },
+      "Character Voices": {
+        "skill": [
+          "Voice Modulation",
+          "Creativity"
+        ]
+      },
+      "IVR & Phone Systems": {
+        "skill": [
+          "Clear Diction",
+          "Sound Editing"
+        ]
+      },
+      "Podcast Voice Over": {
+        "skill": [
+          "GarageBand",
+          "Dynamic Mic Handling"
+        ]
+      },
+      "Explainer Video Voice Over": {
+        "skill": [
+          "Adobe Audition",
+          "Clarity"
+        ]
+      },
+      "Animation Voice Over": {
+        "skill": [
+          "Acting Skills",
+          "Audacity"
+        ]
+      },
+      "E-Learning Voice Over": {
+        "skill": [
+          "Narration",
+          "Articulation"
+        ]
+      },
+      "Video Game Voice Over": {
+        "skill": [
+          "Character Acting",
+          "Recording Techniques"
+        ]
+      },
+      "Dubbing & Localization": {
+        "skill": [
+          "Lip Sync",
+          "Multilingual Voice Skills"
+        ]
+      },
+      "Childrens Content Voice Over": {
+        "skill": [
+          "Energetic Voice",
+          "Playful Tone"
+        ]
+      },
+      "Corporate Voice Over": {
+        "skill": [
+          "Professional Tone",
+          "Adobe Audition"
+        ]
+      },
+      "YouTube Voice Over": {
+        "skill": [
+          "Audacity",
+          "Engaging Delivery"
+        ]
+      }
     },
     "Mixing & Mastering": {
-      "Mixing": { "skill": ["FL Studio", "EQ", "Compression"] },
-      "Mastering": { "skill": ["iZotope Ozone", "Limiter", "Multiband Compression"] },
-      "Dolby Atmos & Immersive Audio": { "skill": ["Logic Pro", "3D Sound Design"] }
+      "Mixing": {
+        "skill": [
+          "FL Studio",
+          "EQ",
+          "Compression"
+        ]
+      },
+      "Mastering": {
+        "skill": [
+          "iZotope Ozone",
+          "Limiter",
+          "Multiband Compression"
+        ]
+      },
+      "Dolby Atmos & Immersive Audio": {
+        "skill": [
+          "Logic Pro",
+          "3D Sound Design"
+        ]
+      }
     },
     "Music Producers": {
-      "Ghost Production": { "skill": ["FL Studio", "Arrangement"] },
-      "Beat Making": { "skill": ["Ableton Live", "Sampling"] },
-      "Backing Tracks": { "skill": ["Logic Pro", "Instrumental Production"] },
-      "Remixing": { "skill": ["Stem Separation", "DAWs"] }
+      "Ghost Production": {
+        "skill": [
+          "FL Studio",
+          "Arrangement"
+        ]
+      },
+      "Beat Making": {
+        "skill": [
+          "Ableton Live",
+          "Sampling"
+        ]
+      },
+      "Backing Tracks": {
+        "skill": [
+          "Logic Pro",
+          "Instrumental Production"
+        ]
+      },
+      "Remixing": {
+        "skill": [
+          "Stem Separation",
+          "DAWs"
+        ]
+      }
     },
     "Composers": {
-      "Film & Soundtrack Composers": { "skill": ["Orchestration", "DAWs"] },
-      "Game Composers": { "skill": ["Looping Music", "Unity Integration"] },
-      "Musical Theater Composers": { "skill": ["Sheet Music", "Lyrics Writing"] },
-      "Music Arrangement": { "skill": ["Music Theory", "Digital Notation"] }
+      "Film & Soundtrack Composers": {
+        "skill": [
+          "Orchestration",
+          "DAWs"
+        ]
+      },
+      "Game Composers": {
+        "skill": [
+          "Looping Music",
+          "Unity Integration"
+        ]
+      },
+      "Musical Theater Composers": {
+        "skill": [
+          "Sheet Music",
+          "Lyrics Writing"
+        ]
+      },
+      "Music Arrangement": {
+        "skill": [
+          "Music Theory",
+          "Digital Notation"
+        ]
+      }
     },
     "Singers & Vocalists": {
-      "Male Singers": { "skill": ["Vocal Range", "Mic Control"] },
-      "Female Singers": { "skill": ["Harmony", "Studio Recording"] },
-      "Gender Neutral Singers": { "skill": ["Tone Modulation", "Voice Versatility"] },
-      "Choir & Gospel Singers": { "skill": ["Group Singing", "Breathing Technique"] }
-    }
-    ,
-
-
+      "Male Singers": {
+        "skill": [
+          "Vocal Range",
+          "Mic Control"
+        ]
+      },
+      "Female Singers": {
+        "skill": [
+          "Harmony",
+          "Studio Recording"
+        ]
+      },
+      "Gender Neutral Singers": {
+        "skill": [
+          "Tone Modulation",
+          "Voice Versatility"
+        ]
+      },
+      "Choir & Gospel Singers": {
+        "skill": [
+          "Group Singing",
+          "Breathing Technique"
+        ]
+      }
+    },
     "Songwriters": {
-      "Lyricists": { "skill": ["Creative Writing", "Rhyme Schemes"] },
-      "Topliners": { "skill": ["Melody Creation", "Vocal Arrangement"] },
-      "Jingle Writers": { "skill": ["Catchy Hooks", "Brand Messaging"] },
-      "Song Structure Experts": { "skill": ["Verse-Chorus Structure", "Bridge Writing"] }
+      "Lyricists": {
+        "skill": [
+          "Creative Writing",
+          "Rhyme Schemes"
+        ]
+      },
+      "Topliners": {
+        "skill": [
+          "Melody Creation",
+          "Vocal Arrangement"
+        ]
+      },
+      "Jingle Writers": {
+        "skill": [
+          "Catchy Hooks",
+          "Brand Messaging"
+        ]
+      },
+      "Song Structure Experts": {
+        "skill": [
+          "Verse-Chorus Structure",
+          "Bridge Writing"
+        ]
+      }
     },
     "Audio Editing": {
-      "Podcast Editing": { "skill": ["Audacity", "Noise Reduction"] },
-      "Music Editing": { "skill": ["FL Studio", "Timing Adjustments"] },
-      "Sound Design": { "skill": ["SFX Creation", "Field Recording"] },
-      "Audio Restoration": { "skill": ["Click Removal", "Noise Reduction"] }
+      "Podcast Editing": {
+        "skill": [
+          "Audacity",
+          "Noise Reduction"
+        ]
+      },
+      "Music Editing": {
+        "skill": [
+          "FL Studio",
+          "Timing Adjustments"
+        ]
+      },
+      "Sound Design": {
+        "skill": [
+          "SFX Creation",
+          "Field Recording"
+        ]
+      },
+      "Audio Restoration": {
+        "skill": [
+          "Click Removal",
+          "Noise Reduction"
+        ]
+      }
     },
     "Sound Effects": {
-      "Foley Artists": { "skill": ["Sound Recording", "SFX Creation"] },
-      "SFX Libraries": { "skill": ["Sound Cataloging", "Editing"] },
-      "Custom Sound Effects": { "skill": ["Field Recording", "Audio Editing"] }
+      "Foley Artists": {
+        "skill": [
+          "Sound Recording",
+          "SFX Creation"
+        ]
+      },
+      "SFX Libraries": {
+        "skill": [
+          "Sound Cataloging",
+          "Editing"
+        ]
+      },
+      "Custom Sound Effects": {
+        "skill": [
+          "Field Recording",
+          "Audio Editing"
+        ]
+      }
     },
     "Music Lessons": {
-      "Instrument Lessons": { "skill": ["Guitar", "Piano", "Drums"] },
-      "Vocal Lessons": { "skill": ["Breathing Techniques", "Pitch Control"] },
-      "Music Theory Lessons": { "skill": ["Chord Progressions", "Scales"] },
-      "Songwriting Lessons": { "skill": ["Lyric Writing", "Melody Creation"] }
+      "Instrument Lessons": {
+        "skill": [
+          "Guitar",
+          "Piano",
+          "Drums"
+        ]
+      },
+      "Vocal Lessons": {
+        "skill": [
+          "Breathing Techniques",
+          "Pitch Control"
+        ]
+      },
+      "Music Theory Lessons": {
+        "skill": [
+          "Chord Progressions",
+          "Scales"
+        ]
+      },
+      "Songwriting Lessons": {
+        "skill": [
+          "Lyric Writing",
+          "Melody Creation"
+        ]
+      }
     },
     "Music Advice": {
-      "Music Production Consultation": { "skill": ["DAW Setup", "Production Techniques"] },
-      "Music Career Coaching": { "skill": ["Branding", "Marketing Strategies"] },
-      "Music Industry Insights": { "skill": ["Trends", "Networking"] }
+      "Music Production Consultation": {
+        "skill": [
+          "DAW Setup",
+          "Production Techniques"
+        ]
+      },
+      "Music Career Coaching": {
+        "skill": [
+          "Branding",
+          "Marketing Strategies"
+        ]
+      },
+      "Music Industry Insights": {
+        "skill": [
+          "Trends",
+          "Networking"
+        ]
+      }
+    }
+  },
+
+
+
+  "Data & Info": {
+    "Data Entry": {
+      "Data Entry": {
+        "skill": ["Excel", "Google Sheets", "Data Validation"]
+      },
+      "Data Cleansing": {
+        "skill": ["Data Normalization", "Error Checking", "Duplicate Removal"]
+      },
+      "Data Mining": {
+        "skill": ["Web Scraping", "Database Queries", "Pattern Recognition"]
+      },
+      "Data Conversion": {
+        "skill": ["PDF to Excel", "CSV Formatting", "File Format Conversion"]
+      },
+      "Data Analysis": {
+        "skill": ["Statistical Analysis", "Trend Analysis", "Data Visualization"]
+      }
+    },
+    "Data Visualization": {
+      "Data Visualization": {
+        "skill": ["Tableau", "Power BI", "Infographic Design"]
+      },
+      "Dashboard Creation": {
+        "skill": ["KPI Tracking", "Interactive Dashboards", "Real-time Data"]
+      },
+      "Chart & Graph Design": {
+        "skill": ["Bar Charts", "Pie Charts", "Line Graphs"]
+      },
+      "Geospatial Analysis": {
+        "skill": ["GIS Mapping", "Spatial Data Analysis", "Heat Maps"]
+      }
+    },
+    "Data Analysis": {
+      "Statistical Analysis": {
+        "skill": ["SPSS", "R Programming", "Hypothesis Testing"]
+      },
+      "Predictive Analytics": {
+        "skill": ["Machine Learning", "Regression Analysis", "Forecasting"]
+      },
+      "Market Research Analysis": {
+        "skill": ["Survey Analysis", "Consumer Insights", "Competitor Analysis"]
+      },
+      "Business Intelligence": {
+        "skill": ["Data Warehousing", "ETL Processes", "BI Tools"]
+      }
+    },
+    "Data Management": {
+      "Database Management": {
+        "skill": ["SQL", "NoSQL", "Database Design"]
+      },
+      "Data Governance": {
+        "skill": ["Data Quality", "Compliance", "Data Security"]
+      },
+      "Big Data Solutions": {
+        "skill": ["Hadoop", "Spark", "Data Lakes"]
+      },
+      "Cloud Data Management": {
+        "skill": ["AWS", "Azure", "Google Cloud"]
+      }
+    },
+    "Data Science": {
+      "Machine Learning": {
+        "skill": ["Python", "TensorFlow", "Scikit-learn"]
+      },
+      "Deep Learning": {
+        "skill": ["Neural Networks", "Keras", "PyTorch"]
+      },
+      "Natural Language Processing": {
+        "skill": ["Text Analysis", "Sentiment Analysis", "Chatbot Development"]
+      },
+      "Computer Vision": {
+        "skill": ["Image Recognition", "Object Detection", "OpenCV"]
+      }
+    },
+    "Data Entry & Processing": {
+      "Data Entry & Processing": {
+        "skill": ["Excel", "Google Sheets", "Data Validation"]
+      },
+      "Data Cleansing & Formatting": {
+        "skill": ["Data Normalization", "Error Checking", "Duplicate Removal"]
+      },
+      "Data Mining & Extraction": {
+        "skill": ["Web Scraping", "Database Queries", "Pattern Recognition"]
+      },
+      "Data Conversion & Transformation": {
+        "skill": ["PDF to Excel", "CSV Formatting", "File Format Conversion"]
+      }
+    },
+    "Data Entry Advice": {
+      "Data Entry Consultation": {
+        "skill": ["Process Optimization", "Efficiency Improvement", "Best Practices"]
+      },
+      "Data Management Training": {
+        "skill": ["Data Governance", "Database Management", "Data Security"]
+      },
+      "Data Analysis Guidance": {
+        "skill": ["Statistical Methods", "Predictive Analytics", "Market Research"]
+      }
+    }
+  
+
+
+  },
+
+
+  "Business": {
+    "Business Plans": {
+      "Business Plan Writing": {
+        "skill": ["Market Research", "Financial Projections", "Executive Summaries"]
+      },
+      "Pitch Deck Creation": {
+        "skill": ["PowerPoint Design", "Storytelling", "Visual Communication"]
+      },
+      "Feasibility Studies": {
+        "skill": ["Market Viability", "Risk Assessment", "Cost-Benefit Analysis"]
+      }
+    },
+    "Market Research": {
+      "Market Analysis": {
+        "skill": ["Industry Trends", "Competitive Analysis", "Consumer Behavior"]
+      },
+      "Surveys & Questionnaires": {
+        "skill": ["Survey Design", "Data Collection", "Statistical Analysis"]
+      },
+      "Focus Groups": {
+        "skill": ["Group Facilitation", "Qualitative Research", "Data Interpretation"]
+      }
+    },
+    "Business Consulting": {
+      "Business Strategy Consulting": {
+        "skill": ["Strategic Planning", "Operational Efficiency", "Change Management"]
+      },
+      "Financial Consulting": {
+        "skill": ["Budgeting", "Financial Forecasting", "Investment Analysis"]
+      },
+      "HR Consulting": {
+        "skill": ["Talent Acquisition", "Employee Engagement", "Performance Management"]
+      }
+    },
+    "Legal Services": {
+      "Contract Drafting & Review": {
+        "skill": ["Legal Writing", "Contract Law", "Negotiation Skills"]
+      },
+      "Intellectual Property Services": {
+        "skill": ["Trademark Registration", "Patent Filing"]
+      },
+      "Business Compliance": {
+        "skill": ["Regulatory Compliance", "Policy Development", "Risk Management"]
+      }
+    },
+    "Finance": {
+      "Accounting & Bookkeeping": {
+        "skill": ["QuickBooks", "Financial Reporting", "Tax Preparation"]
+      },
+      "Financial Analysis": {
+        "skill": ["Data Analysis", "Financial Modeling", "Investment Strategies"]
+      },
+      "Payroll Services": {
+        "skill": ["Payroll Processing", "Tax Compliance", "Employee Benefits Management"]
+      }
+    },
+    "Sales & Marketing": {
+      "Sales Strategy Development": {
+        "skill": ["Lead Generation", "Sales Funnel Optimization", "CRM Management"]
+      },
+      "Digital Marketing Consulting": {
+        "skill": ["SEO", "Social Media Strategy", "Content Marketing"]
+      },
+      "Brand Development": {
+        "skill": ["Brand Identity Creation", "Market Positioning", "Visual Branding"]
+      }
+    },
+    "Project Management": {
+      "Project Planning & Execution": {
+        "skill": ["Project Scheduling", "Resource Allocation", "Risk Management"]
+      },
+      "Agile Project Management": {
+        "skill": ["Scrum Methodology", "Kanban Boards", "Sprint Planning"]
+      },
+      "Change Management": {
+        "skill": ["Stakeholder Engagement", "Communication Plans", "Training Programs"]
+      }
+    },
+    "Training & Development": {
+      "Corporate Training Programs": {
+        "skill": ["Curriculum Development", "Training Delivery", "Evaluation Methods"]
+      },
+      "Leadership Development": {
+        "skill": ["Coaching", "Mentoring", "Team Building"]
+      },
+      "Soft Skills Training": {
+        "skill": ["Communication Skills", "Conflict Resolution", "Time Management"]
+      }
+    },
+    "Business Advice": {
+      "Business Strategy Consultation": {
+        "skill": ["Strategic Planning", "Market Analysis", "Operational Efficiency"]
+      },
+      "Financial Advisory": {
+        "skill": ["Investment Strategies", "Financial Planning", "Risk Management"]
+      },
+      "Marketing Strategy Consultation": {
+        "skill": ["Brand Development", "Digital Marketing", "Content Strategy"]
+      }
+    },
+    "Business Coaching": {
+      "Business Coaching": {
+        "skill": ["Goal Setting", "Strategic Planning", "Performance Improvement"]
+      },
+      "Executive Coaching": {
+        "skill": ["Leadership Development", "Decision Making", "Conflict Resolution"]
+      },
+      "Startup Mentorship": {
+        "skill": ["Business Model Development", "Funding Strategies", "Market Entry"]
+      }
     }
 
-  }
+  },
 
+
+
+  "Personal Growth": {
+    "Life Coaching": {
+      "Life Coaching": {
+        "skill": ["Goal Setting", "Motivational Techniques", "Personal Development"]
+      },
+      "Personal Development Coaching": {
+        "skill": ["Self-Discovery", "Confidence Building", "Life Balance"]
+      },
+
+      "Goal Setting & Achievement": {
+        "skill": ["SMART Goals", "Action Planning", "Accountability"]
+      },
+      "Motivational Coaching": {
+        "skill": ["Inspiration Techniques", "Positive Mindset", "Overcoming Obstacles"]
+      }
+    },
+    "Health & Wellness Coaching": {
+      "Health & Wellness Coaching": {
+        "skill": ["Nutrition Guidance", "Fitness Planning", "Lifestyle Changes"]
+      },
+      "Nutrition Coaching": {
+        "skill": ["Meal Planning", "Dietary Advice", "Healthy Eating Habits"]
+      },
+      "Fitness Coaching": {
+        "skill": ["Exercise Programs", "Personal Training", "Fitness Assessments"]
+      },
+      "Stress Management Coaching": {
+        "skill": ["Relaxation Techniques", "Mindfulness Practices", "Time Management"]
+      }
+    },
+    "Career Coaching": {
+      "Career Coaching": {
+        "skill": ["Resume Writing", "Interview Preparation", "Job Search Strategies"]
+      },
+      "Resume Writing & Review": {
+        "skill": ["CV Formatting", "Keyword Optimization", "Professional Branding"]
+      },
+      "Interview Preparation": {
+        "skill": ["Mock Interviews", "Answering Techniques", "Body Language"]
+      },
+      "Job Search Strategies": {
+        "skill": ["Networking", "Online Job Portals", "Personal Branding"]
+      }
+    },
+    "Personal Finance Coaching": {
+      "Personal Finance Coaching": {
+        "skill": ["Budgeting", "Debt Management", "Savings Strategies"]
+      },
+      "Budgeting & Money Management": {
+        "skill": ["Expense Tracking", "Financial Planning", "Cash Flow Management"]
+      },
+      "Debt Reduction Strategies": {
+        "skill": ["Debt Snowball Method", "Negotiation Skills", "Credit Counseling"]
+      },
+      "Investment Guidance": {
+        "skill": ["Stock Market Basics", "Retirement Planning", "Wealth Building"]
+      }
+    },
+    "Relationship Coaching": {
+      "Relationship Coaching": {
+        "skill": ["Communication Skills", "Conflict Resolution", "Intimacy Building"]
+      },
+      "Couples Counseling": {
+        "skill": ["Relationship Dynamics", "Emotional Intelligence", "Trust Building"]
+      },
+      "Family Coaching": {
+        "skill": ["Family Dynamics", "Parenting Strategies", "Conflict Mediation"]
+      },
+      "Dating Coaching": {
+        "skill": ["Dating Strategies", "Online Dating Tips", "Building Connections"]
+      }
+    },
+    "Mindfulness & Meditation Coaching": {
+      "Mindfulness & Meditation Coaching": {
+        "skill": ["Meditation Techniques", "Mindfulness Practices", "Stress Reduction"]
+      },
+      "Stress Reduction Techniques": {
+        "skill": ["Breathing Exercises", "Relaxation Techniques", "Time Management"]
+      },
+      "Mindfulness Practices": {
+        "skill": ["Mindful Living", "Gratitude Practices", "Self-Awareness"]
+      },
+      "Meditation Techniques": {
+        "skill": ["Guided Meditation", "Visualization", "Body Scan"]
+      }
+    },
+    "Public Speaking Coaching": {
+      "Public Speaking Coaching": {
+        "skill": ["Speech Writing", "Presentation Skills", "Confidence Building"]
+      },
+      "Presentation Skills Training": {
+        "skill": ["Visual Aids", "Body Language", "Audience Engagement"]
+      },
+      "Speech Writing & Delivery": {
+        "skill": ["Content Structuring", "Vocal Techniques", "Timing and Pacing"]
+      },
+      "Confidence Building for Public Speaking": {
+        "skill": ["Overcoming Fear", "Positive Visualization", "Practice Techniques"]
+      }
+    },
+    "Personal Branding": {
+      "Personal Branding": {
+        "skill": ["Brand Identity", "Online Presence", "Networking"]
+      },
+      "Online Presence Development": {
+        "skill": ["Social Media Strategy", "Website Creation", "Content Marketing"]
+      },
+      "Networking Strategies": {
+        "skill": ["Building Connections", "Professional Networking", "Event Participation"]
+      },
+      "Brand Identity Creation": {
+        "skill": ["Logo Design", "Brand Messaging", "Visual Branding"]
+      }
+    },
+    "Personal Growth Coaching": {
+      "Personal Growth Coaching": {
+        "skill": ["Self-Discovery", "Goal Setting", "Life Balance"]
+      },
+      "Self-Discovery & Awareness": {
+        "skill": ["Journaling", "Personality Assessments", "Values Clarification"]
+      },
+      "Goal Setting & Achievement": {
+        "skill": ["SMART Goals", "Action Planning", "Accountability"]
+      },
+      "Life Balance & Time Management": {
+        "skill": ["Prioritization", "Work-Life Balance", "Productivity Techniques"]
+      }
+    },
+    "Personal Growth Advice": {
+      "Personal Growth Consultation": {
+        "skill": ["Goal Setting", "Life Balance", "Self-Discovery"]
+      },
+      "Career Development Guidance": {
+        "skill": ["Resume Writing", "Interview Preparation", "Job Search Strategies"]
+      },
+      "Health & Wellness Advice": {
+        "skill": ["Nutrition Guidance", "Fitness Planning", "Stress Management"]
+      },
+      "Relationship Guidance": {
+        "skill": ["Communication Skills", "Conflict Resolution", "Intimacy Building"]
+      }
+    }
+
+  
+  },
+
+  "Finance": {
+    "Financial Planning": {
+      "Personal Financial Planning": {
+        "skill": ["Budgeting", "Savings Plans", "Investment Strategies"]
+      },
+      "Retirement Planning": {
+        "skill": ["Pension Plans", "401(k) Management", "Social Security Optimization"]
+      },
+      "Estate Planning": {
+        "skill": ["Wills", "Trusts", "Asset Distribution"]
+      },
+      "Tax Planning": {
+        "skill": ["Tax Deductions", "Tax Credits", "Filing Strategies"]
+      }
+    },
+    "Investment Advice": {
+      "Stock Market Investing": {
+        "skill": ["Stock Analysis", "Portfolio Management", "Trading Strategies"]
+      },
+      "Real Estate Investing": {
+        "skill": ["Property Valuation", "Rental Income Strategies", "Market Trends"]
+      },
+      "Cryptocurrency Investing": {
+        "skill": ["Blockchain Technology", "Crypto Trading", "Risk Management"]
+      },
+      "Mutual Funds & ETFs": {
+        "skill": ["Fund Analysis", "Diversification Strategies", "Expense Ratios"]
+      }
+    },
+    "Accounting & Bookkeeping": {
+      "Small Business Accounting": {
+        "skill": ["QuickBooks", "Xero", "Financial Reporting"]
+      },
+      "Tax Preparation & Filing": {
+        "skill": ["IRS Regulations", "Tax Software", "Deductions and Credits"]
+      },
+      "Payroll Services": {
+        "skill": ["Payroll Processing", "Employee Benefits Management", "Compliance"]
+      },
+      "Financial Reporting & Analysis": {
+        "skill": ["Balance Sheets", "Income Statements", "Cash Flow Analysis"]
+      }
+    },
+    "Financial Consulting": {
+      "Business Financial Consulting": {
+        "skill": ["Financial Modeling", "Cost Reduction Strategies", "Profitability Analysis"]
+      },
+      "Debt Management Consulting": {
+        "skill": ["Debt Consolidation", "Credit Counseling", "Repayment Plans"]
+      },
+      "Risk Management Consulting": {
+        "skill": ["Risk Assessment", "Insurance Solutions", "Crisis Management"]
+      }
+    },
+    "Financial Education": {
+      "Financial Literacy Training": {
+        "skill": ["Budgeting Basics", "Saving Strategies", "Investment Fundamentals"]
+      },
+      "Investment Education": {
+        "skill": ["Stock Market Basics", "Real Estate Investing", "Crypto Basics"]
+      },
+      "Retirement Planning Education": {
+        "skill": ["Pension Plans", "401(k) Basics", "Social Security"]
+      }
+    },
+    "Financial Advice": {
+      "Personal Finance Advice": {
+        "skill": ["Budgeting", "Debt Management", "Savings Strategies"]
+      },
+      "Investment Advice": {
+        "skill": ["Stock Market", "Real Estate", "Cryptocurrency"]
+      },
+      "Retirement Planning Advice": {
+        "skill": ["Pension Plans", "401(k)", "Social Security"]
+      },
+      "Tax Planning Advice": {
+        "skill": ["Tax Deductions", "Tax Credits", "Filing Strategies"]
+      }
+    },
+    "Financial Coaching": {
+      "Financial Coaching": {
+        "skill": ["Goal Setting", "Budgeting", "Debt Reduction"]
+      },
+      "Investment Coaching": {
+        "skill": ["Portfolio Management", "Risk Assessment", "Market Analysis"]
+      },
+      "Retirement Coaching": {
+        "skill": ["Pension Planning", "401(k) Strategies", "Social Security Optimization"]
+      },
+      "Tax Coaching": {
+        "skill": ["Tax Deductions", "Filing Strategies", "Tax Credits"]
+      }
+    },
+    "Financial Planning Advice": {
+      "Financial Planning Consultation": {
+        "skill": ["Budgeting", "Investment Strategies", "Retirement Planning"]
+      },
+      "Investment Strategy Consultation": {
+        "skill": ["Stock Market Analysis", "Real Estate Investment", "Crypto Trading"]
+      },
+      "Tax Planning Consultation": {
+        "skill": ["Tax Deductions", "Filing Strategies", "Tax Credits"]
+      },
+      "Debt Management Consultation": {
+        "skill": ["Debt Consolidation", "Credit Counseling", "Repayment Plans"]
+      }
+    },
+    "Financial Analysis": {
+      "Financial Analysis": {
+        "skill": ["Data Analysis", "Financial Modeling", "Market Research"]
+      },
+      "Investment Analysis": {
+        "skill": ["Stock Valuation", "Risk Assessment", "Portfolio Optimization"]
+      },
+      "Market Research Analysis": {
+        "skill": ["Industry Trends", "Consumer Behavior", "Competitive Analysis"]
+      },
+      "Business Performance Analysis": {
+        "skill": ["KPI Tracking", "Financial Ratios", "Profitability Analysis"]
+      }
+    },
+    "Financial Management": {
+      "Financial Management": {
+        "skill": ["Budgeting", "Cash Flow Management", "Financial Reporting"]
+      },
+      "Cash Flow Management": {
+        "skill": ["Cash Flow Forecasting", "Expense Tracking", "Revenue Analysis"]
+      },
+      "Budgeting & Forecasting": {
+        "skill": ["Budget Creation", "Variance Analysis", "Financial Projections"]
+      },
+      "Financial Reporting & Compliance": {
+        "skill": ["Regulatory Compliance", "Financial Statements", "Audit Preparation"]
+      }
+    }
+  }
 
 
 
